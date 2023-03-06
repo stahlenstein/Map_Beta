@@ -1,0 +1,2183 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_19" id="Route_19">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_19</name>
+  <Placemark>
+	<name>2 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1831298994</SimpleData>
+		<SimpleData name="Account Number">003098</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151009418,34.168853979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1831303744</SimpleData>
+		<SimpleData name="Account Number">003099</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151471671,34.168658641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1831304740</SimpleData>
+		<SimpleData name="Account Number">003100</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151695749,34.168359151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1831303735</SimpleData>
+		<SimpleData name="Account Number">003102</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151702208,34.168376288,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1831304444</SimpleData>
+		<SimpleData name="Account Number">003103</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151857637,34.168444141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1850389403</SimpleData>
+		<SimpleData name="Account Number">003104</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152010482,34.16828013,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1831299010</SimpleData>
+		<SimpleData name="Account Number">003105</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152147104,34.167681949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1430082060</SimpleData>
+		<SimpleData name="Account Number">003106</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152363316,34.167550352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1852378469</SimpleData>
+		<SimpleData name="Account Number">003106</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152499273,34.167270182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1831309136</SimpleData>
+		<SimpleData name="Account Number">003107</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152397278,34.16713266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1831305652</SimpleData>
+		<SimpleData name="Account Number">003108</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152439417,34.166995402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 SILVERMONT DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1850412494</SimpleData>
+		<SimpleData name="Account Number">111993</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152485084,34.167293241,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1831309132</SimpleData>
+		<SimpleData name="Account Number">003109</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15265715,34.166891786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1831297963</SimpleData>
+		<SimpleData name="Account Number">003110</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152808232,34.166608175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1831311192</SimpleData>
+		<SimpleData name="Account Number">003111</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152668022,34.166520133,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1831309644</SimpleData>
+		<SimpleData name="Account Number">003112</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152883311,34.165872139,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1831296105</SimpleData>
+		<SimpleData name="Account Number">003113</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153021163,34.165771173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 SILVERMONT DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1831299061</SimpleData>
+		<SimpleData name="Account Number">003114</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152883286,34.165670196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1831318537</SimpleData>
+		<SimpleData name="Account Number">003115</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153059046,34.165524279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1831304797</SimpleData>
+		<SimpleData name="Account Number">003116</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152865872,34.165301898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1450112092</SimpleData>
+		<SimpleData name="Account Number">003117</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15291003,34.165069237,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1831319929</SimpleData>
+		<SimpleData name="Account Number">003118</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153099129,34.164659869,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1831319412</SimpleData>
+		<SimpleData name="Account Number">003120</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153244843,34.164470006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1490141668</SimpleData>
+		<SimpleData name="Account Number">003119</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153411006,34.164531418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1850391107</SimpleData>
+		<SimpleData name="Account Number">003121</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15362426,34.164264728,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 SILVERMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1831308675</SimpleData>
+		<SimpleData name="Account Number">003122</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154302132,34.164326041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 SILVERMONT DRIVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1831304738</SimpleData>
+		<SimpleData name="Account Number">108117</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15402467,34.164198249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 FAITH DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1830505632</SimpleData>
+		<SimpleData name="Account Number">003123</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151531893,34.16761811,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 FAITH DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1482013484</SimpleData>
+		<SimpleData name="Account Number">003124</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151363462,34.167822621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>965 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1831305624</SimpleData>
+		<SimpleData name="Account Number">003125</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150741707,34.169354813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>956 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1831305636</SimpleData>
+		<SimpleData name="Account Number">003126</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150995901,34.169465365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>945 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1490995018</SimpleData>
+		<SimpleData name="Account Number">003127</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150931611,34.169787247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>936 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1831305709</SimpleData>
+		<SimpleData name="Account Number">003128</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1512448,34.1698801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>914 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1831490776</SimpleData>
+		<SimpleData name="Account Number">003129</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151505694,34.170140213,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>912 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1831304799</SimpleData>
+		<SimpleData name="Account Number">003130</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151771858,34.170442702,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1831302068</SimpleData>
+		<SimpleData name="Account Number">003131</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151519158,34.170748979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1831304813</SimpleData>
+		<SimpleData name="Account Number">003132</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151165555,34.170601876,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 THOMPSON RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1831302000</SimpleData>
+		<SimpleData name="Account Number">003133</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149488581,34.170637448,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 THOMPSON RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1831304796</SimpleData>
+		<SimpleData name="Account Number">003135</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148357863,34.170568175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 THOMPSON RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1852382295</SimpleData>
+		<SimpleData name="Account Number">003135</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148428976,34.170597413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78 THOMPSON RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1831301992</SimpleData>
+		<SimpleData name="Account Number">003137</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14830914,34.170590338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69 THOMPSON RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1490191438</SimpleData>
+		<SimpleData name="Account Number">003136</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14835869,34.170630623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1831304735</SimpleData>
+		<SimpleData name="Account Number">003140</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150667836,34.17100854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1831304736</SimpleData>
+		<SimpleData name="Account Number">003139</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150569388,34.171009613,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1490223858</SimpleData>
+		<SimpleData name="Account Number">003141</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150605016,34.171283175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1831304802</SimpleData>
+		<SimpleData name="Account Number">003142</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150426362,34.171470914,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1831302056</SimpleData>
+		<SimpleData name="Account Number">003144</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150308187,34.171731251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1831135678</SimpleData>
+		<SimpleData name="Account Number">003145</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150095145,34.17213085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1490988786</SimpleData>
+		<SimpleData name="Account Number">003148</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149780251,34.172556686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>116 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1852335041</SimpleData>
+		<SimpleData name="Account Number">003149</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14964654,34.172800478,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>144 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1831136037</SimpleData>
+		<SimpleData name="Account Number">003151</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149317743,34.173681359,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>150 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1831131971</SimpleData>
+		<SimpleData name="Account Number">003152</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149190705,34.173746995,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204 PREACHER SMITH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1490170014</SimpleData>
+		<SimpleData name="Account Number">100359</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148916632,34.174832134,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4132 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1832348983</SimpleData>
+		<SimpleData name="Account Number">003157</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148472038,34.176000794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4024 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1831302051</SimpleData>
+		<SimpleData name="Account Number">003158</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148949004,34.177370623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4050 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1831302076</SimpleData>
+		<SimpleData name="Account Number">003159</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149184868,34.177540508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3958 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1831305150</SimpleData>
+		<SimpleData name="Account Number">003160</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150042229,34.179386492,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3890 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1831453974</SimpleData>
+		<SimpleData name="Account Number">003161</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150976242,34.180988941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3890 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1831301902</SimpleData>
+		<SimpleData name="Account Number">003162</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151010249,34.181047327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3862 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1831296738</SimpleData>
+		<SimpleData name="Account Number">003163</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151368527,34.181802845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3861 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1831304458</SimpleData>
+		<SimpleData name="Account Number">003164</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151180318,34.182070889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3843 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1831303748</SimpleData>
+		<SimpleData name="Account Number">003166</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151422326,34.182501327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3860 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1831304790</SimpleData>
+		<SimpleData name="Account Number">003167</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151832378,34.182614925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3820 ROCKMART HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1831318099</SimpleData>
+		<SimpleData name="Account Number">107850</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151830694,34.1826167,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 ISBELL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1832236358</SimpleData>
+		<SimpleData name="Account Number">003168</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151681742,34.183127088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 ISBELL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1491283142</SimpleData>
+		<SimpleData name="Account Number">003169</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151659812,34.183112294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3794 NEW ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1831299291</SimpleData>
+		<SimpleData name="Account Number">003179</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152410774,34.183559438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 ISBELL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1831318779</SimpleData>
+		<SimpleData name="Account Number">003172</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152153548,34.183918987,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3755 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1831302010</SimpleData>
+		<SimpleData name="Account Number">003173</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152534322,34.184558153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3763 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1105125000</SimpleData>
+		<SimpleData name="Account Number">003174</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152514952,34.184489656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3744 ROCKMART RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1831303997</SimpleData>
+		<SimpleData name="Account Number">003175</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152929253,34.184531392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1831301955</SimpleData>
+		<SimpleData name="Account Number">108462</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152061577,34.170657861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1831301953</SimpleData>
+		<SimpleData name="Account Number">101373</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153745705,34.170239142,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1831309457</SimpleData>
+		<SimpleData name="Account Number">101374</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154393633,34.169970805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1831309460</SimpleData>
+		<SimpleData name="Account Number">101376</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154693317,34.169862467,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>90 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1105280948</SimpleData>
+		<SimpleData name="Account Number">101377</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15470883,34.169858123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1834539882</SimpleData>
+		<SimpleData name="Account Number">110237</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154968854,34.169595767,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1410170302</SimpleData>
+		<SimpleData name="Account Number">109907</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154974484,34.1696018,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>135 DEVONWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1852386723</SimpleData>
+		<SimpleData name="Account Number">003187</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155788286,34.168868538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>135 DEVONWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1852488992</SimpleData>
+		<SimpleData name="Account Number">003187</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155788216,34.16886757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>137 DEVONWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1831301974</SimpleData>
+		<SimpleData name="Account Number">003188</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155790919,34.168864081,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143 DEVONWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1831319293</SimpleData>
+		<SimpleData name="Account Number">003189</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156103812,34.168805334,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143 DEVONWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1852385380</SimpleData>
+		<SimpleData name="Account Number">003189</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156104856,34.16880496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>142 DEVONWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1831302453</SimpleData>
+		<SimpleData name="Account Number">100674</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156111823,34.168808279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 HANNAH CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1834541483</SimpleData>
+		<SimpleData name="Account Number">003190</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155889496,34.169618344,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 HANNAH CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1831299276</SimpleData>
+		<SimpleData name="Account Number">003191</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15581632,34.169900198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 HANNAH CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1471005068</SimpleData>
+		<SimpleData name="Account Number">003192</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155830305,34.169885817,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 HANNAH CT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1831318097</SimpleData>
+		<SimpleData name="Account Number">015575</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156090829,34.170189601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 HANNAH CT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1470807156</SimpleData>
+		<SimpleData name="Account Number">015574</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156092754,34.170186745,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>873 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1850609704</SimpleData>
+		<SimpleData name="Account Number">003193</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152469968,34.171182385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>880 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1832597852</SimpleData>
+		<SimpleData name="Account Number">003194</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152563278,34.171043891,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>856 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1490542234</SimpleData>
+		<SimpleData name="Account Number">003196</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153038704,34.171396413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>849 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1471919414</SimpleData>
+		<SimpleData name="Account Number">003197</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153122193,34.171670428,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>846 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1831306063</SimpleData>
+		<SimpleData name="Account Number">003198</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153434528,34.171680406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>829 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1490133822</SimpleData>
+		<SimpleData name="Account Number">003200</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153822689,34.172158787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>794 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1831309094</SimpleData>
+		<SimpleData name="Account Number">003202</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154667003,34.172434599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>791 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1831309430</SimpleData>
+		<SimpleData name="Account Number">003203</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154646523,34.172604014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>655 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1831309088</SimpleData>
+		<SimpleData name="Account Number">003207</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158115656,34.174653595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>648 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1831308595</SimpleData>
+		<SimpleData name="Account Number">003208</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158530653,34.174654981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>640 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1490119578</SimpleData>
+		<SimpleData name="Account Number">003209</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158622909,34.174682754,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>645 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1831077104</SimpleData>
+		<SimpleData name="Account Number">003210</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158640847,34.174790456,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>628 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1831311170</SimpleData>
+		<SimpleData name="Account Number">003211</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159032738,34.174755239,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>629 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1831309857</SimpleData>
+		<SimpleData name="Account Number">003212</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159103813,34.174905871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>615 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1831873783</SimpleData>
+		<SimpleData name="Account Number">003213</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159615671,34.175032488,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>605 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1105120173</SimpleData>
+		<SimpleData name="Account Number">003214</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159711601,34.175046998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>610 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1831299026</SimpleData>
+		<SimpleData name="Account Number">003215</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15982216,34.174963415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>598 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1831304467</SimpleData>
+		<SimpleData name="Account Number">003216</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159885238,34.174969268,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>591 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1831310337</SimpleData>
+		<SimpleData name="Account Number">003217</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160178265,34.175169966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>584 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1831308492</SimpleData>
+		<SimpleData name="Account Number">003218</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160525054,34.175134865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>579 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1850391213</SimpleData>
+		<SimpleData name="Account Number">003219</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160644992,34.175283208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>549 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1831306802</SimpleData>
+		<SimpleData name="Account Number">003220</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161389947,34.175758413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1852336437</SimpleData>
+		<SimpleData name="Account Number">003224</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162871071,34.176454773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1831295973</SimpleData>
+		<SimpleData name="Account Number">003225</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162958731,34.177184027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1831309089</SimpleData>
+		<SimpleData name="Account Number">003227</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163219412,34.176999425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1831116667</SimpleData>
+		<SimpleData name="Account Number">003228</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163285759,34.176243625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1600 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1831078587</SimpleData>
+		<SimpleData name="Account Number">003229</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165015717,34.175871066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1578 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1831302456</SimpleData>
+		<SimpleData name="Account Number">003230</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165506997,34.17610228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1578 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1831318169</SimpleData>
+		<SimpleData name="Account Number">003231</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165505441,34.176103935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1578 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1831302065</SimpleData>
+		<SimpleData name="Account Number">003232</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165480912,34.176080432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1566 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1831318078</SimpleData>
+		<SimpleData name="Account Number">003233</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165840506,34.1761908,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1563 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1831304798</SimpleData>
+		<SimpleData name="Account Number">003234</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165895988,34.176345454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1549 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1471320130</SimpleData>
+		<SimpleData name="Account Number">003235</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165992032,34.176382441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1552 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1490160260</SimpleData>
+		<SimpleData name="Account Number">003236</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16630519,34.176305352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1540 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1831304447</SimpleData>
+		<SimpleData name="Account Number">003237</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16655402,34.176345247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1572 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1105126412</SimpleData>
+		<SimpleData name="Account Number">109189</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167432031,34.176259596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1491 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1105125488</SimpleData>
+		<SimpleData name="Account Number">003240</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167935196,34.176067491,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1492 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1831309117</SimpleData>
+		<SimpleData name="Account Number">003241</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167981621,34.175830209,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1479 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1831302059</SimpleData>
+		<SimpleData name="Account Number">103491</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168444077,34.175579219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1475 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1831302036</SimpleData>
+		<SimpleData name="Account Number">103490</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1684759,34.175550121,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1463 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1831874763</SimpleData>
+		<SimpleData name="Account Number">003242</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168684216,34.175318641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1466 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1831296802</SimpleData>
+		<SimpleData name="Account Number">003243</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168564472,34.175274862,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1446 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1831296897</SimpleData>
+		<SimpleData name="Account Number">003244</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168914939,34.174934777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1432 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1831303779</SimpleData>
+		<SimpleData name="Account Number">003245</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169277355,34.17463603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1418 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1831304145</SimpleData>
+		<SimpleData name="Account Number">003246</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169550352,34.174444993,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WINDY HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">44157932</SimpleData>
+		<SimpleData name="Account Number">003247</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169701525,34.174531027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 SILVER HILLS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1831876247</SimpleData>
+		<SimpleData name="Account Number">003250</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16984896,34.174054889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1450462588</SimpleData>
+		<SimpleData name="Account Number">003251</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16975063,34.17379506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1831351358</SimpleData>
+		<SimpleData name="Account Number">003252</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169779569,34.17356248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1831303984</SimpleData>
+		<SimpleData name="Account Number">003253</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16998565,34.173248197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1831309212</SimpleData>
+		<SimpleData name="Account Number">003254</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169957225,34.173074071,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1482108116</SimpleData>
+		<SimpleData name="Account Number">003255</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169833493,34.173044186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1831308534</SimpleData>
+		<SimpleData name="Account Number">003256</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16981444,34.172714597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1481225110</SimpleData>
+		<SimpleData name="Account Number">003257</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169972035,34.172656329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1471919768</SimpleData>
+		<SimpleData name="Account Number">003258</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169721592,34.171854635,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 SILVER HILLS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1470710230</SimpleData>
+		<SimpleData name="Account Number">114668</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169743078,34.171625182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 SILVER HILLS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1850632794</SimpleData>
+		<SimpleData name="Account Number">112296</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169746115,34.171620184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 SILVER HILLS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1480061586</SimpleData>
+		<SimpleData name="Account Number">119931</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164664774,34.172034407,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37 SILVER HILLS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1490996008</SimpleData>
+		<SimpleData name="Account Number">118656</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164645238,34.172196627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1470215578</SimpleData>
+		<SimpleData name="Account Number">003259</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164233098,34.175591258,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1831310829</SimpleData>
+		<SimpleData name="Account Number">003260</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164102401,34.175337048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>253 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1410243918</SimpleData>
+		<SimpleData name="Account Number">003262</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164290264,34.170401808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1831299933</SimpleData>
+		<SimpleData name="Account Number">003263</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164250572,34.174718229,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1491150528</SimpleData>
+		<SimpleData name="Account Number">003264</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164453342,34.174682009,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>135 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1481493276</SimpleData>
+		<SimpleData name="Account Number">003265</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164435459,34.174370962,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>136 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1472034328</SimpleData>
+		<SimpleData name="Account Number">003266</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164639913,34.174266614,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1831304428</SimpleData>
+		<SimpleData name="Account Number">003267</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164502967,34.174123083,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>152 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1831302001</SimpleData>
+		<SimpleData name="Account Number">003268</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164708749,34.173941515,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>162 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1832275825</SimpleData>
+		<SimpleData name="Account Number">003269</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164748331,34.173644074,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>169 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1831318091</SimpleData>
+		<SimpleData name="Account Number">003270</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164626046,34.173443927,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>177 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1831308484</SimpleData>
+		<SimpleData name="Account Number">003271</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164603509,34.173228286,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>178 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1852365883</SimpleData>
+		<SimpleData name="Account Number">003272</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164750914,34.173212502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1831304739</SimpleData>
+		<SimpleData name="Account Number">003273</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164715427,34.172913253,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>195 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1831304893</SimpleData>
+		<SimpleData name="Account Number">003274</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164582804,34.172778296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>225 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1831319052</SimpleData>
+		<SimpleData name="Account Number">003276</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16444558,34.171870001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>296 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1481892670</SimpleData>
+		<SimpleData name="Account Number">003279</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164408182,34.170314235,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 REECEBURG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1831075490</SimpleData>
+		<SimpleData name="Account Number">110063</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163637461,34.175407966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1831299247</SimpleData>
+		<SimpleData name="Account Number">003280</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164242116,34.170005247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1491155240</SimpleData>
+		<SimpleData name="Account Number">003281</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164244823,34.170010938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>307 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1831302061</SimpleData>
+		<SimpleData name="Account Number">003283</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164226373,34.169961748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1831304804</SimpleData>
+		<SimpleData name="Account Number">003284</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164226265,34.169960248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>315 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1831309130</SimpleData>
+		<SimpleData name="Account Number">003285</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164343854,34.169506781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>317 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1831310245</SimpleData>
+		<SimpleData name="Account Number">003286</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164347786,34.169500808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>319 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1831306337</SimpleData>
+		<SimpleData name="Account Number">003287</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164433066,34.169257902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>321 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1831309399</SimpleData>
+		<SimpleData name="Account Number">003289</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164435012,34.169256392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>335 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1850391150</SimpleData>
+		<SimpleData name="Account Number">003290</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164480119,34.169194724,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>298 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1831304033</SimpleData>
+		<SimpleData name="Account Number">003291</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165303055,34.169616183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>324 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1833017430</SimpleData>
+		<SimpleData name="Account Number">003293</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165572636,34.169725967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1831304045</SimpleData>
+		<SimpleData name="Account Number">003294</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165564925,34.169680898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>325 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1831302006</SimpleData>
+		<SimpleData name="Account Number">003296</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164522344,34.169112348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>405 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1832348820</SimpleData>
+		<SimpleData name="Account Number">003297</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164569122,34.168973439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>410 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1831304759</SimpleData>
+		<SimpleData name="Account Number">003298</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166840288,34.166124445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>450 REECEBURG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1831877808</SimpleData>
+		<SimpleData name="Account Number">110497</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166845386,34.166116329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>492 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1831302058</SimpleData>
+		<SimpleData name="Account Number">003303</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166982283,34.164985381,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>499 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1831302122</SimpleData>
+		<SimpleData name="Account Number">003301</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166828807,34.165003494,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>510 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1831302115</SimpleData>
+		<SimpleData name="Account Number">003304</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166992985,34.164651558,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>524 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1831304773</SimpleData>
+		<SimpleData name="Account Number">003305</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166974442,34.164352992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>517 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1471043130</SimpleData>
+		<SimpleData name="Account Number">115459</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166831031,34.16433811,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>539 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1831304808</SimpleData>
+		<SimpleData name="Account Number">003306</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16149423,34.175984296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>507 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1831301975</SimpleData>
+		<SimpleData name="Account Number">003307</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16165371,34.17669472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>481 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1471617008</SimpleData>
+		<SimpleData name="Account Number">003309</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161864048,34.177401858,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>467 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1831319838</SimpleData>
+		<SimpleData name="Account Number">003310</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161866367,34.177749836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>439 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1831302035</SimpleData>
+		<SimpleData name="Account Number">003311</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162078903,34.178755482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>439 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1831304795</SimpleData>
+		<SimpleData name="Account Number">003312</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162094219,34.178894666,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59 HALL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1834533288</SimpleData>
+		<SimpleData name="Account Number">126314</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163812004,34.180983421,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79 HALL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1831318304</SimpleData>
+		<SimpleData name="Account Number">003314</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163858395,34.181489882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>235 HALL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1831319859</SimpleData>
+		<SimpleData name="Account Number">003315</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165442654,34.185093246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>245 HALL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1831306466</SimpleData>
+		<SimpleData name="Account Number">003316</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162310047,34.182231405,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>245 HALL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1490955846</SimpleData>
+		<SimpleData name="Account Number">003317</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165606367,34.185847484,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>255 HALL RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1490943724</SimpleData>
+		<SimpleData name="Account Number">003318</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165793094,34.186819036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>401 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1831309493</SimpleData>
+		<SimpleData name="Account Number">003319</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162147423,34.179894082,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>373 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1850391116</SimpleData>
+		<SimpleData name="Account Number">003320</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162208175,34.180412528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>355 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1852378566</SimpleData>
+		<SimpleData name="Account Number">003321</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162285998,34.180908597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>345 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1831304800</SimpleData>
+		<SimpleData name="Account Number">003322</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162242642,34.181278654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>329 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1834541722</SimpleData>
+		<SimpleData name="Account Number">003323</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162275525,34.181687426,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>319 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1831296912</SimpleData>
+		<SimpleData name="Account Number">003324</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16229612,34.181946748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1831296896</SimpleData>
+		<SimpleData name="Account Number">003325</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162305489,34.182227756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>283 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1831299252</SimpleData>
+		<SimpleData name="Account Number">003326</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162352315,34.182885463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>273 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1831303568</SimpleData>
+		<SimpleData name="Account Number">003327</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162379614,34.183177963,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>253 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1831299253</SimpleData>
+		<SimpleData name="Account Number">003328</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162398506,34.183788664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1831304473</SimpleData>
+		<SimpleData name="Account Number">003330</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162549146,34.184864295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>178 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1831300984</SimpleData>
+		<SimpleData name="Account Number">003332</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163059346,34.185749634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>172 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1831296063</SimpleData>
+		<SimpleData name="Account Number">003333</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163037317,34.18577551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>174 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1471037766</SimpleData>
+		<SimpleData name="Account Number">003334</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163142227,34.185953255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>174 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1852378689</SimpleData>
+		<SimpleData name="Account Number">003334</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16314324,34.185944295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>150 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1831302034</SimpleData>
+		<SimpleData name="Account Number">003335</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163263587,34.186247298,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>148 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1850391042</SimpleData>
+		<SimpleData name="Account Number">003336</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16335792,34.186386163,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_19">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1831304760</SimpleData>
+		<SimpleData name="Account Number">003338</SimpleData>
+		<SimpleData name="Route">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163918968,34.187407196,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,3583 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_18" id="Route_18">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_18</name>
+  <Placemark>
+	<name>1278 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1830505904</SimpleData>
+		<SimpleData name="Account Number">2740</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148837551,34.161023259,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1830509807</SimpleData>
+		<SimpleData name="Account Number">2741</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14957741,34.161212097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1830520667</SimpleData>
+		<SimpleData name="Account Number">2742</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149654869,34.161058778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1490930296</SimpleData>
+		<SimpleData name="Account Number">2743</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150353141,34.161039441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1482108044</SimpleData>
+		<SimpleData name="Account Number">2744</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150447243,34.161198363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1482177486</SimpleData>
+		<SimpleData name="Account Number">2745</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151099827,34.162143971,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1830516944</SimpleData>
+		<SimpleData name="Account Number">2746</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151094424,34.162415664,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1830505452</SimpleData>
+		<SimpleData name="Account Number">2747</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151093469,34.162631302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1830510060</SimpleData>
+		<SimpleData name="Account Number">2748</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15110602,34.163041053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1490626842</SimpleData>
+		<SimpleData name="Account Number">2749</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151107557,34.163263835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1830511688</SimpleData>
+		<SimpleData name="Account Number">2750</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151131853,34.163474877,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1480953376</SimpleData>
+		<SimpleData name="Account Number">2751</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151105022,34.163686893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1830510949</SimpleData>
+		<SimpleData name="Account Number">2752</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150830727,34.163772344,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1830506448</SimpleData>
+		<SimpleData name="Account Number">2753</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150471527,34.163776873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>200 RIDGEDALE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1480954842</SimpleData>
+		<SimpleData name="Account Number">2754</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151427289,34.161185109,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>200 RIDGEDALE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1830505004</SimpleData>
+		<SimpleData name="Account Number">100949</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152020801,34.161241425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1830509559</SimpleData>
+		<SimpleData name="Account Number">2755</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15288893,34.16104469,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1430264284</SimpleData>
+		<SimpleData name="Account Number">2756</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153255977,34.160806801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1830502970</SimpleData>
+		<SimpleData name="Account Number">2757</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153947744,34.161004774,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1830504492</SimpleData>
+		<SimpleData name="Account Number">2758</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153968951,34.161370525,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1830596616</SimpleData>
+		<SimpleData name="Account Number">2759</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153803281,34.161550031,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1830514553</SimpleData>
+		<SimpleData name="Account Number">2760</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153453071,34.162437409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1833017145</SimpleData>
+		<SimpleData name="Account Number">2761</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153143271,34.162442611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1830515337</SimpleData>
+		<SimpleData name="Account Number">2762</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153038135,34.162277202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1830515323</SimpleData>
+		<SimpleData name="Account Number">2763</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153914548,34.162426943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1491279962</SimpleData>
+		<SimpleData name="Account Number">2764</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154449207,34.16231802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1830775624</SimpleData>
+		<SimpleData name="Account Number">2765</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154477086,34.1624472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1830506629</SimpleData>
+		<SimpleData name="Account Number">2766</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154536014,34.162322036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1830504670</SimpleData>
+		<SimpleData name="Account Number">2767</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155096416,34.162318127,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1830516090</SimpleData>
+		<SimpleData name="Account Number">2768</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155854474,34.162327258,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1832505200</SimpleData>
+		<SimpleData name="Account Number">2769</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156141944,34.162332988,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1491141580</SimpleData>
+		<SimpleData name="Account Number">2770</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156251601,34.162451236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1830510280</SimpleData>
+		<SimpleData name="Account Number">2771</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156617452,34.162301385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1830506623</SimpleData>
+		<SimpleData name="Account Number">2772</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156908537,34.162438629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1490542598</SimpleData>
+		<SimpleData name="Account Number">2773</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157388731,34.162420933,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1830512634</SimpleData>
+		<SimpleData name="Account Number">2774</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157671107,34.162297643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1830516013</SimpleData>
+		<SimpleData name="Account Number">2775</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157673319,34.162307155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1830509630</SimpleData>
+		<SimpleData name="Account Number">2776</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158410836,34.162730813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1480955168</SimpleData>
+		<SimpleData name="Account Number">2777</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15847478,34.162823525,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1830510767</SimpleData>
+		<SimpleData name="Account Number">2778</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158530398,34.163032656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1830568411</SimpleData>
+		<SimpleData name="Account Number">2779</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158881473,34.163474263,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 WEDGEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1830511564</SimpleData>
+		<SimpleData name="Account Number">2780</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159425552,34.163689801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1490686076</SimpleData>
+		<SimpleData name="Account Number">2781</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158689555,34.164039388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1481220524</SimpleData>
+		<SimpleData name="Account Number">2782</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158516109,34.164063759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1830511086</SimpleData>
+		<SimpleData name="Account Number">2783</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158453581,34.16437907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1830506362</SimpleData>
+		<SimpleData name="Account Number">2784</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158510215,34.164555187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1830506441</SimpleData>
+		<SimpleData name="Account Number">2785</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158292278,34.164786073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1830505888</SimpleData>
+		<SimpleData name="Account Number">2786</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158402439,34.164955634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 HAYES PLACE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1830510992</SimpleData>
+		<SimpleData name="Account Number">2788</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158243641,34.16494206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 HAYES PLACE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1830501058</SimpleData>
+		<SimpleData name="Account Number">2789</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158230926,34.164961304,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 HAYES PLACE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1830502913</SimpleData>
+		<SimpleData name="Account Number">2787</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158232999,34.164962451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1830506628</SimpleData>
+		<SimpleData name="Account Number">2790</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158280212,34.16527101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1830511082</SimpleData>
+		<SimpleData name="Account Number">15542</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158131796,34.165722783,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1450413390</SimpleData>
+		<SimpleData name="Account Number">2792</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158034322,34.166107741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1830515839</SimpleData>
+		<SimpleData name="Account Number">2793</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157946103,34.166295938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1830512783</SimpleData>
+		<SimpleData name="Account Number">2794</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157776674,34.166511703,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1830516036</SimpleData>
+		<SimpleData name="Account Number">2795</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157828096,34.166985911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 RAMBLEWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1830668472</SimpleData>
+		<SimpleData name="Account Number">108335</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157623412,34.167221636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1830505954</SimpleData>
+		<SimpleData name="Account Number">2796</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157767296,34.167565743,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1490626376</SimpleData>
+		<SimpleData name="Account Number">2797</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157572505,34.167840493,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1830505882</SimpleData>
+		<SimpleData name="Account Number">2798</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157664567,34.168168157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1470987070</SimpleData>
+		<SimpleData name="Account Number">2799</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157517249,34.168273158,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1830502904</SimpleData>
+		<SimpleData name="Account Number">2800</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157484129,34.168627864,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1830509577</SimpleData>
+		<SimpleData name="Account Number">2801</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157435305,34.16878718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1830509626</SimpleData>
+		<SimpleData name="Account Number">2802</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157593493,34.168958652,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 RAMBLEWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1830502906</SimpleData>
+		<SimpleData name="Account Number">106686</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157495829,34.169697916,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 RAMBLEWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1471605872</SimpleData>
+		<SimpleData name="Account Number">116869</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157424219,34.169934832,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1481220660</SimpleData>
+		<SimpleData name="Account Number">2803</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157291046,34.170044542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1830510695</SimpleData>
+		<SimpleData name="Account Number">2804</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157420445,34.170926303,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1830511329</SimpleData>
+		<SimpleData name="Account Number">2805</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154348822,34.160427805,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>302 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1830515370</SimpleData>
+		<SimpleData name="Account Number">2806</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15504717,34.160405494,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1830510853</SimpleData>
+		<SimpleData name="Account Number">2808</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156126778,34.160412438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>308 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1831655572</SimpleData>
+		<SimpleData name="Account Number">2809</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156489717,34.160455787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>310 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1830512873</SimpleData>
+		<SimpleData name="Account Number">2810</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157043676,34.160504498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>312 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1830510742</SimpleData>
+		<SimpleData name="Account Number">2811</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157799751,34.160461056,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>314 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1830589410</SimpleData>
+		<SimpleData name="Account Number">2812</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158230383,34.160459655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1830595526</SimpleData>
+		<SimpleData name="Account Number">2813</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158657306,34.160448143,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>318 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1830512907</SimpleData>
+		<SimpleData name="Account Number">2814</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159133909,34.160373364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>320 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1830515618</SimpleData>
+		<SimpleData name="Account Number">2815</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159674138,34.160259012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>322 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1481219332</SimpleData>
+		<SimpleData name="Account Number">2816</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160402903,34.160156486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>324 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1831873660</SimpleData>
+		<SimpleData name="Account Number">2817</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161188835,34.16017845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1471877972</SimpleData>
+		<SimpleData name="Account Number">2818</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161666931,34.160511617,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1830592414</SimpleData>
+		<SimpleData name="Account Number">2819</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161029514,34.161184841,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1830515980</SimpleData>
+		<SimpleData name="Account Number">2820</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161177829,34.161287495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1830598477</SimpleData>
+		<SimpleData name="Account Number">2821</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161003898,34.161612214,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1830597478</SimpleData>
+		<SimpleData name="Account Number">2822</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160892424,34.161885441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1830590184</SimpleData>
+		<SimpleData name="Account Number">2824</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160611397,34.162215774,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1471291424</SimpleData>
+		<SimpleData name="Account Number">2825</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160755898,34.162385979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1830509038</SimpleData>
+		<SimpleData name="Account Number">2823</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160684838,34.161977122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1852389120</SimpleData>
+		<SimpleData name="Account Number">2826</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160529292,34.162661816,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>68 RIDGEVIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1830592754</SimpleData>
+		<SimpleData name="Account Number">100778</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160689831,34.162661546,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1831877822</SimpleData>
+		<SimpleData name="Account Number">2827</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160526666,34.162980998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1831846918</SimpleData>
+		<SimpleData name="Account Number">2828</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160694104,34.163068048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1830509219</SimpleData>
+		<SimpleData name="Account Number">2829</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160567938,34.163439162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1830590432</SimpleData>
+		<SimpleData name="Account Number">2830</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160727992,34.163464366,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1830505211</SimpleData>
+		<SimpleData name="Account Number">2831</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160541526,34.163680838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1830508971</SimpleData>
+		<SimpleData name="Account Number">2832</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16069333,34.163761254,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1830592784</SimpleData>
+		<SimpleData name="Account Number">2833</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160348847,34.164292604,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1830511092</SimpleData>
+		<SimpleData name="Account Number">2834</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16046734,34.164475279,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1830506624</SimpleData>
+		<SimpleData name="Account Number">2835</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160262967,34.164560415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1830506450</SimpleData>
+		<SimpleData name="Account Number">2836</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160023783,34.165110396,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1830504481</SimpleData>
+		<SimpleData name="Account Number">2837</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159961427,34.165155831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1481696522</SimpleData>
+		<SimpleData name="Account Number">2838</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160090194,34.165332108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1852393328</SimpleData>
+		<SimpleData name="Account Number">2839</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159919009,34.165688039,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1830510514</SimpleData>
+		<SimpleData name="Account Number">2840</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159737037,34.165656754,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1491153734</SimpleData>
+		<SimpleData name="Account Number">2841</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15977075,34.165969589,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1830511111</SimpleData>
+		<SimpleData name="Account Number">2842</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159577565,34.16598342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1490639742</SimpleData>
+		<SimpleData name="Account Number">2843</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159444655,34.166349401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1481225396</SimpleData>
+		<SimpleData name="Account Number">2844</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159602446,34.166452444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1830513356</SimpleData>
+		<SimpleData name="Account Number">2845</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159522038,34.16677755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1830508691</SimpleData>
+		<SimpleData name="Account Number">2846</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159350689,34.166768045,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1430265642</SimpleData>
+		<SimpleData name="Account Number">2847</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159321202,34.167071295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1830510708</SimpleData>
+		<SimpleData name="Account Number">2849</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159509654,34.16712688,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1850406366</SimpleData>
+		<SimpleData name="Account Number">2850</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159358598,34.167633877,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1471196364</SimpleData>
+		<SimpleData name="Account Number">2851</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159581642,34.167610811,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1830586825</SimpleData>
+		<SimpleData name="Account Number">2852</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159613452,34.167885812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1830587516</SimpleData>
+		<SimpleData name="Account Number">2853</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159437101,34.167914098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1830510575</SimpleData>
+		<SimpleData name="Account Number">2854</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159630511,34.168253966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1490151692</SimpleData>
+		<SimpleData name="Account Number">2855</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15955178,34.168637749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1830509036</SimpleData>
+		<SimpleData name="Account Number">2856</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159368624,34.168666914,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1830515548</SimpleData>
+		<SimpleData name="Account Number">2857</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159424721,34.168964286,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1832254479</SimpleData>
+		<SimpleData name="Account Number">2858</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159246173,34.168991865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1834533893</SimpleData>
+		<SimpleData name="Account Number">2859</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159351386,34.16920036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1830505215</SimpleData>
+		<SimpleData name="Account Number">2861</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159260014,34.169633069,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1830509017</SimpleData>
+		<SimpleData name="Account Number">2860</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159073287,34.169670715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1833008614</SimpleData>
+		<SimpleData name="Account Number">2862</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159027246,34.16994305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1830505267</SimpleData>
+		<SimpleData name="Account Number">2863</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159161058,34.170034447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1830507780</SimpleData>
+		<SimpleData name="Account Number">2864</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158940832,34.170725329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1830510369</SimpleData>
+		<SimpleData name="Account Number">2865</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158625845,34.170961888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1830510112</SimpleData>
+		<SimpleData name="Account Number">2866</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15875197,34.171042861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1830509936</SimpleData>
+		<SimpleData name="Account Number">2869</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15702408,34.171409287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1471610156</SimpleData>
+		<SimpleData name="Account Number">2870</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156986924,34.171604421,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1830577070</SimpleData>
+		<SimpleData name="Account Number">2871</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15646578,34.171592226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1481220168</SimpleData>
+		<SimpleData name="Account Number">2872</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156151459,34.171589053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1480075510</SimpleData>
+		<SimpleData name="Account Number">2873</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156036639,34.171446923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1491146120</SimpleData>
+		<SimpleData name="Account Number">2874</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155840352,34.171413936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1830511100</SimpleData>
+		<SimpleData name="Account Number">2875</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155338264,34.171411315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1834547047</SimpleData>
+		<SimpleData name="Account Number">2876</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155192742,34.171570038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1830596527</SimpleData>
+		<SimpleData name="Account Number">2877</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15498693,34.171418822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1471938962</SimpleData>
+		<SimpleData name="Account Number">2878</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161941277,34.160022938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>86 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1830515752</SimpleData>
+		<SimpleData name="Account Number">2879</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162035373,34.159655937,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1850406295</SimpleData>
+		<SimpleData name="Account Number">2880</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161901796,34.159573442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1830515897</SimpleData>
+		<SimpleData name="Account Number">2881</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161938151,34.159498274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>88 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1830513251</SimpleData>
+		<SimpleData name="Account Number">2882</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162147642,34.159083984,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1831072241</SimpleData>
+		<SimpleData name="Account Number">2884</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162050388,34.15870987,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>92 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1830592673</SimpleData>
+		<SimpleData name="Account Number">2885</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162194566,34.158653257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>94 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1830592676</SimpleData>
+		<SimpleData name="Account Number">2886</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16229078,34.158239002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1830589058</SimpleData>
+		<SimpleData name="Account Number">2887</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162181121,34.158075998,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1833016844</SimpleData>
+		<SimpleData name="Account Number">2888</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162459426,34.157884607,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>97 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1830592143</SimpleData>
+		<SimpleData name="Account Number">2889</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162372226,34.157577727,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>98 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1830510342</SimpleData>
+		<SimpleData name="Account Number">2890</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162583675,34.157492836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1830509958</SimpleData>
+		<SimpleData name="Account Number">2891</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16258673,34.157124932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1481045350</SimpleData>
+		<SimpleData name="Account Number">2892</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162778262,34.157075459,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1830509743</SimpleData>
+		<SimpleData name="Account Number">2893</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162831953,34.156567486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1830509818</SimpleData>
+		<SimpleData name="Account Number">2894</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162958785,34.156260661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1830505358</SimpleData>
+		<SimpleData name="Account Number">2895</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163000674,34.155983852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 RIDGEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1830509794</SimpleData>
+		<SimpleData name="Account Number">2896</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163272661,34.1559755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1481226980</SimpleData>
+		<SimpleData name="Account Number">2897</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161878609,34.156547834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1830509035</SimpleData>
+		<SimpleData name="Account Number">2898</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161790149,34.15666235,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1471633348</SimpleData>
+		<SimpleData name="Account Number">2899</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161560962,34.156454254,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1830509016</SimpleData>
+		<SimpleData name="Account Number">2900</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161300882,34.156665728,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 MORELAND CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1830508423</SimpleData>
+		<SimpleData name="Account Number">2901</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161253742,34.157184821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 MORELAND CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1831873594</SimpleData>
+		<SimpleData name="Account Number">2902</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160978594,34.157170839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1830511102</SimpleData>
+		<SimpleData name="Account Number">2903</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161143894,34.156654967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1481224818</SimpleData>
+		<SimpleData name="Account Number">2904</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161123547,34.156318719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1490432916</SimpleData>
+		<SimpleData name="Account Number">2905</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160572353,34.156366318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1850389789</SimpleData>
+		<SimpleData name="Account Number">2906</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160348022,34.156240289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1830509649</SimpleData>
+		<SimpleData name="Account Number">2907</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160241321,34.156391744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1830509042</SimpleData>
+		<SimpleData name="Account Number">2908</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160013909,34.156248919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1830511108</SimpleData>
+		<SimpleData name="Account Number">2909</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159645631,34.156391038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1831124085</SimpleData>
+		<SimpleData name="Account Number">2910</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15932461,34.156285432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1831117365</SimpleData>
+		<SimpleData name="Account Number">2911</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159296356,34.156377786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1831116550</SimpleData>
+		<SimpleData name="Account Number">2912</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158873382,34.156376959,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1831124079</SimpleData>
+		<SimpleData name="Account Number">2913</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158715678,34.1562374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1831117525</SimpleData>
+		<SimpleData name="Account Number">2914</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158186693,34.156396278,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1830514557</SimpleData>
+		<SimpleData name="Account Number">2915</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157780006,34.156377713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1831116828</SimpleData>
+		<SimpleData name="Account Number">2916</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157615965,34.156241911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1481225732</SimpleData>
+		<SimpleData name="Account Number">2917</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157411681,34.156252384,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1830513330</SimpleData>
+		<SimpleData name="Account Number">2918</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157320486,34.156401021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1830512747</SimpleData>
+		<SimpleData name="Account Number">2919</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15689483,34.156240589,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1830514613</SimpleData>
+		<SimpleData name="Account Number">15541</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15694541,34.156411108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1831132847</SimpleData>
+		<SimpleData name="Account Number">2920</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156602919,34.156263398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1481214402</SimpleData>
+		<SimpleData name="Account Number">2921</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156623903,34.156420923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1830597484</SimpleData>
+		<SimpleData name="Account Number">2922</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15636065,34.156264399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 TIMBERWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1831127900</SimpleData>
+		<SimpleData name="Account Number">100886</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15621301,34.156410959,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1831131764</SimpleData>
+		<SimpleData name="Account Number">2923</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155987096,34.156263108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1830509065</SimpleData>
+		<SimpleData name="Account Number">2924</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155599171,34.156429658,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1831131625</SimpleData>
+		<SimpleData name="Account Number">2925</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155303653,34.156441299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1831133105</SimpleData>
+		<SimpleData name="Account Number">2926</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155076056,34.156270451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1831132516</SimpleData>
+		<SimpleData name="Account Number">2927</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15475459,34.156421106,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1831131618</SimpleData>
+		<SimpleData name="Account Number">3001</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154327589,34.156440923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1831133398</SimpleData>
+		<SimpleData name="Account Number">2928</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153855478,34.156314433,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>325 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1481220852</SimpleData>
+		<SimpleData name="Account Number">2929</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160437495,34.160008516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>321 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1471920762</SimpleData>
+		<SimpleData name="Account Number">2930</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159386358,34.160179158,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>317 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1832233582</SimpleData>
+		<SimpleData name="Account Number">2931</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158253892,34.16031546,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>313 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1831135935</SimpleData>
+		<SimpleData name="Account Number">2932</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157294736,34.160330286,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>311 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1831131562</SimpleData>
+		<SimpleData name="Account Number">2933</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156613032,34.160326379,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1831129633</SimpleData>
+		<SimpleData name="Account Number">2934</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156089036,34.160259684,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>307 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1831117590</SimpleData>
+		<SimpleData name="Account Number">2935</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155692514,34.160267701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1831117516</SimpleData>
+		<SimpleData name="Account Number">2936</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154995877,34.160265503,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1852390596</SimpleData>
+		<SimpleData name="Account Number">2937</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154618858,34.160294675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>301 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1831117549</SimpleData>
+		<SimpleData name="Account Number">2938</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153887563,34.160363217,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1831117620</SimpleData>
+		<SimpleData name="Account Number">2939</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153469817,34.159898094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1831109862</SimpleData>
+		<SimpleData name="Account Number">2940</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153483386,34.15955431,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1831117858</SimpleData>
+		<SimpleData name="Account Number">2941</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153624776,34.159097535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1831130301</SimpleData>
+		<SimpleData name="Account Number">2942</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153452582,34.159080413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1850406547</SimpleData>
+		<SimpleData name="Account Number">2943</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153650206,34.158873093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1831135518</SimpleData>
+		<SimpleData name="Account Number">2944</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153452325,34.158767407,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1831129167</SimpleData>
+		<SimpleData name="Account Number">2945</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153629718,34.158507577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1481219540</SimpleData>
+		<SimpleData name="Account Number">2946</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153523197,34.158179486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1831136235</SimpleData>
+		<SimpleData name="Account Number">2947</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153654866,34.158118031,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1831125026</SimpleData>
+		<SimpleData name="Account Number">2948</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153441357,34.157984572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1831136309</SimpleData>
+		<SimpleData name="Account Number">2949</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154249757,34.157530393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1850544051</SimpleData>
+		<SimpleData name="Account Number">2950</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154551052,34.15769204,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1831136312</SimpleData>
+		<SimpleData name="Account Number">2951</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154866187,34.157517731,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1831131582</SimpleData>
+		<SimpleData name="Account Number">2952</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155088517,34.15797145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 LONGWOOD CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1831136254</SimpleData>
+		<SimpleData name="Account Number">2953</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155372558,34.158304579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 LONGWOOD CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1834539556</SimpleData>
+		<SimpleData name="Account Number">2954</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155488288,34.158588708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 LONGWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1831132924</SimpleData>
+		<SimpleData name="Account Number">2955</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155164556,34.158303153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1831132083</SimpleData>
+		<SimpleData name="Account Number">2956</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1552509,34.157541988,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 LONGWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1831135943</SimpleData>
+		<SimpleData name="Account Number">2957</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155468198,34.157675666,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1831129293</SimpleData>
+		<SimpleData name="Account Number">2958</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155720053,34.157508153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1831127829</SimpleData>
+		<SimpleData name="Account Number">2959</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156388634,34.15751763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1831133631</SimpleData>
+		<SimpleData name="Account Number">2960</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156454633,34.157674567,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1831129003</SimpleData>
+		<SimpleData name="Account Number">2961</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156667868,34.157662519,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1831135684</SimpleData>
+		<SimpleData name="Account Number">2962</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156912685,34.157511211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1852280393</SimpleData>
+		<SimpleData name="Account Number">2963</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15693591,34.157648037,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1850391148</SimpleData>
+		<SimpleData name="Account Number">2964</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157142764,34.157524119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 WOODVIEW CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1831122174</SimpleData>
+		<SimpleData name="Account Number">2965</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157210366,34.158345328,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WOODVIEW CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1831131160</SimpleData>
+		<SimpleData name="Account Number">2966</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15727356,34.158603747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WOODVIEW CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1831131386</SimpleData>
+		<SimpleData name="Account Number">2967</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157461944,34.158502114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 RIDGFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1491299976</SimpleData>
+		<SimpleData name="Account Number">2968</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157572694,34.157448626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1831317968</SimpleData>
+		<SimpleData name="Account Number">2969</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157768526,34.157614723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1482069626</SimpleData>
+		<SimpleData name="Account Number">2971</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157886049,34.157467045,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1831133563</SimpleData>
+		<SimpleData name="Account Number">2970</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15789399,34.157625226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1831318533</SimpleData>
+		<SimpleData name="Account Number">2972</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158310972,34.15754412,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1831126813</SimpleData>
+		<SimpleData name="Account Number">2973</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158516625,34.157730583,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1831319079</SimpleData>
+		<SimpleData name="Account Number">2974</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158638012,34.157616982,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1831319871</SimpleData>
+		<SimpleData name="Account Number">2975</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159022523,34.157685374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1831133411</SimpleData>
+		<SimpleData name="Account Number">2976</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159436235,34.15775634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 LOGAN CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1831317995</SimpleData>
+		<SimpleData name="Account Number">2977</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159457697,34.158201198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 LOGAN CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1831318176</SimpleData>
+		<SimpleData name="Account Number">2978</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159434262,34.158579433,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 LOGAN CT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1831305733</SimpleData>
+		<SimpleData name="Account Number">2979</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159638937,34.158218055,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1831301976</SimpleData>
+		<SimpleData name="Account Number">2980</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159778006,34.157841685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1831309435</SimpleData>
+		<SimpleData name="Account Number">2981</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160192257,34.157908006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 LOGAN CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1481221058</SimpleData>
+		<SimpleData name="Account Number">2982</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160311094,34.158071211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">1831309479</SimpleData>
+		<SimpleData name="Account Number">2983</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160449539,34.157972741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">1831310371</SimpleData>
+		<SimpleData name="Account Number">2984</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160923215,34.15805306,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 RIDGEFIELD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1831301899</SimpleData>
+		<SimpleData name="Account Number">2985</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161228921,34.158099908,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 RAMBLEWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1831309690</SimpleData>
+		<SimpleData name="Account Number">2986</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153473506,34.157138781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1831309086</SimpleData>
+		<SimpleData name="Account Number">2987</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.153269235,34.156306088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1831309595</SimpleData>
+		<SimpleData name="Account Number">2988</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152825999,34.156458374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1834539092</SimpleData>
+		<SimpleData name="Account Number">2989</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152622627,34.156321717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Meter Number">1831308802</SimpleData>
+		<SimpleData name="Account Number">2990</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152567696,34.156459033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1834541947</SimpleData>
+		<SimpleData name="Account Number">2991</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152232455,34.156315943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1831305536</SimpleData>
+		<SimpleData name="Account Number">2992</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152151379,34.156457729,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 TIMBERWOOD DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1831319068</SimpleData>
+		<SimpleData name="Account Number">2993</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151886382,34.156329205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>207 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">1834542035</SimpleData>
+		<SimpleData name="Account Number">2995</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152688443,34.160976722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1831309468</SimpleData>
+		<SimpleData name="Account Number">2996</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151738936,34.161078989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1471039028</SimpleData>
+		<SimpleData name="Account Number">2997</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151088737,34.160891616,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 RIDGEDALE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1482088578</SimpleData>
+		<SimpleData name="Account Number">2998</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150932136,34.160871493,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1834540143</SimpleData>
+		<SimpleData name="Account Number">2999</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151087645,34.160020106,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1481220780</SimpleData>
+		<SimpleData name="Account Number">3000</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150932381,34.159924888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1481220128</SimpleData>
+		<SimpleData name="Account Number">3002</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15093765,34.159609419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1830509701</SimpleData>
+		<SimpleData name="Account Number">3003</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151092182,34.159580499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Meter Number">1831309441</SimpleData>
+		<SimpleData name="Account Number">3004</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151066566,34.159324935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1831301935</SimpleData>
+		<SimpleData name="Account Number">3005</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150941501,34.159238812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1831308656</SimpleData>
+		<SimpleData name="Account Number">3006</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150877253,34.159013064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1831310377</SimpleData>
+		<SimpleData name="Account Number">3007</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151094589,34.158811396,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1831299012</SimpleData>
+		<SimpleData name="Account Number">3008</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150895573,34.158617735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1831303985</SimpleData>
+		<SimpleData name="Account Number">3009</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151064662,34.158441363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1831303763</SimpleData>
+		<SimpleData name="Account Number">3010</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150895879,34.158369771,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1831309476</SimpleData>
+		<SimpleData name="Account Number">3011</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151065676,34.158190996,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">274</SimpleData>
+		<SimpleData name="Meter Number">1831304521</SimpleData>
+		<SimpleData name="Account Number">3012</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150907059,34.158054349,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">275</SimpleData>
+		<SimpleData name="Meter Number">1831304436</SimpleData>
+		<SimpleData name="Account Number">3013</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15106817,34.157675031,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">276</SimpleData>
+		<SimpleData name="Meter Number">1831304737</SimpleData>
+		<SimpleData name="Account Number">3014</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150938326,34.157512154,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">277</SimpleData>
+		<SimpleData name="Meter Number">1850408007</SimpleData>
+		<SimpleData name="Account Number">3015</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151060347,34.157438454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">278</SimpleData>
+		<SimpleData name="Meter Number">1831310450</SimpleData>
+		<SimpleData name="Account Number">3016</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150925408,34.157250095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">279</SimpleData>
+		<SimpleData name="Meter Number">1410243856</SimpleData>
+		<SimpleData name="Account Number">3017</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151114131,34.156326034,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">280</SimpleData>
+		<SimpleData name="Meter Number">1831296914</SimpleData>
+		<SimpleData name="Account Number">3018</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151169493,34.156479854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">281</SimpleData>
+		<SimpleData name="Meter Number">1410245352</SimpleData>
+		<SimpleData name="Account Number">3019</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150661343,34.156855126,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">282</SimpleData>
+		<SimpleData name="Meter Number">1481220974</SimpleData>
+		<SimpleData name="Account Number">3020</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150028917,34.156860701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58 MONTRE CIR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">283</SimpleData>
+		<SimpleData name="Meter Number">1481220956</SimpleData>
+		<SimpleData name="Account Number">3021</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149543088,34.156906893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">284</SimpleData>
+		<SimpleData name="Meter Number">1491137516</SimpleData>
+		<SimpleData name="Account Number">3022</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149242117,34.156889547,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">285</SimpleData>
+		<SimpleData name="Meter Number">1831133757</SimpleData>
+		<SimpleData name="Account Number">3023</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148945302,34.156882444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">286</SimpleData>
+		<SimpleData name="Meter Number">1831131733</SimpleData>
+		<SimpleData name="Account Number">3024</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149216319,34.157211784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">287</SimpleData>
+		<SimpleData name="Meter Number">1831129428</SimpleData>
+		<SimpleData name="Account Number">3025</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14938863,34.157214398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">288</SimpleData>
+		<SimpleData name="Meter Number">1831126914</SimpleData>
+		<SimpleData name="Account Number">3026</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149359739,34.157489833,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">289</SimpleData>
+		<SimpleData name="Meter Number">1481221384</SimpleData>
+		<SimpleData name="Account Number">3027</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149544536,34.157522977,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>58 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">290</SimpleData>
+		<SimpleData name="Meter Number">1852336445</SimpleData>
+		<SimpleData name="Account Number">3029</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1496607,34.15778612,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>63 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">291</SimpleData>
+		<SimpleData name="Meter Number">1831132244</SimpleData>
+		<SimpleData name="Account Number">3028</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149532079,34.157870577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">292</SimpleData>
+		<SimpleData name="Meter Number">1470987034</SimpleData>
+		<SimpleData name="Account Number">3030</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149573802,34.158135018,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">293</SimpleData>
+		<SimpleData name="Meter Number">1470094392</SimpleData>
+		<SimpleData name="Account Number">3031</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149754002,34.158232732,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">294</SimpleData>
+		<SimpleData name="Meter Number">1831133703</SimpleData>
+		<SimpleData name="Account Number">3032</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149768131,34.158254825,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">295</SimpleData>
+		<SimpleData name="Meter Number">1831133526</SimpleData>
+		<SimpleData name="Account Number">3033</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149634505,34.158407754,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">296</SimpleData>
+		<SimpleData name="Meter Number">1831130307</SimpleData>
+		<SimpleData name="Account Number">3034</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149639598,34.158631568,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">297</SimpleData>
+		<SimpleData name="Meter Number">1471348184</SimpleData>
+		<SimpleData name="Account Number">3035</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149840947,34.158660483,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">298</SimpleData>
+		<SimpleData name="Meter Number">1831131750</SimpleData>
+		<SimpleData name="Account Number">3036</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149854056,34.158984532,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">299</SimpleData>
+		<SimpleData name="Meter Number">1831117922</SimpleData>
+		<SimpleData name="Account Number">3037</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149698958,34.159141884,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">300</SimpleData>
+		<SimpleData name="Meter Number">1850408018</SimpleData>
+		<SimpleData name="Account Number">3038</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149898341,34.159327183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">301</SimpleData>
+		<SimpleData name="Meter Number">1831305588</SimpleData>
+		<SimpleData name="Account Number">3039</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149757955,34.159435361,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">302</SimpleData>
+		<SimpleData name="Meter Number">1481219542</SimpleData>
+		<SimpleData name="Account Number">3040</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149947943,34.159689315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">303</SimpleData>
+		<SimpleData name="Meter Number">1831303562</SimpleData>
+		<SimpleData name="Account Number">3041</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149825785,34.159803225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">304</SimpleData>
+		<SimpleData name="Meter Number">1470102232</SimpleData>
+		<SimpleData name="Account Number">3042</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14999331,34.159991706,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">305</SimpleData>
+		<SimpleData name="Meter Number">1450369126</SimpleData>
+		<SimpleData name="Account Number">3043</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149847463,34.160182622,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">306</SimpleData>
+		<SimpleData name="Meter Number">1831130298</SimpleData>
+		<SimpleData name="Account Number">3044</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149883014,34.160371266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">307</SimpleData>
+		<SimpleData name="Meter Number">1831306446</SimpleData>
+		<SimpleData name="Account Number">3045</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15007353,34.160505246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">308</SimpleData>
+		<SimpleData name="Meter Number">1490224490</SimpleData>
+		<SimpleData name="Account Number">3046</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150247114,34.161831366,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">309</SimpleData>
+		<SimpleData name="Meter Number">1831319224</SimpleData>
+		<SimpleData name="Account Number">3048</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150235167,34.162072406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">310</SimpleData>
+		<SimpleData name="Meter Number">1831317997</SimpleData>
+		<SimpleData name="Account Number">3049</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150148255,34.162111294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">311</SimpleData>
+		<SimpleData name="Meter Number">1831309040</SimpleData>
+		<SimpleData name="Account Number">3050</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150241874,34.162437395,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">312</SimpleData>
+		<SimpleData name="Meter Number">1831131322</SimpleData>
+		<SimpleData name="Account Number">3051</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150127873,34.162448314,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">313</SimpleData>
+		<SimpleData name="Meter Number">1831131022</SimpleData>
+		<SimpleData name="Account Number">3052</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150142619,34.162693302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">314</SimpleData>
+		<SimpleData name="Meter Number">1831130847</SimpleData>
+		<SimpleData name="Account Number">3053</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15021823,34.162782123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">315</SimpleData>
+		<SimpleData name="Meter Number">1831129607</SimpleData>
+		<SimpleData name="Account Number">3054</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150150112,34.162921319,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 PINERIDGE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">316</SimpleData>
+		<SimpleData name="Meter Number">1470457930</SimpleData>
+		<SimpleData name="Account Number">113102</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150254326,34.162842155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">317</SimpleData>
+		<SimpleData name="Meter Number">1481219722</SimpleData>
+		<SimpleData name="Account Number">3055</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150164397,34.163255572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">318</SimpleData>
+		<SimpleData name="Meter Number">1831136244</SimpleData>
+		<SimpleData name="Account Number">3056</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150297133,34.163265916,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">319</SimpleData>
+		<SimpleData name="Meter Number">1831136341</SimpleData>
+		<SimpleData name="Account Number">3057</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150197422,34.163510299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">320</SimpleData>
+		<SimpleData name="Meter Number">1831131563</SimpleData>
+		<SimpleData name="Account Number">3058</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150335753,34.16355506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">321</SimpleData>
+		<SimpleData name="Meter Number">1831303995</SimpleData>
+		<SimpleData name="Account Number">3059</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150212258,34.163751919,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">322</SimpleData>
+		<SimpleData name="Meter Number">1831133253</SimpleData>
+		<SimpleData name="Account Number">3060</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150218925,34.164046043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 PINERIDGE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">323</SimpleData>
+		<SimpleData name="Meter Number">1831131730</SimpleData>
+		<SimpleData name="Account Number">103909</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150349521,34.164353699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">324</SimpleData>
+		<SimpleData name="Meter Number">1481221130</SimpleData>
+		<SimpleData name="Account Number">3062</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150223142,34.164588175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">325</SimpleData>
+		<SimpleData name="Meter Number">1831318077</SimpleData>
+		<SimpleData name="Account Number">3063</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150202926,34.164873907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">326</SimpleData>
+		<SimpleData name="Meter Number">1831131739</SimpleData>
+		<SimpleData name="Account Number">3064</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150467754,34.165258911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">327</SimpleData>
+		<SimpleData name="Meter Number">1471467526</SimpleData>
+		<SimpleData name="Account Number">3065</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150384929,34.165387927,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">328</SimpleData>
+		<SimpleData name="Meter Number">1470410286</SimpleData>
+		<SimpleData name="Account Number">3066</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150482676,34.165651289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">329</SimpleData>
+		<SimpleData name="Meter Number">1830507150</SimpleData>
+		<SimpleData name="Account Number">3067</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150610774,34.166002087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">330</SimpleData>
+		<SimpleData name="Meter Number">1831304124</SimpleData>
+		<SimpleData name="Account Number">3068</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150738327,34.166098046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 TREMONT DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">331</SimpleData>
+		<SimpleData name="Meter Number">1490545148</SimpleData>
+		<SimpleData name="Account Number">3070</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150285939,34.166420397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 PINERIDGE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">332</SimpleData>
+		<SimpleData name="Meter Number">1471933162</SimpleData>
+		<SimpleData name="Account Number">3071</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150062963,34.166331405,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1068 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">333</SimpleData>
+		<SimpleData name="Meter Number">1831136302</SimpleData>
+		<SimpleData name="Account Number">3072</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149767281,34.166431364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1056 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">334</SimpleData>
+		<SimpleData name="Meter Number">1831129452</SimpleData>
+		<SimpleData name="Account Number">3073</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149529533,34.166906042,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1046 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">335</SimpleData>
+		<SimpleData name="Meter Number">1831318803</SimpleData>
+		<SimpleData name="Account Number">3074</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149652593,34.167177761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1045 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">336</SimpleData>
+		<SimpleData name="Meter Number">1831319406</SimpleData>
+		<SimpleData name="Account Number">3075</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149537464,34.167224148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1034 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">337</SimpleData>
+		<SimpleData name="Meter Number">1831304413</SimpleData>
+		<SimpleData name="Account Number">3076</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149797618,34.167421709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1027 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">338</SimpleData>
+		<SimpleData name="Meter Number">1831318800</SimpleData>
+		<SimpleData name="Account Number">3077</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14977264,34.167701189,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">339</SimpleData>
+		<SimpleData name="Meter Number">1831124907</SimpleData>
+		<SimpleData name="Account Number">3079</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14916928,34.168469495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 FORREST HILL DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">340</SimpleData>
+		<SimpleData name="Meter Number">1831122173</SimpleData>
+		<SimpleData name="Account Number">3080</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148716451,34.168380136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 FORREST HILL DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">341</SimpleData>
+		<SimpleData name="Meter Number">1831304432</SimpleData>
+		<SimpleData name="Account Number">3081</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148544372,34.167470689,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 FORREST HILL DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">342</SimpleData>
+		<SimpleData name="Meter Number">1831308405</SimpleData>
+		<SimpleData name="Account Number">3082</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148369313,34.167301649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 FORREST HILL DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">343</SimpleData>
+		<SimpleData name="Meter Number">1831310418</SimpleData>
+		<SimpleData name="Account Number">3083</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148335411,34.167974907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 FORREST HILL DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">344</SimpleData>
+		<SimpleData name="Meter Number">1831131687</SimpleData>
+		<SimpleData name="Account Number">3084</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148372333,34.168286156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 FORREST HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">345</SimpleData>
+		<SimpleData name="Meter Number">1831127954</SimpleData>
+		<SimpleData name="Account Number">3085</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148366939,34.168298364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 FORREST HILL DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">346</SimpleData>
+		<SimpleData name="Meter Number">1831132928</SimpleData>
+		<SimpleData name="Account Number">3086</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14893198,34.168858216,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">347</SimpleData>
+		<SimpleData name="Meter Number">1482114240</SimpleData>
+		<SimpleData name="Account Number">3087</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148941704,34.168838545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">348</SimpleData>
+		<SimpleData name="Meter Number">1831304433</SimpleData>
+		<SimpleData name="Account Number">3088</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149246574,34.169452282,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">349</SimpleData>
+		<SimpleData name="Meter Number">1471887860</SimpleData>
+		<SimpleData name="Account Number">3089</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149235689,34.169468447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">350</SimpleData>
+		<SimpleData name="Meter Number">1850632646</SimpleData>
+		<SimpleData name="Account Number">3090</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149324409,34.169957661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">351</SimpleData>
+		<SimpleData name="Meter Number">1410243952</SimpleData>
+		<SimpleData name="Account Number">3091</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149621534,34.170008544,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">352</SimpleData>
+		<SimpleData name="Meter Number">1410213724</SimpleData>
+		<SimpleData name="Account Number">3092</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149637558,34.169983475,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">353</SimpleData>
+		<SimpleData name="Meter Number">1831311901</SimpleData>
+		<SimpleData name="Account Number">3093</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149484778,34.169685252,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 LAVERNE CT SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">354</SimpleData>
+		<SimpleData name="Meter Number">1831311298</SimpleData>
+		<SimpleData name="Account Number">3094</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149214112,34.169144929,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>996 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">355</SimpleData>
+		<SimpleData name="Meter Number">1831304242</SimpleData>
+		<SimpleData name="Account Number">3095</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150469642,34.168492296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>986 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">356</SimpleData>
+		<SimpleData name="Meter Number">1831309064</SimpleData>
+		<SimpleData name="Account Number">3096</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15046559,34.16850893,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>979 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_18">
+		<SimpleData name="fid">357</SimpleData>
+		<SimpleData name="Meter Number">1831319537</SimpleData>
+		<SimpleData name="Account Number">3097</SimpleData>
+		<SimpleData name="Route">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150394852,34.16878117,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

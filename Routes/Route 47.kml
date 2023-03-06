@@ -1,0 +1,2733 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_47" id="Route_47">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_47</name>
+  <Placemark>
+	<name>8 KINGSTON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1481496644</SimpleData>
+		<SimpleData name="Account Number">007635</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111169502,34.255504836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 MORAN LAKE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1481496562</SimpleData>
+		<SimpleData name="Account Number">007636</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111037594,34.255744041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 HASTY ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1430094618</SimpleData>
+		<SimpleData name="Account Number">007650</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111186954,34.260017219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1481517548</SimpleData>
+		<SimpleData name="Account Number">007637</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111196938,34.256098539,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1831081323</SimpleData>
+		<SimpleData name="Account Number">007638</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111194638,34.256560096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1481517770</SimpleData>
+		<SimpleData name="Account Number">007639</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111217525,34.25713577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1410197654</SimpleData>
+		<SimpleData name="Account Number">007653</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111172413,34.261740414,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>118 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1481518468</SimpleData>
+		<SimpleData name="Account Number">007640</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.11101753,34.2583694,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1410197646</SimpleData>
+		<SimpleData name="Account Number">007643</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.11121841,34.259199752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>130 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1410196728</SimpleData>
+		<SimpleData name="Account Number">007644</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111206921,34.259187722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1852388326</SimpleData>
+		<SimpleData name="Account Number">007645</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.11122689,34.259205021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>139 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1482200372</SimpleData>
+		<SimpleData name="Account Number">007646</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111288061,34.259337411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>139 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1831074314</SimpleData>
+		<SimpleData name="Account Number">007646</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111289364,34.259337823,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1481694734</SimpleData>
+		<SimpleData name="Account Number">015563</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111268693,34.259252434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>140 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1470808398</SimpleData>
+		<SimpleData name="Account Number">007660</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.110931112,34.263096477,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>428 MORAN LAKE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1481517648</SimpleData>
+		<SimpleData name="Account Number">007718</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105472981,34.265750692,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>446 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1852487085</SimpleData>
+		<SimpleData name="Account Number">007719</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105444576,34.265785148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>462 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1481225010</SimpleData>
+		<SimpleData name="Account Number">007721</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105323891,34.266096932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>465 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1850538840</SimpleData>
+		<SimpleData name="Account Number">114485</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105313058,34.266473108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>480 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1481496168</SimpleData>
+		<SimpleData name="Account Number">007723</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105035102,34.266937229,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>492 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1490231270</SimpleData>
+		<SimpleData name="Account Number">007724</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104958972,34.26720148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>507 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1481224446</SimpleData>
+		<SimpleData name="Account Number">007725</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104977135,34.267632251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>512 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1481227470</SimpleData>
+		<SimpleData name="Account Number">007726</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104793307,34.267710575,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>538 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1481223952</SimpleData>
+		<SimpleData name="Account Number">007728</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104170809,34.268514863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 KASONAWICH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1490801030</SimpleData>
+		<SimpleData name="Account Number">007730</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103856324,34.268451417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 KASONAWICH RD NW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1481223776</SimpleData>
+		<SimpleData name="Account Number">007731</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103365187,34.268382501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89 KASONAVICH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1481496164</SimpleData>
+		<SimpleData name="Account Number">010739</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.102053644,34.268655305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>215 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1831874793</SimpleData>
+		<SimpleData name="Account Number">007674</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111956601,34.264933631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1410196746</SimpleData>
+		<SimpleData name="Account Number">007662</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10269144,34.268566799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111 KASONAWICH ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1481495804</SimpleData>
+		<SimpleData name="Account Number">007735</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.101454595,34.268655078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>568 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1481497060</SimpleData>
+		<SimpleData name="Account Number">007737</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105084824,34.269238709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>576 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1481534212</SimpleData>
+		<SimpleData name="Account Number">007738</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105168346,34.269566128,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>593 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1481533760</SimpleData>
+		<SimpleData name="Account Number">102868</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105434378,34.269886477,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>616 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1481535146</SimpleData>
+		<SimpleData name="Account Number">007740</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105554376,34.270592361,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>626 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1471925934</SimpleData>
+		<SimpleData name="Account Number">007741</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10564639,34.270859308,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>655 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1481534598</SimpleData>
+		<SimpleData name="Account Number">007743</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105953405,34.271373747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>663 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1481552280</SimpleData>
+		<SimpleData name="Account Number">007744</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106063999,34.271627098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1831876718</SimpleData>
+		<SimpleData name="Account Number">007745</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106047464,34.272008983,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 LEWIS BLVD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1850406154</SimpleData>
+		<SimpleData name="Account Number">007690</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114588082,34.266514885,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 KIMBERLY DRIVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1481537008</SimpleData>
+		<SimpleData name="Account Number">007746</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106261814,34.272153753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>679 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1850609930</SimpleData>
+		<SimpleData name="Account Number">007747</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106258489,34.272142807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>217 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1831877034</SimpleData>
+		<SimpleData name="Account Number">007675</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1116722,34.264976226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>225 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1410197710</SimpleData>
+		<SimpleData name="Account Number">007676</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111065885,34.265466183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>681 MORAN LAKE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1481534768</SimpleData>
+		<SimpleData name="Account Number">007748</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106284583,34.272241288,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 KIMBERLY DRIVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1850238039</SimpleData>
+		<SimpleData name="Account Number">007749</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106294696,34.272241284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>725 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1481536706</SimpleData>
+		<SimpleData name="Account Number">007750</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106734363,34.273503032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>773 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1852707633</SimpleData>
+		<SimpleData name="Account Number">007751</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106879006,34.274062567,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 LEWIS BARRETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1850533586</SimpleData>
+		<SimpleData name="Account Number">007679</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1125127,34.266079354,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>775 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1481534810</SimpleData>
+		<SimpleData name="Account Number">007752</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106915435,34.274439008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>777 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1481544570</SimpleData>
+		<SimpleData name="Account Number">007753</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106675186,34.274885078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>798 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1834522864</SimpleData>
+		<SimpleData name="Account Number">007754</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106329299,34.275154027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>803 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1481533120</SimpleData>
+		<SimpleData name="Account Number">007755</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106146348,34.275433097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>823 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1481533602</SimpleData>
+		<SimpleData name="Account Number">007756</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105700621,34.275647511,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>188 LEWIS BLVD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1481699376</SimpleData>
+		<SimpleData name="Account Number">007684</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113946296,34.265982339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>836 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1852386117</SimpleData>
+		<SimpleData name="Account Number">007757</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105035252,34.275822641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>871 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1481535506</SimpleData>
+		<SimpleData name="Account Number">007758</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104107493,34.276613389,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>880 MORAN LAKE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1481544604</SimpleData>
+		<SimpleData name="Account Number">007759</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103884331,34.276806789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>900 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1850238165</SimpleData>
+		<SimpleData name="Account Number">007760</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103800758,34.277055771,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109 LEWIS BLVD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1482070520</SimpleData>
+		<SimpleData name="Account Number">007688</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114460824,34.265984697,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96 LEWIS BLVD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1410197580</SimpleData>
+		<SimpleData name="Account Number">007689</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114458985,34.266358091,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>906 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1850632901</SimpleData>
+		<SimpleData name="Account Number">007761</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103784427,34.277235033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>917 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1481533674</SimpleData>
+		<SimpleData name="Account Number">007763</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103947624,34.277571253,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 GOODY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1410191420</SimpleData>
+		<SimpleData name="Account Number">007710</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108803178,34.265879775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>928 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1850538216</SimpleData>
+		<SimpleData name="Account Number">007764</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103850994,34.277722708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>929 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1481534308</SimpleData>
+		<SimpleData name="Account Number">007765</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104044874,34.277773878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>929 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1850238235</SimpleData>
+		<SimpleData name="Account Number">007766</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104050177,34.277760077,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>130 LEWIS BLVD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1410197702</SimpleData>
+		<SimpleData name="Account Number">007694</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115290883,34.266128101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>976 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1481529242</SimpleData>
+		<SimpleData name="Account Number">007767</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103833198,34.278871424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>977 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1481534896</SimpleData>
+		<SimpleData name="Account Number">007768</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103998207,34.279121296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>988 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1480944806</SimpleData>
+		<SimpleData name="Account Number">106537</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103841159,34.279484003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1051 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1471909718</SimpleData>
+		<SimpleData name="Account Number">007769</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104772443,34.281142188,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 LEWIS BLVD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1850417774</SimpleData>
+		<SimpleData name="Account Number">105008</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115527858,34.266035187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1077 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1491456340</SimpleData>
+		<SimpleData name="Account Number">007770</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104732479,34.281784453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1089 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1852386542</SimpleData>
+		<SimpleData name="Account Number">007771</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104790102,34.282014925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1111 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1471490586</SimpleData>
+		<SimpleData name="Account Number">007772</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.104852121,34.282573043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>564 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1490636218</SimpleData>
+		<SimpleData name="Account Number">007776</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108086377,34.282726322,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>551 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1491456514</SimpleData>
+		<SimpleData name="Account Number">100056</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108573723,34.282696667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>541 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1491464412</SimpleData>
+		<SimpleData name="Account Number">007775</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108761328,34.28263156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>525 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1491441476</SimpleData>
+		<SimpleData name="Account Number">100057</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.109573551,34.282306642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>518 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1470843744</SimpleData>
+		<SimpleData name="Account Number">115152</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.109435433,34.282258517,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>251 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1850039054</SimpleData>
+		<SimpleData name="Account Number">007703</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.110681674,34.266130798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>477 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1491150278</SimpleData>
+		<SimpleData name="Account Number">100059</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.110896056,34.281775045,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>457 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1491454498</SimpleData>
+		<SimpleData name="Account Number">007774</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111476495,34.281760661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>443 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1491441570</SimpleData>
+		<SimpleData name="Account Number">007773</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111904198,34.281755284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>427 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1491441316</SimpleData>
+		<SimpleData name="Account Number">100060</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112393343,34.281760861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 MAYO RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1491464410</SimpleData>
+		<SimpleData name="Account Number">100062</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112675825,34.282409655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 MAYO RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1471608200</SimpleData>
+		<SimpleData name="Account Number">100063</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112716843,34.283399392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 MAYO RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1491441188</SimpleData>
+		<SimpleData name="Account Number">100064</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113157989,34.283399482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81 MAYO RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1491466090</SimpleData>
+		<SimpleData name="Account Number">100065</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113462278,34.283494088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103 MAYO RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1491454540</SimpleData>
+		<SimpleData name="Account Number">100066</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114156706,34.283494485,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>333 HASTY ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1481689962</SimpleData>
+		<SimpleData name="Account Number">007714</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108153227,34.265893868,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 SHEFFIELD RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1831872685</SimpleData>
+		<SimpleData name="Account Number">100068</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114525032,34.284689424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126 SHEFFIELD RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1491455040</SimpleData>
+		<SimpleData name="Account Number">100069</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114272375,34.285083084,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 SHEFFIELD RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1470688262</SimpleData>
+		<SimpleData name="Account Number">100071</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114957527,34.282594594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>355 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1491455798</SimpleData>
+		<SimpleData name="Account Number">100072</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114830428,34.281789008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>297 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1491454956</SimpleData>
+		<SimpleData name="Account Number">100073</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116373322,34.281279222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>277 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1834539111</SimpleData>
+		<SimpleData name="Account Number">100074</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116706242,34.280670765,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>215 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1491457364</SimpleData>
+		<SimpleData name="Account Number">100075</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.117853354,34.279618906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>197 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1491441540</SimpleData>
+		<SimpleData name="Account Number">100076</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.118371156,34.279656419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>177 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1480954424</SimpleData>
+		<SimpleData name="Account Number">100077</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.119162342,34.279663989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>133 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1480953398</SimpleData>
+		<SimpleData name="Account Number">100078</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.120596301,34.279758918,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1481691666</SimpleData>
+		<SimpleData name="Account Number">100079</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.120408066,34.279608137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>153 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1480953762</SimpleData>
+		<SimpleData name="Account Number">104560</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.119742543,34.27970476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>170 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1480953006</SimpleData>
+		<SimpleData name="Account Number">100080</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.11914493,34.279543554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>194 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1834412536</SimpleData>
+		<SimpleData name="Account Number">100081</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.118415606,34.279548236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>210 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1480953150</SimpleData>
+		<SimpleData name="Account Number">100082</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.118413061,34.2795484,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>212 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1491456146</SimpleData>
+		<SimpleData name="Account Number">100083</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.117938781,34.279518698,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 CHULA VISTA</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1480953884</SimpleData>
+		<SimpleData name="Account Number">100084</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116890696,34.279513048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 WILDWOOD LN NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1831877779</SimpleData>
+		<SimpleData name="Account Number">100086</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116645821,34.279515259,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1480954068</SimpleData>
+		<SimpleData name="Account Number">100087</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116318406,34.279460488,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1480954066</SimpleData>
+		<SimpleData name="Account Number">100088</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114920413,34.278309551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1480955226</SimpleData>
+		<SimpleData name="Account Number">100089</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115087656,34.277444888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 LARKWOOD DRIVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1480953248</SimpleData>
+		<SimpleData name="Account Number">103822</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115219699,34.276286374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1480952998</SimpleData>
+		<SimpleData name="Account Number">100090</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115128951,34.275669132,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 SUNSET WAY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1480954618</SimpleData>
+		<SimpleData name="Account Number">100091</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115771827,34.275031881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 SUNSET WAY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1480954678</SimpleData>
+		<SimpleData name="Account Number">100092</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116216492,34.275164477,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SUNSET WAY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1480953672</SimpleData>
+		<SimpleData name="Account Number">100093</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116166752,34.274906396,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 SUNSET WAY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1831079238</SimpleData>
+		<SimpleData name="Account Number">100094</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115377737,34.274952066,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1480954938</SimpleData>
+		<SimpleData name="Account Number">100095</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.11487551,34.275204646,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1480954582</SimpleData>
+		<SimpleData name="Account Number">100096</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114946438,34.275507932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1480944560</SimpleData>
+		<SimpleData name="Account Number">100097</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115022774,34.276002394,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1491459226</SimpleData>
+		<SimpleData name="Account Number">100098</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115041067,34.27674456,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1852393245</SimpleData>
+		<SimpleData name="Account Number">100099</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114845468,34.277450284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1480059254</SimpleData>
+		<SimpleData name="Account Number">100104</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114785502,34.277845768,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1480073032</SimpleData>
+		<SimpleData name="Account Number">100105</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114744132,34.278266552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 LARKWOOD DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1480954214</SimpleData>
+		<SimpleData name="Account Number">100106</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114758148,34.278540823,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1480073026</SimpleData>
+		<SimpleData name="Account Number">100107</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114703823,34.278977232,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1480067212</SimpleData>
+		<SimpleData name="Account Number">100108</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113942659,34.279223252,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1480944362</SimpleData>
+		<SimpleData name="Account Number">100109</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113176539,34.279144415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1480954034</SimpleData>
+		<SimpleData name="Account Number">106468</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113051486,34.279280798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1480953104</SimpleData>
+		<SimpleData name="Account Number">100110</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113220947,34.279281319,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 WILDWOOD LN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1491456588</SimpleData>
+		<SimpleData name="Account Number">100111</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115924301,34.279625289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>246 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1491442008</SimpleData>
+		<SimpleData name="Account Number">100112</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116981439,34.27982619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>270 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1491456584</SimpleData>
+		<SimpleData name="Account Number">100113</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116570196,34.280600302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>290 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1491456998</SimpleData>
+		<SimpleData name="Account Number">100114</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116330907,34.281046449,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>310 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1490144164</SimpleData>
+		<SimpleData name="Account Number">100115</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116167538,34.281422553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>362 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1491460882</SimpleData>
+		<SimpleData name="Account Number">015594</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114836571,34.281681296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>362 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1491456614</SimpleData>
+		<SimpleData name="Account Number">100116</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114820451,34.281676954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>382 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1491441610</SimpleData>
+		<SimpleData name="Account Number">100118</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114294894,34.281690848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>392 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1491457036</SimpleData>
+		<SimpleData name="Account Number">100119</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113605413,34.281686032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>410 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1491460250</SimpleData>
+		<SimpleData name="Account Number">100120</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112936625,34.281670681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>413 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1491441434</SimpleData>
+		<SimpleData name="Account Number">100061</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113030914,34.28175348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>418 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1491441346</SimpleData>
+		<SimpleData name="Account Number">100121</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112782684,34.281653482,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>424 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1491454944</SimpleData>
+		<SimpleData name="Account Number">100122</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112569277,34.281645715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>448 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1491458186</SimpleData>
+		<SimpleData name="Account Number">100123</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111851332,34.281637897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>488 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1831871262</SimpleData>
+		<SimpleData name="Account Number">100124</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.110479256,34.281724202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>516 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1491462248</SimpleData>
+		<SimpleData name="Account Number">100125</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.110068652,34.281914921,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>534 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1850417621</SimpleData>
+		<SimpleData name="Account Number">100126</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.109063054,34.282416555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>592 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1491462246</SimpleData>
+		<SimpleData name="Account Number">100127</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107460194,34.282906538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>608 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1831821903</SimpleData>
+		<SimpleData name="Account Number">123368</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107080622,34.282922243,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>644 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1491463810</SimpleData>
+		<SimpleData name="Account Number">007778</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105746402,34.282829392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>637 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1852378911</SimpleData>
+		<SimpleData name="Account Number">007777</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.105707078,34.282944388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>667 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1491461628</SimpleData>
+		<SimpleData name="Account Number">007779</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1048376,34.282896176,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>702 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1831877106</SimpleData>
+		<SimpleData name="Account Number">007780</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.103655807,34.282822425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>736 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1481533194</SimpleData>
+		<SimpleData name="Account Number">007781</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.102387456,34.283175323,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>741 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1481530762</SimpleData>
+		<SimpleData name="Account Number">007782</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.102324317,34.283334432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>761 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1470768224</SimpleData>
+		<SimpleData name="Account Number">007783</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.101953412,34.28357008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>859 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1481552088</SimpleData>
+		<SimpleData name="Account Number">007785</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100124956,34.285001685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>62 HARRIS ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1481529368</SimpleData>
+		<SimpleData name="Account Number">007786</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100395355,34.28536708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 HARRIS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1481539474</SimpleData>
+		<SimpleData name="Account Number">007787</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10083159,34.285375438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51 HARRIS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1450541386</SimpleData>
+		<SimpleData name="Account Number">007788</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100747227,34.285274473,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76 HARRIS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1490588442</SimpleData>
+		<SimpleData name="Account Number">007789</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100641913,34.285961694,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 HARRIS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1490686232</SimpleData>
+		<SimpleData name="Account Number">007790</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100658991,34.285952292,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 HARRIS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1832294913</SimpleData>
+		<SimpleData name="Account Number">113974</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100529745,34.285955617,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54 HARRIS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1491154458</SimpleData>
+		<SimpleData name="Account Number">119506</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100145186,34.285111735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>84 HARRIS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1481530498</SimpleData>
+		<SimpleData name="Account Number">007791</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100525042,34.285956048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>822 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1481512294</SimpleData>
+		<SimpleData name="Account Number">007792</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.100027266,34.283655078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>844 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1470818584</SimpleData>
+		<SimpleData name="Account Number">007793</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.09918235,34.283813056,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65 SHEFFIELD RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1491454646</SimpleData>
+		<SimpleData name="Account Number">100067</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115010995,34.28376916,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>904 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1831078517</SimpleData>
+		<SimpleData name="Account Number">007795</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.097852254,34.284225685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>901 WAYSIDE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1481529182</SimpleData>
+		<SimpleData name="Account Number">007796</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.097703424,34.28427389,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>913 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1470926672</SimpleData>
+		<SimpleData name="Account Number">007797</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.097549341,34.284128725,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>928 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1480954310</SimpleData>
+		<SimpleData name="Account Number">107021</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.097379653,34.283808156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>960 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1481528390</SimpleData>
+		<SimpleData name="Account Number">007798</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.096714501,34.283480046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>960 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1850396199</SimpleData>
+		<SimpleData name="Account Number">109151</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.096246816,34.283394175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>974 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1481531354</SimpleData>
+		<SimpleData name="Account Number">007799</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.095842469,34.283617643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>987 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1481552428</SimpleData>
+		<SimpleData name="Account Number">007801</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.095594111,34.283909727,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>990 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1481528518</SimpleData>
+		<SimpleData name="Account Number">007802</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.095460377,34.283902098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1481530514</SimpleData>
+		<SimpleData name="Account Number">007804</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.095291284,34.28456212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1001 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1481551004</SimpleData>
+		<SimpleData name="Account Number">007805</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.095722561,34.284654691,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>901 WAYSIDE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1852396311</SimpleData>
+		<SimpleData name="Account Number">007806</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.096113333,34.284888499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1020 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1491456810</SimpleData>
+		<SimpleData name="Account Number">007808</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.094536764,34.284604604,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1481521580</SimpleData>
+		<SimpleData name="Account Number">007809</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.093313254,34.28456363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1470795374</SimpleData>
+		<SimpleData name="Account Number">007810</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.093167768,34.284506114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1852302534</SimpleData>
+		<SimpleData name="Account Number">007811</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.093176166,34.284497629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1852388223</SimpleData>
+		<SimpleData name="Account Number">007812</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092605976,34.284601233,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1481528524</SimpleData>
+		<SimpleData name="Account Number">007813</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092218802,34.284927631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78 SUNNY NEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1481521810</SimpleData>
+		<SimpleData name="Account Number">007814</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091877854,34.284931894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>141 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1850537708</SimpleData>
+		<SimpleData name="Account Number">106134</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.090511412,34.286370613,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>146 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1852548901</SimpleData>
+		<SimpleData name="Account Number">109708</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.090320019,34.286430097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>181 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1470770152</SimpleData>
+		<SimpleData name="Account Number">115126</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.089894577,34.287289211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1450084426</SimpleData>
+		<SimpleData name="Account Number">007815</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091137118,34.285303268,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1481495822</SimpleData>
+		<SimpleData name="Account Number">007818</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.089430247,34.28785411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1481495820</SimpleData>
+		<SimpleData name="Account Number">007819</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.088601844,34.288406949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>271 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1481495974</SimpleData>
+		<SimpleData name="Account Number">007823</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.087701294,34.288437374,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1481544998</SimpleData>
+		<SimpleData name="Account Number">007825</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.087300866,34.288178909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>315 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1471392526</SimpleData>
+		<SimpleData name="Account Number">116356</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.086426506,34.288023569,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>345 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1471656624</SimpleData>
+		<SimpleData name="Account Number">116575</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.085586098,34.287834232,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>379 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1481495492</SimpleData>
+		<SimpleData name="Account Number">007828</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.085107699,34.288608784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1481536110</SimpleData>
+		<SimpleData name="Account Number">007830</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092719335,34.28512488,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1481552530</SimpleData>
+		<SimpleData name="Account Number">007831</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092745167,34.285200145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1481539984</SimpleData>
+		<SimpleData name="Account Number">007832</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092792408,34.285486415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1481534650</SimpleData>
+		<SimpleData name="Account Number">007833</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092616176,34.285642438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 BENJAMIN STREET NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1481545284</SimpleData>
+		<SimpleData name="Account Number">007834</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092803725,34.285774125,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1481538832</SimpleData>
+		<SimpleData name="Account Number">007835</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.09255586,34.286049364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1481533600</SimpleData>
+		<SimpleData name="Account Number">007836</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.09237256,34.286008247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1481536000</SimpleData>
+		<SimpleData name="Account Number">007837</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092357037,34.286016257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1481534306</SimpleData>
+		<SimpleData name="Account Number">007838</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092431576,34.286181434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1481536474</SimpleData>
+		<SimpleData name="Account Number">007839</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091904758,34.286471408,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 BENJAMIN ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1481533038</SimpleData>
+		<SimpleData name="Account Number">007840</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091887048,34.286482996,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 JEFFREY ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1481497190</SimpleData>
+		<SimpleData name="Account Number">007841</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092080968,34.286543401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 JEFFREY ST NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1481522552</SimpleData>
+		<SimpleData name="Account Number">007842</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092900826,34.286856366,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 JEFFREY STREET NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1481519168</SimpleData>
+		<SimpleData name="Account Number">007843</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092906805,34.286937199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 WAYSIDE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1481497142</SimpleData>
+		<SimpleData name="Account Number">007844</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.09304385,34.287264335,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1127 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1410170342</SimpleData>
+		<SimpleData name="Account Number">109906</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.094242643,34.285053364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1138 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1481495388</SimpleData>
+		<SimpleData name="Account Number">007845</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.093054871,34.287285053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1141 WAYSIDE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1470766856</SimpleData>
+		<SimpleData name="Account Number">105444</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.093338866,34.28758948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>380 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1491454626</SimpleData>
+		<SimpleData name="Account Number">100117</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114074213,34.28168034,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1118 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1852392799</SimpleData>
+		<SimpleData name="Account Number">007846</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092626364,34.288345168,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1179 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1850538975</SimpleData>
+		<SimpleData name="Account Number">007847</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.092673023,34.288548202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1142 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1470208650</SimpleData>
+		<SimpleData name="Account Number">007848</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091847014,34.289260775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1161 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1481495380</SimpleData>
+		<SimpleData name="Account Number">007849</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091685913,34.28966769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1245 WAYSIDE ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1481538846</SimpleData>
+		<SimpleData name="Account Number">007850</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091353717,34.290044447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1265 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1491141840</SimpleData>
+		<SimpleData name="Account Number">007852</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.091106568,34.290387762,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1482 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1481522426</SimpleData>
+		<SimpleData name="Account Number">100399</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.08420935,34.290114126,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1557 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1481536212</SimpleData>
+		<SimpleData name="Account Number">007853</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.081754815,34.290096944,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1505 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1480819170</SimpleData>
+		<SimpleData name="Account Number">105022</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.083485226,34.290309284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1591 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1410243968</SimpleData>
+		<SimpleData name="Account Number">110570</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.080957884,34.289769239,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>389 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1832306229</SimpleData>
+		<SimpleData name="Account Number">100128</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114006383,34.281782336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1644 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1832233605</SimpleData>
+		<SimpleData name="Account Number">007854</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.079294843,34.288899038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1104 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1481496818</SimpleData>
+		<SimpleData name="Account Number">007855</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.09349247,34.286687822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1058 WAYSIDE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1481496816</SimpleData>
+		<SimpleData name="Account Number">007856</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0939634,34.28523048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1058 WAYSIDE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1852549713</SimpleData>
+		<SimpleData name="Account Number">103934</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.093974497,34.285225377,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 CHULA VISTA</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1470387230</SimpleData>
+		<SimpleData name="Account Number">100085</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116936955,34.279497747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1045 WAYSIDE ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1481536116</SimpleData>
+		<SimpleData name="Account Number">007857</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.094213745,34.285098656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>381 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1470209870</SimpleData>
+		<SimpleData name="Account Number">112743</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106641645,34.26436062,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>378 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1471033780</SimpleData>
+		<SimpleData name="Account Number">007859</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106432382,34.264435365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>366 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1481551098</SimpleData>
+		<SimpleData name="Account Number">007860</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106644016,34.264186849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>361 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1831129621</SimpleData>
+		<SimpleData name="Account Number">007861</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106766401,34.264192233,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>364 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1471920742</SimpleData>
+		<SimpleData name="Account Number">007862</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106834264,34.263918906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>341 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1850412244</SimpleData>
+		<SimpleData name="Account Number">007864</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107270559,34.263578835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>323 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1481538840</SimpleData>
+		<SimpleData name="Account Number">007866</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10755012,34.263167747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60 GOODY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1852389357</SimpleData>
+		<SimpleData name="Account Number">007867</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10760474,34.263082274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 GOODY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1850295957</SimpleData>
+		<SimpleData name="Account Number">007868</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107631665,34.263064255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>293 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1481538824</SimpleData>
+		<SimpleData name="Account Number">007869</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107717237,34.263025816,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 GOODY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">1481521750</SimpleData>
+		<SimpleData name="Account Number">007870</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107789062,34.262865661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">1481539476</SimpleData>
+		<SimpleData name="Account Number">007871</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.107817961,34.26263755,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>299 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1481522432</SimpleData>
+		<SimpleData name="Account Number">007872</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108005475,34.262611423,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>289 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1832236521</SimpleData>
+		<SimpleData name="Account Number">007873</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108177672,34.262387943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>279 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1481552282</SimpleData>
+		<SimpleData name="Account Number">007874</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108296344,34.262217261,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>229 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1481539948</SimpleData>
+		<SimpleData name="Account Number">007875</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10865735,34.261714395,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 TOPAZ DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1481503112</SimpleData>
+		<SimpleData name="Account Number">007876</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108653413,34.261522256,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 TOPAZ </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Meter Number">1834543433</SimpleData>
+		<SimpleData name="Account Number">007877</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.10875397,34.261404272,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>256 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1852388725</SimpleData>
+		<SimpleData name="Account Number">007878</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108769136,34.261400405,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>246 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1481545144</SimpleData>
+		<SimpleData name="Account Number">007879</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.108757695,34.261388212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1481496624</SimpleData>
+		<SimpleData name="Account Number">007880</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.109671723,34.260792708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>154 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">1481520170</SimpleData>
+		<SimpleData name="Account Number">007883</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.110820865,34.259578074,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1980 KINGSTON HWY SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1491456290</SimpleData>
+		<SimpleData name="Account Number">007884</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.111391993,34.25519603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1950 KINGSTON HW SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1481497338</SimpleData>
+		<SimpleData name="Account Number">007887</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112240851,34.255294807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1953 KINGSTON RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1481533620</SimpleData>
+		<SimpleData name="Account Number">007886</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112158495,34.255436677,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1938 KINGSTON HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1832240603</SimpleData>
+		<SimpleData name="Account Number">110113</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.112878355,34.255308077,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1930 KINGSTON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1481535594</SimpleData>
+		<SimpleData name="Account Number">007889</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.113069207,34.255286967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 KINGSTON HIGHWAY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1850544949</SimpleData>
+		<SimpleData name="Account Number">007890</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.114348391,34.255239962,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1871 KINGSTON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1470865170</SimpleData>
+		<SimpleData name="Account Number">007891</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115037865,34.25539093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1822 KINGSTON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Meter Number">1470878714</SimpleData>
+		<SimpleData name="Account Number">007892</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.115783258,34.255396777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1837 KINGSTON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1470795416</SimpleData>
+		<SimpleData name="Account Number">007893</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116024581,34.255715838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1835 KINGSTON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1470863900</SimpleData>
+		<SimpleData name="Account Number">007894</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116020375,34.255706375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1818 KINGSTON ROAD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1481558542</SimpleData>
+		<SimpleData name="Account Number">007895</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.116653569,34.255832138,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 KINGSTON RD RT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1491459020</SimpleData>
+		<SimpleData name="Account Number">007896</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1175456,34.256524865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1676 KINGSTON ROAD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1852393228</SimpleData>
+		<SimpleData name="Account Number">007899</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.119774567,34.257007339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>293 SUNNY HEIGHTS DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1481493300</SimpleData>
+		<SimpleData name="Account Number">007824</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.08718537,34.288308595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>392 MORAN LAKE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_47">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1450541714</SimpleData>
+		<SimpleData name="Account Number">007858</SimpleData>
+		<SimpleData name="Route">47</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106055998,34.264897147,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,2811 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_72" id="Route_72">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="int"></SimpleField>
+</Schema>
+<Folder><name>Route_72</name>
+  <Placemark>
+	<name>59 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1852647171</SimpleData>
+		<SimpleData name="Account Number">011250</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169636111,34.376206822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1833016841</SimpleData>
+		<SimpleData name="Account Number">011251</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169437946,34.376449826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1852276674</SimpleData>
+		<SimpleData name="Account Number">011252</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169433321,34.376454777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>86 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1470669114</SimpleData>
+		<SimpleData name="Account Number">011253</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169020117,34.376709483,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1470713990</SimpleData>
+		<SimpleData name="Account Number">011254</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169089431,34.376852659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1470773092</SimpleData>
+		<SimpleData name="Account Number">011255</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169049647,34.376858934,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1852599780</SimpleData>
+		<SimpleData name="Account Number">011256</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168630008,34.377325679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>131 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1852380809</SimpleData>
+		<SimpleData name="Account Number">011257</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16817991,34.377834062,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1470697342</SimpleData>
+		<SimpleData name="Account Number">011258</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168031343,34.37809991,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>169 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1470702862</SimpleData>
+		<SimpleData name="Account Number">011259</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167780717,34.378464219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>157 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1470697398</SimpleData>
+		<SimpleData name="Account Number">100343</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167839414,34.378363476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>208 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1470763846</SimpleData>
+		<SimpleData name="Account Number">011260</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166695871,34.379475064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>350 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1542817106</SimpleData>
+		<SimpleData name="Account Number">011261</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16409208,34.382953955,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>366 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1470736098</SimpleData>
+		<SimpleData name="Account Number">011262</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164148924,34.383293057,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>378 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1470713148</SimpleData>
+		<SimpleData name="Account Number">011263</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164147458,34.383516649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1832090800</SimpleData>
+		<SimpleData name="Account Number">011264</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164333883,34.383705555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>394 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1470672724</SimpleData>
+		<SimpleData name="Account Number">011265</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164117892,34.383866625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>415 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1852287288</SimpleData>
+		<SimpleData name="Account Number">011266</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164227962,34.384338699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>405 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1470669888</SimpleData>
+		<SimpleData name="Account Number">011268</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164289414,34.383935671,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>419 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1540813996</SimpleData>
+		<SimpleData name="Account Number">011269</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164166058,34.384703318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>429 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1470702410</SimpleData>
+		<SimpleData name="Account Number">011270</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164151036,34.384906386,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2815 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1470701500</SimpleData>
+		<SimpleData name="Account Number">011271</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171115826,34.375149462,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2838 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1853082849</SimpleData>
+		<SimpleData name="Account Number">011273</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171290941,34.375789655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2844 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1470695230</SimpleData>
+		<SimpleData name="Account Number">011274</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171331833,34.375846108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2844 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1852491251</SimpleData>
+		<SimpleData name="Account Number">011274</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171324375,34.375851835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2858 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1850611650</SimpleData>
+		<SimpleData name="Account Number">011275</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171553682,34.376136834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2872 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1470689906</SimpleData>
+		<SimpleData name="Account Number">011276</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171705766,34.376430854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5470 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1540825212</SimpleData>
+		<SimpleData name="Account Number">011277</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172033604,34.376591577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2880 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1470770124</SimpleData>
+		<SimpleData name="Account Number">011279</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171909808,34.376713654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2914 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1540818232</SimpleData>
+		<SimpleData name="Account Number">011281</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172139031,34.377088325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2894 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1470682692</SimpleData>
+		<SimpleData name="Account Number">011282</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17226426,34.37723823,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5490 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1470540222</SimpleData>
+		<SimpleData name="Account Number">101520</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172442582,34.377247365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2915 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1470703116</SimpleData>
+		<SimpleData name="Account Number">011283</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727204,34.377660442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2922 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1470695948</SimpleData>
+		<SimpleData name="Account Number">011284</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172671337,34.377902544,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5548 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1852279345</SimpleData>
+		<SimpleData name="Account Number">011285</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.173229637,34.378432743,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2956 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1470701194</SimpleData>
+		<SimpleData name="Account Number">011286</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.173270212,34.378766021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2988 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1831113287</SimpleData>
+		<SimpleData name="Account Number">011288</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17370606,34.37943636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2992 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1852634513</SimpleData>
+		<SimpleData name="Account Number">011290</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.173839079,34.379662388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3008 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1852287401</SimpleData>
+		<SimpleData name="Account Number">011291</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17402149,34.37996851,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3020 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1470701518</SimpleData>
+		<SimpleData name="Account Number">011292</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174109008,34.380089741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5630 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1470691866</SimpleData>
+		<SimpleData name="Account Number">011293</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174516833,34.380708961,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5690 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1470701532</SimpleData>
+		<SimpleData name="Account Number">011294</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175219288,34.381932014,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5700 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1470693334</SimpleData>
+		<SimpleData name="Account Number">011295</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175394223,34.382181615,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5710 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1470772018</SimpleData>
+		<SimpleData name="Account Number">011296</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175453218,34.382283024,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5710 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1852490995</SimpleData>
+		<SimpleData name="Account Number">011296</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175464433,34.382274552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5738 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1470672128</SimpleData>
+		<SimpleData name="Account Number">011297</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175954045,34.383142183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5760 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1541049260</SimpleData>
+		<SimpleData name="Account Number">011298</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17634166,34.383716401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5774 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1852977581</SimpleData>
+		<SimpleData name="Account Number">011299</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.176562071,34.384006933,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5790 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1470681600</SimpleData>
+		<SimpleData name="Account Number">011300</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17688741,34.384506146,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5808 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1541453804</SimpleData>
+		<SimpleData name="Account Number">011301</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.177111958,34.384816207,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1470967420</SimpleData>
+		<SimpleData name="Account Number">011302</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.177393854,34.385696219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1541458660</SimpleData>
+		<SimpleData name="Account Number">011302</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.177389401,34.385698918,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1541563002</SimpleData>
+		<SimpleData name="Account Number">011304</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.176720014,34.385972516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1852308390</SimpleData>
+		<SimpleData name="Account Number">011305</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175877456,34.386123097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1852951290</SimpleData>
+		<SimpleData name="Account Number">011306</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175451524,34.3861859,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>96 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1450460680</SimpleData>
+		<SimpleData name="Account Number">011307</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17478057,34.386042789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1833025438</SimpleData>
+		<SimpleData name="Account Number">011308</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17374725,34.386276665,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1410239822</SimpleData>
+		<SimpleData name="Account Number">011309</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172479915,34.38638759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>186 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1542442520</SimpleData>
+		<SimpleData name="Account Number">011310</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171902671,34.386215709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>189 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1852639497</SimpleData>
+		<SimpleData name="Account Number">011311</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17175471,34.386353849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>221 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1852308386</SimpleData>
+		<SimpleData name="Account Number">011312</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.170833922,34.386341753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>230 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1470773180</SimpleData>
+		<SimpleData name="Account Number">011314</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.170166815,34.386120454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>272 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1410241304</SimpleData>
+		<SimpleData name="Account Number">011315</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169305503,34.386017871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>269 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1541564878</SimpleData>
+		<SimpleData name="Account Number">011316</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169060806,34.386171697,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1850528342</SimpleData>
+		<SimpleData name="Account Number">112614</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168382004,34.386072679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>292 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1470719774</SimpleData>
+		<SimpleData name="Account Number">011317</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168385346,34.385871849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>308 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1470712910</SimpleData>
+		<SimpleData name="Account Number">011318</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168038387,34.385795798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>336 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1852634574</SimpleData>
+		<SimpleData name="Account Number">011320</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166713759,34.385573333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>354 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1470702888</SimpleData>
+		<SimpleData name="Account Number">011321</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166350191,34.385529338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>372 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1470699698</SimpleData>
+		<SimpleData name="Account Number">011322</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.165891512,34.385423833,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>448 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1470681190</SimpleData>
+		<SimpleData name="Account Number">011323</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1639298,34.385096689,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>428 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1470699700</SimpleData>
+		<SimpleData name="Account Number">011324</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163929234,34.385098926,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>464 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1831829420</SimpleData>
+		<SimpleData name="Account Number">011325</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163136101,34.384971496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>480 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1470719326</SimpleData>
+		<SimpleData name="Account Number">011326</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162276555,34.384831289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59 BARNES RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1482259154</SimpleData>
+		<SimpleData name="Account Number">011327</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161882742,34.384749702,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1470713166</SimpleData>
+		<SimpleData name="Account Number">011328</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161617635,34.384688638,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>520 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1541035564</SimpleData>
+		<SimpleData name="Account Number">011329</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160949448,34.38463134,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>54 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1470713256</SimpleData>
+		<SimpleData name="Account Number">011330</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16037084,34.384469296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>560 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1853058330</SimpleData>
+		<SimpleData name="Account Number">011331</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160026974,34.38438385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>592 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1470699350</SimpleData>
+		<SimpleData name="Account Number">102638</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15875651,34.384132382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>627 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1481712444</SimpleData>
+		<SimpleData name="Account Number">109517</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157517138,34.384112243,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>636 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1450068544</SimpleData>
+		<SimpleData name="Account Number">011332</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155887328,34.38390351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>750 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1470669116</SimpleData>
+		<SimpleData name="Account Number">103718</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152982722,34.383908041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>780 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1470748328</SimpleData>
+		<SimpleData name="Account Number">011333</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152002555,34.383887842,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>836 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1833017199</SimpleData>
+		<SimpleData name="Account Number">011334</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150646011,34.383931848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>848 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1541019234</SimpleData>
+		<SimpleData name="Account Number">011335</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150222333,34.383958272,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>890 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1830779935</SimpleData>
+		<SimpleData name="Account Number">011336</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.148648267,34.384121878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>928 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1832275749</SimpleData>
+		<SimpleData name="Account Number">011337</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.147673355,34.384281397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>934 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1540847548</SimpleData>
+		<SimpleData name="Account Number">011338</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.147568186,34.384298676,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1112 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1136491</SimpleData>
+		<SimpleData name="Account Number">011339</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.143694135,34.384234949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1112 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1470699434</SimpleData>
+		<SimpleData name="Account Number">011340</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.141685778,34.38353159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1228 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1540865668</SimpleData>
+		<SimpleData name="Account Number">011341</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.138537345,34.382190443,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1252 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1853085790</SimpleData>
+		<SimpleData name="Account Number">011342</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137890238,34.38186142,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1282 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1852382189</SimpleData>
+		<SimpleData name="Account Number">011343</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.136876637,34.381440531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1290 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1470681602</SimpleData>
+		<SimpleData name="Account Number">011344</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.136013586,34.381144413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1316 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1470678060</SimpleData>
+		<SimpleData name="Account Number">011345</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.135966509,34.381130155,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1362 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1470884968</SimpleData>
+		<SimpleData name="Account Number">011346</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.134143118,34.380793208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1394 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1470767004</SimpleData>
+		<SimpleData name="Account Number">011347</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.13319962,34.380710694,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1404 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1470719816</SimpleData>
+		<SimpleData name="Account Number">102009</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.134496518,34.380819076,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1418 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1541565774</SimpleData>
+		<SimpleData name="Account Number">114784</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.132743209,34.380720334,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HWY 140_OLD DALTON</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1470681184</SimpleData>
+		<SimpleData name="Account Number">011348</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.132128294,34.380629065,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1506 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1541029764</SimpleData>
+		<SimpleData name="Account Number">011349</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.12970698,34.380558248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1640 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1470762886</SimpleData>
+		<SimpleData name="Account Number">011354</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.12518671,34.379769385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1595 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1833025490</SimpleData>
+		<SimpleData name="Account Number">011351</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.125674855,34.380214385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1609 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1491016288</SimpleData>
+		<SimpleData name="Account Number">011352</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.125686901,34.380222135,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1611 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1833017222</SimpleData>
+		<SimpleData name="Account Number">011353</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.125670847,34.380212858,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1445 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1470738552</SimpleData>
+		<SimpleData name="Account Number">011355</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.131606255,34.380961756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1445 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1470738108</SimpleData>
+		<SimpleData name="Account Number">011356</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.131603178,34.380968772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1421 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1540845778</SimpleData>
+		<SimpleData name="Account Number">011357</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.132333417,34.381009472,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1419 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1833016859</SimpleData>
+		<SimpleData name="Account Number">011358</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.133018871,34.381060171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1393 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1470792210</SimpleData>
+		<SimpleData name="Account Number">011359</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.133153236,34.381076338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1365 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1470732100</SimpleData>
+		<SimpleData name="Account Number">011360</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.134121741,34.381082426,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1343 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1852362801</SimpleData>
+		<SimpleData name="Account Number">011361</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.134834226,34.381203421,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1333 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1852547096</SimpleData>
+		<SimpleData name="Account Number">011362</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.135356051,34.381285164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1319 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1470847056</SimpleData>
+		<SimpleData name="Account Number">011363</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.135573371,34.381359636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1319 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1852662931</SimpleData>
+		<SimpleData name="Account Number">011363</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.135575267,34.381363662,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1275 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1470767002</SimpleData>
+		<SimpleData name="Account Number">011364</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137118412,34.381872423,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1471469110</SimpleData>
+		<SimpleData name="Account Number">117243</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137941757,34.382527822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1470738644</SimpleData>
+		<SimpleData name="Account Number">011365</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137665526,34.382940697,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1833016596</SimpleData>
+		<SimpleData name="Account Number">011366</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137715132,34.383060236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1831112167</SimpleData>
+		<SimpleData name="Account Number">011367</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137463809,34.383166979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1481712688</SimpleData>
+		<SimpleData name="Account Number">011368</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137360457,34.383430255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1852387896</SimpleData>
+		<SimpleData name="Account Number">011369</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137086652,34.383454166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1470784286</SimpleData>
+		<SimpleData name="Account Number">011370</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.137077475,34.383577812,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1470704954</SimpleData>
+		<SimpleData name="Account Number">011371</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.136942511,34.383487373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 MARLENE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1470812750</SimpleData>
+		<SimpleData name="Account Number">011372</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1383927,34.382420431,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1139 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1470818076</SimpleData>
+		<SimpleData name="Account Number">011373</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.141045138,34.383570028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1470785056</SimpleData>
+		<SimpleData name="Account Number">011374</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.141468029,34.384796329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>71 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1852308865</SimpleData>
+		<SimpleData name="Account Number">011375</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14200656,34.38572192,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>145 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1852277951</SimpleData>
+		<SimpleData name="Account Number">011376</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.143093687,34.387546059,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>157 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1470829436</SimpleData>
+		<SimpleData name="Account Number">011377</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.143252176,34.387705432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>207 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1470798010</SimpleData>
+		<SimpleData name="Account Number">011379</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.143909189,34.388638619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1540730040</SimpleData>
+		<SimpleData name="Account Number">011380</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.143893242,34.388814139,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>235 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1481713138</SimpleData>
+		<SimpleData name="Account Number">011381</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.144353569,34.389267526,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>271 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1470780364</SimpleData>
+		<SimpleData name="Account Number">011382</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145086757,34.39027015,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>284 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1833017205</SimpleData>
+		<SimpleData name="Account Number">011383</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145268635,34.390606348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1470803036</SimpleData>
+		<SimpleData name="Account Number">011384</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145863193,34.391181436,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1470809938</SimpleData>
+		<SimpleData name="Account Number">015501</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14595496,34.391358624,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1853098869</SimpleData>
+		<SimpleData name="Account Number">015501</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14594822,34.391363379,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>298 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1470817756</SimpleData>
+		<SimpleData name="Account Number">011385</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14594761,34.391364531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1470818514</SimpleData>
+		<SimpleData name="Account Number">011386</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145948732,34.391366122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>320 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1470783918</SimpleData>
+		<SimpleData name="Account Number">011388</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145951589,34.391371882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>327 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1470720236</SimpleData>
+		<SimpleData name="Account Number">011387</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.146456104,34.391712506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>364 KELLETT RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1470812206</SimpleData>
+		<SimpleData name="Account Number">011389</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.146762045,34.39233355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1065 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1470721664</SimpleData>
+		<SimpleData name="Account Number">011390</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.143042337,34.384339058,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>947 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1852387521</SimpleData>
+		<SimpleData name="Account Number">011392</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.147305774,34.38450756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>899 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1470791288</SimpleData>
+		<SimpleData name="Account Number">011393</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149170217,34.384272383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>853 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1470681800</SimpleData>
+		<SimpleData name="Account Number">011394</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150065755,34.384191749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>841 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1470803254</SimpleData>
+		<SimpleData name="Account Number">011395</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150606366,34.384102092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>825 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1470786206</SimpleData>
+		<SimpleData name="Account Number">011396</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151022155,34.384111356,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>809 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1852386102</SimpleData>
+		<SimpleData name="Account Number">011397</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151658268,34.384090085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>779 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1470772882</SimpleData>
+		<SimpleData name="Account Number">011398</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15270991,34.384095313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>709 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1833017189</SimpleData>
+		<SimpleData name="Account Number">011399</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154742511,34.384066015,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>657 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1470802238</SimpleData>
+		<SimpleData name="Account Number">011400</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156599431,34.384011986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>615 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1470878718</SimpleData>
+		<SimpleData name="Account Number">011401</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1579376,34.384148623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>597 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1470833018</SimpleData>
+		<SimpleData name="Account Number">011402</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.158574196,34.384319942,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>565 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1481713048</SimpleData>
+		<SimpleData name="Account Number">011403</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159606612,34.384487495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>555 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1470766850</SimpleData>
+		<SimpleData name="Account Number">011404</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159956317,34.384545821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>543 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1470732096</SimpleData>
+		<SimpleData name="Account Number">011405</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160233327,34.384640737,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>537 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1470767042</SimpleData>
+		<SimpleData name="Account Number">011406</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160431228,34.384653236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>523 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1470767048</SimpleData>
+		<SimpleData name="Account Number">011407</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160990245,34.384819941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>505 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1470831372</SimpleData>
+		<SimpleData name="Account Number">011408</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161534799,34.38492995,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>475 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1852393232</SimpleData>
+		<SimpleData name="Account Number">011410</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162590652,34.385069704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>459 TURKEY MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1470818386</SimpleData>
+		<SimpleData name="Account Number">011411</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162919798,34.385129718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>470 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1540836744</SimpleData>
+		<SimpleData name="Account Number">107926</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163817895,34.38557752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>472 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1852386135</SimpleData>
+		<SimpleData name="Account Number">011412</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163688882,34.385986976,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 ARMUCHEE MID SCHOOL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1540246544</SimpleData>
+		<SimpleData name="Account Number">102903</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164073252,34.385823923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 ARMUCHEE MID SCHOOL_NEW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1831572342</SimpleData>
+		<SimpleData name="Account Number">102903</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.164068713,34.385814817,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>482 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1830673594</SimpleData>
+		<SimpleData name="Account Number">011413</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163596847,34.386209474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>492 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1470785950</SimpleData>
+		<SimpleData name="Account Number">011414</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163545529,34.386471075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>502 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1491441204</SimpleData>
+		<SimpleData name="Account Number">011415</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163427134,34.386764414,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>546 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1470797852</SimpleData>
+		<SimpleData name="Account Number">011416</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163205302,34.387999495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>543 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1470803040</SimpleData>
+		<SimpleData name="Account Number">011417</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163404076,34.387990846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>554 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1470817856</SimpleData>
+		<SimpleData name="Account Number">011418</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161554287,34.388458028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>554 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1470747278</SimpleData>
+		<SimpleData name="Account Number">011419</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159603559,34.388433307,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>562 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1470812746</SimpleData>
+		<SimpleData name="Account Number">011420</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163236526,34.388366504,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>584 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1471058480</SimpleData>
+		<SimpleData name="Account Number">011421</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163212067,34.388884327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>575 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1852307918</SimpleData>
+		<SimpleData name="Account Number">011422</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163407016,34.38894409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>599 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1470803252</SimpleData>
+		<SimpleData name="Account Number">011423</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163403791,34.389563898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>608 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1831081307</SimpleData>
+		<SimpleData name="Account Number">011424</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163182849,34.389784896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>617 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1852304221</SimpleData>
+		<SimpleData name="Account Number">011425</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163356484,34.390024181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>622 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1470772410</SimpleData>
+		<SimpleData name="Account Number">011426</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16310763,34.390204973,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>632 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1470817830</SimpleData>
+		<SimpleData name="Account Number">011427</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163029093,34.390434686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>636 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1470818390</SimpleData>
+		<SimpleData name="Account Number">011428</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162983215,34.390535648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>647 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1491465376</SimpleData>
+		<SimpleData name="Account Number">011429</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.163114899,34.39072735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>664 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1852308370</SimpleData>
+		<SimpleData name="Account Number">011430</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162696614,34.391288245,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>679 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1470803564</SimpleData>
+		<SimpleData name="Account Number">011431</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162786094,34.391530282,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>684 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1470777692</SimpleData>
+		<SimpleData name="Account Number">011432</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162575049,34.391695335,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>689 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1470828728</SimpleData>
+		<SimpleData name="Account Number">011433</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162727561,34.391914675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>698 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1470747776</SimpleData>
+		<SimpleData name="Account Number">011434</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162480368,34.392068763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>711 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1481712680</SimpleData>
+		<SimpleData name="Account Number">011435</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162561414,34.392481529,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>718 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1470803610</SimpleData>
+		<SimpleData name="Account Number">011436</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162337488,34.392526775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>721 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1831077742</SimpleData>
+		<SimpleData name="Account Number">011437</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162449628,34.39275878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>731 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1470834088</SimpleData>
+		<SimpleData name="Account Number">011438</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162361863,34.392947467,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>722 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1470768640</SimpleData>
+		<SimpleData name="Account Number">011439</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162154521,34.392932333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>737 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1470768634</SimpleData>
+		<SimpleData name="Account Number">011440</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162242103,34.393183837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>744 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1852305024</SimpleData>
+		<SimpleData name="Account Number">011441</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162101496,34.39316499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>750 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1470773144</SimpleData>
+		<SimpleData name="Account Number">011442</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16196562,34.393340301,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>747 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1470828744</SimpleData>
+		<SimpleData name="Account Number">011443</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.162159121,34.393422644,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>760 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1470829178</SimpleData>
+		<SimpleData name="Account Number">011444</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16187697,34.393640733,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>775 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1834633943</SimpleData>
+		<SimpleData name="Account Number">100719</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161843954,34.394100703,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>769 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1850422361</SimpleData>
+		<SimpleData name="Account Number">011446</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161842884,34.394101465,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>771 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1830674228</SimpleData>
+		<SimpleData name="Account Number">011447</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161798608,34.394128965,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>770 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1540824594</SimpleData>
+		<SimpleData name="Account Number">011445</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161634799,34.394049491,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>776 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1410207354</SimpleData>
+		<SimpleData name="Account Number">011448</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161585921,34.394100647,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>810 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1470847034</SimpleData>
+		<SimpleData name="Account Number">011450</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161234387,34.394865959,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>807 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1470819972</SimpleData>
+		<SimpleData name="Account Number">100350</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161318718,34.395108697,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>829 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1470812666</SimpleData>
+		<SimpleData name="Account Number">011451</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161267053,34.395230777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>824 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1832275214</SimpleData>
+		<SimpleData name="Account Number">011452</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161000481,34.39534293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>854 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1470828806</SimpleData>
+		<SimpleData name="Account Number">011453</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16091939,34.395930515,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>857 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1850237169</SimpleData>
+		<SimpleData name="Account Number">011454</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161101518,34.396101891,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>848 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1830680160</SimpleData>
+		<SimpleData name="Account Number">011455</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160887313,34.396556744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>891 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1470847040</SimpleData>
+		<SimpleData name="Account Number">011456</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.161073394,34.39707346,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>888 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1852599602</SimpleData>
+		<SimpleData name="Account Number">011457</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160849208,34.397211707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>915 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1470787056</SimpleData>
+		<SimpleData name="Account Number">011458</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160836502,34.397711721,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>979 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1852977555</SimpleData>
+		<SimpleData name="Account Number">011459</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160965522,34.399567143,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1020 FLOYD SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1831646651</SimpleData>
+		<SimpleData name="Account Number">123429</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.16025267,34.401644089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1021 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1470775122</SimpleData>
+		<SimpleData name="Account Number">011460</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160783011,34.400557107,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1037 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1852662919</SimpleData>
+		<SimpleData name="Account Number">011461</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160984013,34.401208743,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1057 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1834372091</SimpleData>
+		<SimpleData name="Account Number">011462</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.160901052,34.401374011,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1100 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1470779246</SimpleData>
+		<SimpleData name="Account Number">011463</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.159008922,34.402381796,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1150 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1470786202</SimpleData>
+		<SimpleData name="Account Number">011464</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157989274,34.40301643,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1166 FLOYD SPRS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1470818600</SimpleData>
+		<SimpleData name="Account Number">015630</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1574836,34.403657672,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1183 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1481713026</SimpleData>
+		<SimpleData name="Account Number">011465</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157552501,34.404040824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1190 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1490138364</SimpleData>
+		<SimpleData name="Account Number">011466</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157340244,34.404239509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1210 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1852978475</SimpleData>
+		<SimpleData name="Account Number">118935</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157336536,34.404580931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1234 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1470829084</SimpleData>
+		<SimpleData name="Account Number">011467</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157348233,34.405582656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1245 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1410242274</SimpleData>
+		<SimpleData name="Account Number">011468</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157525356,34.405625915,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1300 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1540555592</SimpleData>
+		<SimpleData name="Account Number">011469</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15746223,34.407296151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1307 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1470849780</SimpleData>
+		<SimpleData name="Account Number">011470</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157664116,34.4076002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2045 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1540767150</SimpleData>
+		<SimpleData name="Account Number">130203</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155529561,34.426896329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1341 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1834542761</SimpleData>
+		<SimpleData name="Account Number">126526</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157715435,34.408317512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1344 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1470988758</SimpleData>
+		<SimpleData name="Account Number">011471</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157546757,34.408192039,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1381 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1470950584</SimpleData>
+		<SimpleData name="Account Number">011472</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157820156,34.409483921,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1393 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1852308422</SimpleData>
+		<SimpleData name="Account Number">011473</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157828177,34.409686375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1403 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1470977402</SimpleData>
+		<SimpleData name="Account Number">011474</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157850883,34.409952331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1429 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1470982308</SimpleData>
+		<SimpleData name="Account Number">011475</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157869158,34.410603319,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1441 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1470979344</SimpleData>
+		<SimpleData name="Account Number">011476</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157829772,34.410986282,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1436 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1470784788</SimpleData>
+		<SimpleData name="Account Number">011477</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.157506147,34.411201611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1594 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1852980103</SimpleData>
+		<SimpleData name="Account Number">011478</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156219182,34.414893845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1603 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1852304375</SimpleData>
+		<SimpleData name="Account Number">011479</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156365914,34.415260041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1627 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1470747994</SimpleData>
+		<SimpleData name="Account Number">011480</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156274951,34.415946135,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1470696224</SimpleData>
+		<SimpleData name="Account Number">011482</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155970063,34.415952169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1540805396</SimpleData>
+		<SimpleData name="Account Number">011481</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.155969535,34.415948426,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1641 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1470796100</SimpleData>
+		<SimpleData name="Account Number">011483</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156218491,34.416405609,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1663 FLOYD SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1830672887</SimpleData>
+		<SimpleData name="Account Number">011484</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.156165169,34.41695611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>81 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">1850391215</SimpleData>
+		<SimpleData name="Account Number">011493</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154134398,34.413174261,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">1852388032</SimpleData>
+		<SimpleData name="Account Number">011494</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154093692,34.413172856,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>145 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1852278496</SimpleData>
+		<SimpleData name="Account Number">011492</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.154106618,34.41284368,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>227 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1470712100</SimpleData>
+		<SimpleData name="Account Number">011485</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152867222,34.410340352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 TRACT 1 HERRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1470966152</SimpleData>
+		<SimpleData name="Account Number">011486</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152480482,34.409674703,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>311 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1852573688</SimpleData>
+		<SimpleData name="Account Number">011488</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152480034,34.409669561,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>405 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1470696648</SimpleData>
+		<SimpleData name="Account Number">011489</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152473739,34.409649327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>159 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Meter Number">1831648298</SimpleData>
+		<SimpleData name="Account Number">011490</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152463228,34.409637439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>441 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1853021483</SimpleData>
+		<SimpleData name="Account Number">011491</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152460901,34.409627402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>430 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1540746486</SimpleData>
+		<SimpleData name="Account Number">101263</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152548716,34.409582509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>360 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1470708820</SimpleData>
+		<SimpleData name="Account Number">100840</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152537366,34.409565834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>522 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">1834508576</SimpleData>
+		<SimpleData name="Account Number">100738</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152537891,34.40955965,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>410 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1470977874</SimpleData>
+		<SimpleData name="Account Number">100858</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152533259,34.409541745,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>412 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1470697606</SimpleData>
+		<SimpleData name="Account Number">100815</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152529162,34.409534193,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>556 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1470713768</SimpleData>
+		<SimpleData name="Account Number">100878</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152528581,34.409525756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>540 HERRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1470695306</SimpleData>
+		<SimpleData name="Account Number">100868</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152520908,34.409522419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1424 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1470968372</SimpleData>
+		<SimpleData name="Account Number">104872</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.152287989,34.413404396,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1443 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1852306733</SimpleData>
+		<SimpleData name="Account Number">011495</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.151529343,34.413830804,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1444 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1470703704</SimpleData>
+		<SimpleData name="Account Number">105573</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.15164177,34.41357121,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1472 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Meter Number">1830505624</SimpleData>
+		<SimpleData name="Account Number">105806</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150726891,34.413788222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1483 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1832598072</SimpleData>
+		<SimpleData name="Account Number">011496</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.150334594,34.41413744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1510 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1830511683</SimpleData>
+		<SimpleData name="Account Number">011497</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14948477,34.41411935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1507 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1850390195</SimpleData>
+		<SimpleData name="Account Number">011498</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149207036,34.414441382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1523 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1470712224</SimpleData>
+		<SimpleData name="Account Number">011499</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.149045841,34.414518648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1563 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1852315823</SimpleData>
+		<SimpleData name="Account Number">011500</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.147817623,34.414812611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1586 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1470985346</SimpleData>
+		<SimpleData name="Account Number">011502</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.147688056,34.414624338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1581 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1852662907</SimpleData>
+		<SimpleData name="Account Number">011503</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.147239423,34.415012141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1599 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">274</SimpleData>
+		<SimpleData name="Meter Number">1470696222</SimpleData>
+		<SimpleData name="Account Number">011504</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.14653881,34.415179553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1609 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">275</SimpleData>
+		<SimpleData name="Meter Number">1852308833</SimpleData>
+		<SimpleData name="Account Number">011506</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.146302613,34.415242555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1621 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">276</SimpleData>
+		<SimpleData name="Meter Number">1850389792</SimpleData>
+		<SimpleData name="Account Number">011507</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145896162,34.415312365,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1639 NEW ROSEDALE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">277</SimpleData>
+		<SimpleData name="Meter Number">1830675796</SimpleData>
+		<SimpleData name="Account Number">011508</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.145453536,34.415455256,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">278</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1704906068055,34.3863147010365,191.616800749688</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">279</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1327458529736,34.3807181654778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">280</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1345019099853,34.3808180601362,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Route_72">
+		<SimpleData name="fid">281</SimpleData>
+		<SimpleData name="Route">72</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1573377732442,34.40557954332,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

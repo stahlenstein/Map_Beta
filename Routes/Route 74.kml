@@ -1,0 +1,3883 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_74" id="Route_74">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_74</name>
+  <Placemark>
+	<name>601 LITTLE TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1852379154</SimpleData>
+		<SimpleData name="Account Number">015465</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1893637698551,34.3732033241875,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>615 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1470637396</SimpleData>
+		<SimpleData name="Account Number">011875</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1896415518748,34.3726914515834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>645 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1471051902</SimpleData>
+		<SimpleData name="Account Number">011876</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1906477900627,34.37196298314,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>647 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1852960115</SimpleData>
+		<SimpleData name="Account Number">011877</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1929526448778,34.3720912539554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134 MOUNTAIN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1450113628</SimpleData>
+		<SimpleData name="Account Number">112488</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1931490337384,34.3720538344739,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>827 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1471030830</SimpleData>
+		<SimpleData name="Account Number">011878</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1962959981206,34.3721154051744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>869 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1470856232</SimpleData>
+		<SimpleData name="Account Number">011879</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1969571468645,34.3721331807249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 MOUNTAIN  RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1470680670</SimpleData>
+		<SimpleData name="Account Number">011880</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1973920949779,34.3721890444275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>874 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1852387961</SimpleData>
+		<SimpleData name="Account Number">115868</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1982330904158,34.3723310057377,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>877 LITTLE TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1850673782</SimpleData>
+		<SimpleData name="Account Number">113548</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1986197826386,34.3722151886579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>900 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1850391079</SimpleData>
+		<SimpleData name="Account Number">011881</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1988679601055,34.3723274411989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>911 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1470701440</SimpleData>
+		<SimpleData name="Account Number">011882</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1995433905671,34.372204811759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>916 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1830515824</SimpleData>
+		<SimpleData name="Account Number">011883</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1997475009981,34.3722996861835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>966 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1471652684</SimpleData>
+		<SimpleData name="Account Number">117049</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2015621969418,34.3723313077097,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>988 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1470854326</SimpleData>
+		<SimpleData name="Account Number">011884</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2015642843592,34.3723390322413,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>988 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1834388765</SimpleData>
+		<SimpleData name="Account Number">011885</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2015862617122,34.3723533012992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1002 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1852457231</SimpleData>
+		<SimpleData name="Account Number">011886</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2022972109454,34.3723406689756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1011 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1470859052</SimpleData>
+		<SimpleData name="Account Number">011887</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2025006001823,34.3722373860704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1035 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1470822550</SimpleData>
+		<SimpleData name="Account Number">011888</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2031452998436,34.3722554135759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1046 LITTLE TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1470844492</SimpleData>
+		<SimpleData name="Account Number">102425</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20352003732,34.3723360517079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1065 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1850235258</SimpleData>
+		<SimpleData name="Account Number">011889</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2043177447697,34.3722419678445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 SCENIC TRACE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1852386729</SimpleData>
+		<SimpleData name="Account Number">110188</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2046549392799,34.3736192567588,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1470807848</SimpleData>
+		<SimpleData name="Account Number">011891</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2046322450736,34.3735376065332,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 SCENIC TR DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1852467531</SimpleData>
+		<SimpleData name="Account Number">111539</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2046174967999,34.3727578056021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1470712994</SimpleData>
+		<SimpleData name="Account Number">011892</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2047930820149,34.3736770283371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1470865172</SimpleData>
+		<SimpleData name="Account Number">011893</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2047993337753,34.3736983498038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1470801558</SimpleData>
+		<SimpleData name="Account Number">011895</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2046301837459,34.3742334511972,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1470704226</SimpleData>
+		<SimpleData name="Account Number">011894</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2048018538985,34.3744115032925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1850404266</SimpleData>
+		<SimpleData name="Account Number">011897</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2047977259692,34.374418697902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1541454588</SimpleData>
+		<SimpleData name="Account Number">011896</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2046281840277,34.3750237397399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1853093940</SimpleData>
+		<SimpleData name="Account Number">110255</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2046291261275,34.3765309664071,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1850407229</SimpleData>
+		<SimpleData name="Account Number">110253</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2047866438015,34.37567957957,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1470710914</SimpleData>
+		<SimpleData name="Account Number">011898</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2047917300971,34.3751142984085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1481534510</SimpleData>
+		<SimpleData name="Account Number">120297</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2047248845168,34.3757943308956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1830672903</SimpleData>
+		<SimpleData name="Account Number">119462</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2062450730892,34.3756435769187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 SCENIC TRACE DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1540966476</SimpleData>
+		<SimpleData name="Account Number">114510</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204775674813,34.3767442737907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 SCENIC TRACE DRIVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1850412033</SimpleData>
+		<SimpleData name="Account Number">105889</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2048035425647,34.3773593531577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 SCENIC TRACE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1832291601</SimpleData>
+		<SimpleData name="Account Number">112135</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2048142229748,34.3773714615313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1470699504</SimpleData>
+		<SimpleData name="Account Number">011899</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2062349042075,34.3756428084623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1540826044</SimpleData>
+		<SimpleData name="Account Number">113560</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2060233671183,34.3771835445941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1850407059</SimpleData>
+		<SimpleData name="Account Number">108175</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061825369888,34.3771990907329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1852306391</SimpleData>
+		<SimpleData name="Account Number">011900</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2060793491086,34.374334605338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1541046910</SimpleData>
+		<SimpleData name="Account Number">100604</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2062195265363,34.3741049226284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1853043916</SimpleData>
+		<SimpleData name="Account Number">011901</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2060788219436,34.3736312585535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1471100104</SimpleData>
+		<SimpleData name="Account Number">011902</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061079911736,34.3727462742341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WEST VALLEY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1471099958</SimpleData>
+		<SimpleData name="Account Number">011903</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2060647129996,34.3727546899461,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1105 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1471073272</SimpleData>
+		<SimpleData name="Account Number">011904</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2058538858675,34.3722046109138,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1160 LITTLE TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1470789860</SimpleData>
+		<SimpleData name="Account Number">011905</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2069574936966,34.3719119581231,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1183 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1471033902</SimpleData>
+		<SimpleData name="Account Number">103687</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2078901864285,34.3714937292098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1183 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1852468191</SimpleData>
+		<SimpleData name="Account Number">103687</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2079146668253,34.37141787906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1200 LITTLE TEX VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1830772369</SimpleData>
+		<SimpleData name="Account Number">122086</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2085625818416,34.3711473702937,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1203 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1853043362</SimpleData>
+		<SimpleData name="Account Number">011906</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2089318119315,34.3707401366615,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1230 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1470807634</SimpleData>
+		<SimpleData name="Account Number">011907</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2094006667881,34.3705463811105,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1270 LITTLE TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1850540606</SimpleData>
+		<SimpleData name="Account Number">107881</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210146433306,34.3699214942022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1275 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1850404295</SimpleData>
+		<SimpleData name="Account Number">011908</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2104577668953,34.3694874546503,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1286 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1850406400</SimpleData>
+		<SimpleData name="Account Number">011909</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2108893788453,34.3692868531874,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1306 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1853021306</SimpleData>
+		<SimpleData name="Account Number">015477</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2109680459269,34.3691930878477,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1319 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1471344624</SimpleData>
+		<SimpleData name="Account Number">011910</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2111045901769,34.3689331169864,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1330 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1470822536</SimpleData>
+		<SimpleData name="Account Number">011911</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2115044183716,34.3687711058226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1351 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1471324684</SimpleData>
+		<SimpleData name="Account Number">011912</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2118987645379,34.3683171561984,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1354 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1471360912</SimpleData>
+		<SimpleData name="Account Number">011913</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2122554333916,34.3681938683212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1376 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1541497608</SimpleData>
+		<SimpleData name="Account Number">011914</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2125611204613,34.3679207718818,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1369 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1471339508</SimpleData>
+		<SimpleData name="Account Number">011915</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2124787074367,34.3678156206552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1378 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1471032090</SimpleData>
+		<SimpleData name="Account Number">011916</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2130630903624,34.3675235547636,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1378 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1852473321</SimpleData>
+		<SimpleData name="Account Number">011916</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2130554568363,34.3675133386677,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1379 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1850609655</SimpleData>
+		<SimpleData name="Account Number">011917</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2130561755341,34.3673886138902,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1409 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1481710974</SimpleData>
+		<SimpleData name="Account Number">011918</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2134307894477,34.3671088499537,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1430 LITTLE TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1471265772</SimpleData>
+		<SimpleData name="Account Number">103324</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2137243603358,34.3669952533164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1439 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1852640144</SimpleData>
+		<SimpleData name="Account Number">011919</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2139178616402,34.3667122425651,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1444 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1852533789</SimpleData>
+		<SimpleData name="Account Number">101055</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2141388569172,34.3666923196451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1449 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1471334958</SimpleData>
+		<SimpleData name="Account Number">011920</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2143277698665,34.3664310957172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1469 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1470870126</SimpleData>
+		<SimpleData name="Account Number">011921</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2147599711785,34.3660921517401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1475 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1471348986</SimpleData>
+		<SimpleData name="Account Number">011922</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2148926090351,34.3659878927863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1456 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1470859394</SimpleData>
+		<SimpleData name="Account Number">011923</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2149970033415,34.3660901508598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1456 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1541015336</SimpleData>
+		<SimpleData name="Account Number">011923</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2149942241441,34.3660731207141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1491 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1540967990</SimpleData>
+		<SimpleData name="Account Number">011924</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2153230291033,34.3656469193772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1492 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1471320730</SimpleData>
+		<SimpleData name="Account Number">011925</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2154833711894,34.3657015708007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1509 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1471320736</SimpleData>
+		<SimpleData name="Account Number">011926</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2158463882316,34.3652678305594,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1521 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1471331360</SimpleData>
+		<SimpleData name="Account Number">011927</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2159381742312,34.365208067666,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1514 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1853058027</SimpleData>
+		<SimpleData name="Account Number">011928</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.215995384441,34.3652833182468,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1536 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1471354128</SimpleData>
+		<SimpleData name="Account Number">011929</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2166473414429,34.3650316482425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1553 LITTLE TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1831074485</SimpleData>
+		<SimpleData name="Account Number">120939</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.217255459649,34.3647116243488,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1608 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1471327298</SimpleData>
+		<SimpleData name="Account Number">011930</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2174451107652,34.3647754699434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1565 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1471344618</SimpleData>
+		<SimpleData name="Account Number">011931</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2176503719671,34.3645762057297,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1616 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1852335763</SimpleData>
+		<SimpleData name="Account Number">011932</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2179524727564,34.3646311414972,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1610 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1471338768</SimpleData>
+		<SimpleData name="Account Number">011934</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2190533398063,34.3642254507526,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1629 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1541019316</SimpleData>
+		<SimpleData name="Account Number">011935</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2193704577271,34.3640261714892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1629 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1852278512</SimpleData>
+		<SimpleData name="Account Number">011935</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2193593731527,34.3640134692002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1634 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1853111530</SimpleData>
+		<SimpleData name="Account Number">011936</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2196214877902,34.3640154380224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1650 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1852335884</SimpleData>
+		<SimpleData name="Account Number">011937</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2203884452145,34.3636408141923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 LAVENDER RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1853043466</SimpleData>
+		<SimpleData name="Account Number">011938</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2208131361177,34.3635266489321,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>549 LAVENDER RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1541032868</SimpleData>
+		<SimpleData name="Account Number">011939</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2213557538251,34.3634575083146,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 LAVENDER RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1830588553</SimpleData>
+		<SimpleData name="Account Number">011940</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2214484589531,34.3633989390714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 LAVENDER RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1853041169</SimpleData>
+		<SimpleData name="Account Number">011942</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2225340891768,34.3647591866017,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>131 LAVENDER RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1852490209</SimpleData>
+		<SimpleData name="Account Number">011943</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2238303784979,34.3662397578406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>148 LAVENDER RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1471322892</SimpleData>
+		<SimpleData name="Account Number">011941</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2237279613787,34.3663121084604,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1762 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1471347602</SimpleData>
+		<SimpleData name="Account Number">011944</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2223705588791,34.3632685457185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1798 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1471119170</SimpleData>
+		<SimpleData name="Account Number">011945</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2243580273791,34.3628091852758,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1806 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1540975286</SimpleData>
+		<SimpleData name="Account Number">011946</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2244273645143,34.3628091378611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1808 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1852323051</SimpleData>
+		<SimpleData name="Account Number">011947</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2245061305816,34.3628173906289,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1804 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1853043716</SimpleData>
+		<SimpleData name="Account Number">011948</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2245255489042,34.3628153471857,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1803 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1471321882</SimpleData>
+		<SimpleData name="Account Number">011949</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2247909706528,34.3625026755903,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1810 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1471341746</SimpleData>
+		<SimpleData name="Account Number">011950</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2254264094546,34.3622840159379,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1854 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1540857318</SimpleData>
+		<SimpleData name="Account Number">011951</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2263083462562,34.3618478339669,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1876 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1471347810</SimpleData>
+		<SimpleData name="Account Number">011953</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2269113849769,34.3615974225104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1903 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1853095562</SimpleData>
+		<SimpleData name="Account Number">011954</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2282312045041,34.3611443018184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1941 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1471351136</SimpleData>
+		<SimpleData name="Account Number">011955</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.228313546042,34.3611184374124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1941 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1540863922</SimpleData>
+		<SimpleData name="Account Number">011955</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.228317268154,34.3611227187577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1928 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1471349432</SimpleData>
+		<SimpleData name="Account Number">011956</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2284941799421,34.3611803833553,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1941 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1471322046</SimpleData>
+		<SimpleData name="Account Number">011957</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2287768743801,34.3609997556329,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1940 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1471323214</SimpleData>
+		<SimpleData name="Account Number">011958</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2290479052246,34.3610246678831,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1958 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1850540868</SimpleData>
+		<SimpleData name="Account Number">011959</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2300020448761,34.3607927035408,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2001 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1471324676</SimpleData>
+		<SimpleData name="Account Number">011960</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2309520082588,34.3605656390172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2003 LITTLE TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1471336936</SimpleData>
+		<SimpleData name="Account Number">104454</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2314400510619,34.3604112023937,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2006 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1831642468</SimpleData>
+		<SimpleData name="Account Number">011961</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2316663801733,34.3604724607608,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2033 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1471344870</SimpleData>
+		<SimpleData name="Account Number">011962</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.231622866258,34.3603453037246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2027 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1471352512</SimpleData>
+		<SimpleData name="Account Number">011963</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2316221837926,34.3603517351032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2006 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1832291592</SimpleData>
+		<SimpleData name="Account Number">011964</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2322850120088,34.3601839409668,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2051 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1470812708</SimpleData>
+		<SimpleData name="Account Number">114944</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2329971438348,34.3598478624211,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2076 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1471360870</SimpleData>
+		<SimpleData name="Account Number">011965</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.23386230602,34.3595186759503,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2100 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1471357294</SimpleData>
+		<SimpleData name="Account Number">011966</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2340575817841,34.3594263075682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2111 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1471321230</SimpleData>
+		<SimpleData name="Account Number">011967</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.233995920063,34.3592854105048,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2136 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1471353654</SimpleData>
+		<SimpleData name="Account Number">011968</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2353457337745,34.3588173911533,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2163 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1471341750</SimpleData>
+		<SimpleData name="Account Number">011969</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2357304581629,34.3586438065256,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2166 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1471323220</SimpleData>
+		<SimpleData name="Account Number">011970</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2356167807786,34.3586065065025,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2199 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1540597930</SimpleData>
+		<SimpleData name="Account Number">011971</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2361849337467,34.3583880607875,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2216 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1471347842</SimpleData>
+		<SimpleData name="Account Number">011972</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2376472957053,34.3579801363886,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2050 LITTLE TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1471345090</SimpleData>
+		<SimpleData name="Account Number">011973</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2377189753146,34.3576496825538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2098 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1540817762</SimpleData>
+		<SimpleData name="Account Number">011974</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2366754879151,34.3565973492284,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2162 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1471338706</SimpleData>
+		<SimpleData name="Account Number">011975</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2366437431524,34.3565755124595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2141 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1471344702</SimpleData>
+		<SimpleData name="Account Number">011976</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2364712730261,34.3565571890566,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>841 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1471325712</SimpleData>
+		<SimpleData name="Account Number">011977</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.230650033464,34.3896640788896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>854 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1470926670</SimpleData>
+		<SimpleData name="Account Number">011978</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2306490783354,34.3896627414341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1471320338</SimpleData>
+		<SimpleData name="Account Number">011979</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2306440999987,34.3896859273318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>712 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1471336980</SimpleData>
+		<SimpleData name="Account Number">011980</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2306515101207,34.3896984405331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>814 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1852490901</SimpleData>
+		<SimpleData name="Account Number">011981</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2306491746224,34.389703450197,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>790 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1471340016</SimpleData>
+		<SimpleData name="Account Number">011982</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2306457670814,34.3897332250242,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>758 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1471357450</SimpleData>
+		<SimpleData name="Account Number">011983</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2306443564906,34.3897342629411,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>736 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1540574160</SimpleData>
+		<SimpleData name="Account Number">011984</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2305543341596,34.3896293812654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>815 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1852317455</SimpleData>
+		<SimpleData name="Account Number">011985</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2305459254463,34.3897124440141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>698 TEXAS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1490674608</SimpleData>
+		<SimpleData name="Account Number">011986</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2307218169117,34.3906990445053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1540829806</SimpleData>
+		<SimpleData name="Account Number">114663</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2300844977566,34.3912851104101,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1471187980</SimpleData>
+		<SimpleData name="Account Number">011987</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2284850762418,34.3912238061172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>140 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1471415624</SimpleData>
+		<SimpleData name="Account Number">011988</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2259056364513,34.3910541460417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>191 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1481711246</SimpleData>
+		<SimpleData name="Account Number">011989</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2250354165137,34.3911191044005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1471403726</SimpleData>
+		<SimpleData name="Account Number">011991</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2231681697234,34.3910554364801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>357 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1471404822</SimpleData>
+		<SimpleData name="Account Number">011993</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2188370906197,34.3913255644529,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>364 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1471404012</SimpleData>
+		<SimpleData name="Account Number">011994</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2187577751372,34.3912720465378,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>403 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1470921086</SimpleData>
+		<SimpleData name="Account Number">104188</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2173876314199,34.3914570378968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>413 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1471403266</SimpleData>
+		<SimpleData name="Account Number">011995</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2169169072855,34.3913745501955,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>420 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1540909352</SimpleData>
+		<SimpleData name="Account Number">011996</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2166112097689,34.3912811321508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>470 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1471256582</SimpleData>
+		<SimpleData name="Account Number">011997</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2152732851314,34.3912256123744,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>472 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1471395112</SimpleData>
+		<SimpleData name="Account Number">011998</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.21484221255,34.3912454466629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>479 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1490682750</SimpleData>
+		<SimpleData name="Account Number">015503</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2147909056711,34.3912865921174,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6475 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1470975074</SimpleData>
+		<SimpleData name="Account Number">011999</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2326447461956,34.3915590802705,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>480 SCOGGINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1832292642</SimpleData>
+		<SimpleData name="Account Number">112262</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2147795115305,34.3912517802032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6478 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1850528634</SimpleData>
+		<SimpleData name="Account Number">113110</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2317137754594,34.3913456301626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6454 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1852318451</SimpleData>
+		<SimpleData name="Account Number">012000</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2336527183312,34.3913789258839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6435 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1471187978</SimpleData>
+		<SimpleData name="Account Number">012001</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2337127977986,34.3915846390841,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6386 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1471187984</SimpleData>
+		<SimpleData name="Account Number">012002</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2356561695542,34.3914676610052,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6338 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1471259454</SimpleData>
+		<SimpleData name="Account Number">012003</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2357712140438,34.3914660366668,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6369 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1471196642</SimpleData>
+		<SimpleData name="Account Number">012004</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2360960172476,34.3916660848146,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6291 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1852322860</SimpleData>
+		<SimpleData name="Account Number">012005</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2386044808922,34.3917190533418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 CODY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1471258576</SimpleData>
+		<SimpleData name="Account Number">012006</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2390637390818,34.3917263989355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6293 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1852318447</SimpleData>
+		<SimpleData name="Account Number">012007</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2392190711275,34.3917306318871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109 CODY DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1430165238</SimpleData>
+		<SimpleData name="Account Number">012008</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2392232885935,34.3917289045967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6266 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1471323758</SimpleData>
+		<SimpleData name="Account Number">012009</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2393065764731,34.3914786355399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6246 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1430199660</SimpleData>
+		<SimpleData name="Account Number">012010</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2401610237168,34.3911973723635,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6240 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1471258588</SimpleData>
+		<SimpleData name="Account Number">012011</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2401656972068,34.3911987754262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6241 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1430030366</SimpleData>
+		<SimpleData name="Account Number">012013</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2404162996675,34.3913103797715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6234 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1470793746</SimpleData>
+		<SimpleData name="Account Number">012014</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2407405526952,34.3909570827824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6203 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1481711044</SimpleData>
+		<SimpleData name="Account Number">109232</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2413776457567,34.3909361659495,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6181 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1832253814</SimpleData>
+		<SimpleData name="Account Number">012015</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2419446115712,34.3907269875695,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6129 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1471417228</SimpleData>
+		<SimpleData name="Account Number">012016</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2432473524769,34.3896330652949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6081 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1471371748</SimpleData>
+		<SimpleData name="Account Number">012017</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2445106805103,34.3886200727517,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6075 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1471404836</SimpleData>
+		<SimpleData name="Account Number">012018</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2445037628415,34.3886090912338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6065 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1482235600</SimpleData>
+		<SimpleData name="Account Number">012019</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2445113013285,34.388597440926,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5859 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1470842336</SimpleData>
+		<SimpleData name="Account Number">114832</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2497889393671,34.3855186145085,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5763 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1471404108</SimpleData>
+		<SimpleData name="Account Number">012020</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2535861911325,34.3846833849387,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5739 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1852388066</SimpleData>
+		<SimpleData name="Account Number">015475</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2539846956695,34.384527558125,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5731 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1471398800</SimpleData>
+		<SimpleData name="Account Number">101098</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2542192486297,34.3844501649628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5721 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1471401950</SimpleData>
+		<SimpleData name="Account Number">015476</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2546664436484,34.3843404680849,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5707 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1471570560</SimpleData>
+		<SimpleData name="Account Number">116948</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2548217422278,34.3842740183843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5661 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1471509804</SimpleData>
+		<SimpleData name="Account Number">109838</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2567111522491,34.384097542941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5665 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1853043659</SimpleData>
+		<SimpleData name="Account Number">110765</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2564581969284,34.3840930486117,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5671 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1832237462</SimpleData>
+		<SimpleData name="Account Number">114090</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2563222115769,34.384098126469,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5693 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1470859292</SimpleData>
+		<SimpleData name="Account Number">107457</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2557934045846,34.3841624256331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5559 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1541455518</SimpleData>
+		<SimpleData name="Account Number">119524</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2602530700819,34.3836436081563,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5537 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1471435730</SimpleData>
+		<SimpleData name="Account Number">103640</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2602437383218,34.3837049924442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5504 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1852645463</SimpleData>
+		<SimpleData name="Account Number">117774</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2616615710801,34.3834025798821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5511 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1852638269</SimpleData>
+		<SimpleData name="Account Number">130421</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2613423829668,34.3836066592128,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5500 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1471404832</SimpleData>
+		<SimpleData name="Account Number">012021</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.261742733449,34.3833600940974,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5485 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1471379184</SimpleData>
+		<SimpleData name="Account Number">012022</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2622007171671,34.3835385523707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5460 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1540844648</SimpleData>
+		<SimpleData name="Account Number">105688</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2621994399993,34.3832870177603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5445 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1471434338</SimpleData>
+		<SimpleData name="Account Number">012023</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2634959631683,34.3830572891699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5423 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1471395034</SimpleData>
+		<SimpleData name="Account Number">012024</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2641502629128,34.3827419736749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5426 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1471398236</SimpleData>
+		<SimpleData name="Account Number">012025</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2640623850082,34.3826016051371,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5399 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1852548899</SimpleData>
+		<SimpleData name="Account Number">110901</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2647764004599,34.3822398591444,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5241 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1834311673</SimpleData>
+		<SimpleData name="Account Number">125889</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2685594677291,34.3790229925246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5241 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1834785559</SimpleData>
+		<SimpleData name="Account Number">125889</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.26855881625,34.3790243084299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5390 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1471434342</SimpleData>
+		<SimpleData name="Account Number">012026</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2654452513384,34.3812409957591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5347 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1471394410</SimpleData>
+		<SimpleData name="Account Number">012027</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2658040504888,34.3811774584647,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5308 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1430011040</SimpleData>
+		<SimpleData name="Account Number">012028</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2662437610531,34.3804002100249,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5273 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1471403832</SimpleData>
+		<SimpleData name="Account Number">101101</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2679124456331,34.3792085021866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5266 BIG TEXAS VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1852547535</SimpleData>
+		<SimpleData name="Account Number">109742</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2676880720447,34.379219615293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5195 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1471435494</SimpleData>
+		<SimpleData name="Account Number">012029</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2699258361591,34.3787310080663,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5182 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1430152428</SimpleData>
+		<SimpleData name="Account Number">102467</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2706026188324,34.3783898977046,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5155 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1471418618</SimpleData>
+		<SimpleData name="Account Number">012030</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2709196978457,34.3784928082006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5142 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1852491458</SimpleData>
+		<SimpleData name="Account Number">012031</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2714905194627,34.3782180461121,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5127 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1852336413</SimpleData>
+		<SimpleData name="Account Number">012032</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.272122852211,34.378212357103,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5068 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1471366658</SimpleData>
+		<SimpleData name="Account Number">012033</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2737680808197,34.377888337701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5051 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1471418988</SimpleData>
+		<SimpleData name="Account Number">012034</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2743739894462,34.3779503133206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5029 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1831079169</SimpleData>
+		<SimpleData name="Account Number">103722</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2753432670364,34.3777689838863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5024 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1471408012</SimpleData>
+		<SimpleData name="Account Number">012035</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2758100804191,34.3775009839574,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4993 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1852312251</SimpleData>
+		<SimpleData name="Account Number">128245</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2762372883362,34.3774979175608,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4760 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1471375404</SimpleData>
+		<SimpleData name="Account Number">012036</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.282952911122,34.3744766083199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4619 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1471415710</SimpleData>
+		<SimpleData name="Account Number">012037</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2873790147013,34.3727073004095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1471475626</SimpleData>
+		<SimpleData name="Account Number">012075</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2274921531507,34.4103477629827,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 ANTIOCH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1471415704</SimpleData>
+		<SimpleData name="Account Number">012038</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.286133022433,34.3713365220572,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306 ANTIOCH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1471323368</SimpleData>
+		<SimpleData name="Account Number">012039</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2831867421499,34.3717779105187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306 ANTIOCH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1852438867</SimpleData>
+		<SimpleData name="Account Number">128603</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2831876114616,34.3717637782383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>233 ANTIOCH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1471399960</SimpleData>
+		<SimpleData name="Account Number">012040</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2814789313996,34.371837623621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>233 ANTIOCH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1541504352</SimpleData>
+		<SimpleData name="Account Number">012040</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2814759476425,34.3718432746882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>239 ANTIOCH RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1852543316</SimpleData>
+		<SimpleData name="Account Number">012042</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2807390753646,34.3717893436206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4669 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1852553165</SimpleData>
+		<SimpleData name="Account Number">012044</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2888256990669,34.3718543746608,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4526 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1481711092</SimpleData>
+		<SimpleData name="Account Number">012045</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2893720666555,34.371350165948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4690 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1541013746</SimpleData>
+		<SimpleData name="Account Number">130851</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2852168091579,34.3735245745143,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4263 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1471435366</SimpleData>
+		<SimpleData name="Account Number">012046</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2985719948342,34.3716357771747,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4215 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1471197386</SimpleData>
+		<SimpleData name="Account Number">012047</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3001438344885,34.3713819118878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4153 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1471398108</SimpleData>
+		<SimpleData name="Account Number">012048</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3023754891729,34.3718530695749,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4183 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1542491330</SimpleData>
+		<SimpleData name="Account Number">113905</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3022995414414,34.3717453316777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4189 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1471394858</SimpleData>
+		<SimpleData name="Account Number">012049</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3023705935929,34.3723003151203,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4195 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1471403516</SimpleData>
+		<SimpleData name="Account Number">012051</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3023569980703,34.3722850873076,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4135 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1471398106</SimpleData>
+		<SimpleData name="Account Number">012050</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3067865077238,34.3723779231738,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 ROCKY MTN PROJECT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1834039472</SimpleData>
+		<SimpleData name="Account Number">012052</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.3046672280862,34.3687317564722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 ROCKY MTN PROJECT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1834072191</SimpleData>
+		<SimpleData name="Account Number">012052</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.304677179755,34.3686888727129,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6563 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1852323449</SimpleData>
+		<SimpleData name="Account Number">012053</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2305133604628,34.3923880378823,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6615 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1471256748</SimpleData>
+		<SimpleData name="Account Number">012054</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2291995576848,34.3936795340899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6648 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1471395104</SimpleData>
+		<SimpleData name="Account Number">012055</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2286197222136,34.3944461727932,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6673 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1850419524</SimpleData>
+		<SimpleData name="Account Number">012056</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2285906524728,34.3949667711536,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6691 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1541006132</SimpleData>
+		<SimpleData name="Account Number">012057</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2282539947923,34.3958374110099,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6717 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1471397614</SimpleData>
+		<SimpleData name="Account Number">012059</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2280155728799,34.3964082828072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6729 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1470800076</SimpleData>
+		<SimpleData name="Account Number">115330</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2279867044662,34.3964866022341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6825 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1471097386</SimpleData>
+		<SimpleData name="Account Number">012060</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2269889400272,34.3990385585925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6847 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1471385460</SimpleData>
+		<SimpleData name="Account Number">012061</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2268497119567,34.399574650224,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6871 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1832091804</SimpleData>
+		<SimpleData name="Account Number">128217</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2262538043638,34.4004626752351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6873 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">1834643530</SimpleData>
+		<SimpleData name="Account Number">129120</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2261406245581,34.4006197443509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6910 BIG TEXAS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">1541051222</SimpleData>
+		<SimpleData name="Account Number">125905</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2253213581254,34.401155595604,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6989 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1850428181</SimpleData>
+		<SimpleData name="Account Number">012062</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2242890268954,34.4033014863686,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7041 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1471385486</SimpleData>
+		<SimpleData name="Account Number">012063</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2240753963797,34.4041394879722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 SILVER HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1471420566</SimpleData>
+		<SimpleData name="Account Number">012064</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2240697485212,34.4056237457114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CRYSTAL SPRINGS</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1831641282</SimpleData>
+		<SimpleData name="Account Number">012066</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2238138159272,34.4073118155061,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>66 SIKES STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1471398022</SimpleData>
+		<SimpleData name="Account Number">012068</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2193882759267,34.4074976700625,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 SIKES STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Meter Number">1471405184</SimpleData>
+		<SimpleData name="Account Number">012069</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2186426505394,34.4074278317092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 SIKES STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1831318016</SimpleData>
+		<SimpleData name="Account Number">012070</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2184482529311,34.407422041988,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1852960264</SimpleData>
+		<SimpleData name="Account Number">012072</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2220758041225,34.4098483714316,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>282 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1471393308</SimpleData>
+		<SimpleData name="Account Number">012074</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2248508017912,34.4076298036164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>285 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">1853058061</SimpleData>
+		<SimpleData name="Account Number">012076</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2263813625198,34.4090485238712,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>285 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1853132129</SimpleData>
+		<SimpleData name="Account Number">012076</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.226382045306,34.4090436645088,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>365 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1831648404</SimpleData>
+		<SimpleData name="Account Number">012079</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.227687076294,34.410351294612,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>395 SIKES STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1831646040</SimpleData>
+		<SimpleData name="Account Number">012080</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2285577617802,34.4112136552447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>435 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1481497126</SimpleData>
+		<SimpleData name="Account Number">012081</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2291089901091,34.4116994104733,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>455 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1470793748</SimpleData>
+		<SimpleData name="Account Number">012082</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2297581114368,34.4122138647309,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>465 SIKE STOREY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1850429719</SimpleData>
+		<SimpleData name="Account Number">012083</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2300535505857,34.4125676736425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7837 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1471435360</SimpleData>
+		<SimpleData name="Account Number">012084</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2307529847087,34.4131276775836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7843 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Meter Number">1852346742</SimpleData>
+		<SimpleData name="Account Number">012085</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2315213543524,34.4135794256505,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7826 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1471181998</SimpleData>
+		<SimpleData name="Account Number">012086</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2308752767138,34.4139388533005,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7836 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1471420648</SimpleData>
+		<SimpleData name="Account Number">012087</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2308919614231,34.4140179028167,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102 LITTLE SAND MTN</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1850338407</SimpleData>
+		<SimpleData name="Account Number">012090</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2333745711902,34.4151188292038,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7950 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1471187862</SimpleData>
+		<SimpleData name="Account Number">012091</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2369232523165,34.417361456859,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8000 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1471196644</SimpleData>
+		<SimpleData name="Account Number">012092</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2382996279731,34.4181044885969,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7782 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1471182056</SimpleData>
+		<SimpleData name="Account Number">012095</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2292244960896,34.4131025007264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7756 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1471403954</SimpleData>
+		<SimpleData name="Account Number">012096</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2286939455812,34.4128188544961,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">274</SimpleData>
+		<SimpleData name="Meter Number">1471404390</SimpleData>
+		<SimpleData name="Account Number">012097</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.226903449926,34.4125791579519,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">275</SimpleData>
+		<SimpleData name="Meter Number">1540858492</SimpleData>
+		<SimpleData name="Account Number">113943</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2268164845218,34.4132208297432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">276</SimpleData>
+		<SimpleData name="Meter Number">1471404366</SimpleData>
+		<SimpleData name="Account Number">012098</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.226673170173,34.4136511740153,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">277</SimpleData>
+		<SimpleData name="Meter Number">1471270248</SimpleData>
+		<SimpleData name="Account Number">012099</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2260458106176,34.4140547253623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">278</SimpleData>
+		<SimpleData name="Meter Number">1471403434</SimpleData>
+		<SimpleData name="Account Number">012100</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2249333518231,34.4144427966349,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>225 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">279</SimpleData>
+		<SimpleData name="Meter Number">1471199178</SimpleData>
+		<SimpleData name="Account Number">012102</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2216707183503,34.415283140657,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>235 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">280</SimpleData>
+		<SimpleData name="Meter Number">1471182000</SimpleData>
+		<SimpleData name="Account Number">012103</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2212619353027,34.4152431169375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>245 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">281</SimpleData>
+		<SimpleData name="Meter Number">1471388456</SimpleData>
+		<SimpleData name="Account Number">012104</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2209902815287,34.4152623621784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>257 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">282</SimpleData>
+		<SimpleData name="Meter Number">1471435422</SimpleData>
+		<SimpleData name="Account Number">012105</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2206496929141,34.4152706701923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>285 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">283</SimpleData>
+		<SimpleData name="Meter Number">1832305925</SimpleData>
+		<SimpleData name="Account Number">012106</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2196142550546,34.4151980638422,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 WINKLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">284</SimpleData>
+		<SimpleData name="Meter Number">1471349714</SimpleData>
+		<SimpleData name="Account Number">012107</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2189399021522,34.4152372291159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">285</SimpleData>
+		<SimpleData name="Meter Number">1491464406</SimpleData>
+		<SimpleData name="Account Number">012108</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2177903510776,34.4159471152045,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>214 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">286</SimpleData>
+		<SimpleData name="Meter Number">1471399270</SimpleData>
+		<SimpleData name="Account Number">012109</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2176268061071,34.4161945540709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>209 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">287</SimpleData>
+		<SimpleData name="Meter Number">1540953938</SimpleData>
+		<SimpleData name="Account Number">012110</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2177156245303,34.4162179687021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>233 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">288</SimpleData>
+		<SimpleData name="Meter Number">1850610110</SimpleData>
+		<SimpleData name="Account Number">012112</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2176639573401,34.4163880371635,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>250 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">289</SimpleData>
+		<SimpleData name="Meter Number">1852340053</SimpleData>
+		<SimpleData name="Account Number">012114</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2173606736514,34.4169552371819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>259 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">290</SimpleData>
+		<SimpleData name="Meter Number">1540858664</SimpleData>
+		<SimpleData name="Account Number">012115</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2173492210126,34.4174596875434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>272 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">291</SimpleData>
+		<SimpleData name="Meter Number">1471395542</SimpleData>
+		<SimpleData name="Account Number">012116</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2171758053339,34.4178225911901,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>295 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">292</SimpleData>
+		<SimpleData name="Meter Number">1471257694</SimpleData>
+		<SimpleData name="Account Number">012117</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.216828610215,34.4183347842024,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>307 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">293</SimpleData>
+		<SimpleData name="Meter Number">1471330112</SimpleData>
+		<SimpleData name="Account Number">012118</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2166071303472,34.4185343735869,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>325 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">294</SimpleData>
+		<SimpleData name="Meter Number">1471348434</SimpleData>
+		<SimpleData name="Account Number">012120</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2165143785706,34.4187336013003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>340 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">295</SimpleData>
+		<SimpleData name="Meter Number">1471373504</SimpleData>
+		<SimpleData name="Account Number">012121</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2160977640378,34.4193260436319,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>383 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">296</SimpleData>
+		<SimpleData name="Meter Number">1471375770</SimpleData>
+		<SimpleData name="Account Number">012122</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2156616513119,34.4203952004684,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>412 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">297</SimpleData>
+		<SimpleData name="Meter Number">1471380908</SimpleData>
+		<SimpleData name="Account Number">012123</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2149612470676,34.4210727145748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>467 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">298</SimpleData>
+		<SimpleData name="Meter Number">1541454912</SimpleData>
+		<SimpleData name="Account Number">012124</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2140274700735,34.4225560932003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>546 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">299</SimpleData>
+		<SimpleData name="Meter Number">1471404074</SimpleData>
+		<SimpleData name="Account Number">012125</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2124924093131,34.4239052024009,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">300</SimpleData>
+		<SimpleData name="Meter Number">1471420652</SimpleData>
+		<SimpleData name="Account Number">012126</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2187721990506,34.4132244271786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">301</SimpleData>
+		<SimpleData name="Meter Number">1471395116</SimpleData>
+		<SimpleData name="Account Number">012127</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2195626316761,34.4115614685543,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 PERRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">302</SimpleData>
+		<SimpleData name="Meter Number">1471399268</SimpleData>
+		<SimpleData name="Account Number">015504</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2195987952996,34.4116649917619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7596 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">303</SimpleData>
+		<SimpleData name="Meter Number">1471403724</SimpleData>
+		<SimpleData name="Account Number">012128</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2235444009809,34.411894768008,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7664 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">304</SimpleData>
+		<SimpleData name="Meter Number">1852334907</SimpleData>
+		<SimpleData name="Account Number">012129</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2254985029992,34.4119757975844,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7692 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">305</SimpleData>
+		<SimpleData name="Meter Number">1471420524</SimpleData>
+		<SimpleData name="Account Number">012130</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2266244877491,34.4121209732389,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7692 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">306</SimpleData>
+		<SimpleData name="Meter Number">1541408192</SimpleData>
+		<SimpleData name="Account Number">012130</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2266096198563,34.4121276971369,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7443 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">307</SimpleData>
+		<SimpleData name="Meter Number">1471366722</SimpleData>
+		<SimpleData name="Account Number">012073</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2193093134194,34.4096645115591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6959 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">308</SimpleData>
+		<SimpleData name="Meter Number">1850289583</SimpleData>
+		<SimpleData name="Account Number">012131</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2101033460469,34.3997323048022,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6995 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">309</SimpleData>
+		<SimpleData name="Meter Number">1541018938</SimpleData>
+		<SimpleData name="Account Number">109651</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2112895536185,34.4000593738635,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6785 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">310</SimpleData>
+		<SimpleData name="Meter Number">1470860406</SimpleData>
+		<SimpleData name="Account Number">011874</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2053415215017,34.3983379960685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6769 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">311</SimpleData>
+		<SimpleData name="Meter Number">1471379412</SimpleData>
+		<SimpleData name="Account Number">012132</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2044296832375,34.3976995278379,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6729 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">312</SimpleData>
+		<SimpleData name="Meter Number">1471364308</SimpleData>
+		<SimpleData name="Account Number">012133</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2035314918645,34.3970307500068,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6717 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">313</SimpleData>
+		<SimpleData name="Meter Number">1852318354</SimpleData>
+		<SimpleData name="Account Number">012134</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2031197456092,34.3967446204392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6679 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">314</SimpleData>
+		<SimpleData name="Meter Number">1470545844</SimpleData>
+		<SimpleData name="Account Number">012135</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2022680482209,34.3961022998402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6679 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">315</SimpleData>
+		<SimpleData name="Meter Number">1471375210</SimpleData>
+		<SimpleData name="Account Number">012136</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2022615655616,34.3961014874551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6667 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">316</SimpleData>
+		<SimpleData name="Meter Number">1105127108</SimpleData>
+		<SimpleData name="Account Number">012137</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.202252320516,34.3960986806509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6667 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">317</SimpleData>
+		<SimpleData name="Meter Number">1471373596</SimpleData>
+		<SimpleData name="Account Number">012138</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2022494122626,34.3960993933954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6204 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">318</SimpleData>
+		<SimpleData name="Meter Number">1834040559</SimpleData>
+		<SimpleData name="Account Number">124825</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1871960683153,34.3915720835766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6204 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">319</SimpleData>
+		<SimpleData name="Meter Number">1834076769</SimpleData>
+		<SimpleData name="Account Number">124825</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1871962879917,34.3915705404425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6201 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">320</SimpleData>
+		<SimpleData name="Meter Number">1471364562</SimpleData>
+		<SimpleData name="Account Number">012139</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1873583321163,34.391050091912,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6185 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">321</SimpleData>
+		<SimpleData name="Meter Number">1471256578</SimpleData>
+		<SimpleData name="Account Number">012140</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18707759035,34.3909375656668,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6149 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">322</SimpleData>
+		<SimpleData name="Meter Number">1852321486</SimpleData>
+		<SimpleData name="Account Number">012141</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1859441565883,34.3904449401576,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6144 BIG TEX VAL</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">323</SimpleData>
+		<SimpleData name="Meter Number">1830509822</SimpleData>
+		<SimpleData name="Account Number">122023</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2431205617483,34.3895410396123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6115 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">324</SimpleData>
+		<SimpleData name="Meter Number">1541037958</SimpleData>
+		<SimpleData name="Account Number">012142</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184978416416,34.3900703492597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3272 OLD SVILLE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">325</SimpleData>
+		<SimpleData name="Meter Number">1471402122</SimpleData>
+		<SimpleData name="Account Number">012143</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1778870786009,34.3860043737539,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3227 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">326</SimpleData>
+		<SimpleData name="Meter Number">1471435952</SimpleData>
+		<SimpleData name="Account Number">012144</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1779438214436,34.3861288340843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3284 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">327</SimpleData>
+		<SimpleData name="Meter Number">1471195824</SimpleData>
+		<SimpleData name="Account Number">012146</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1782511797573,34.3866307612108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3297 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">328</SimpleData>
+		<SimpleData name="Meter Number">1471364382</SimpleData>
+		<SimpleData name="Account Number">012147</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1784616408046,34.3866360256653,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3286 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">329</SimpleData>
+		<SimpleData name="Meter Number">1471271052</SimpleData>
+		<SimpleData name="Account Number">012148</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1783719015698,34.3867566935913,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3277 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">330</SimpleData>
+		<SimpleData name="Meter Number">1481545252</SimpleData>
+		<SimpleData name="Account Number">012145</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1781662847887,34.3861841579065,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3277 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">331</SimpleData>
+		<SimpleData name="Meter Number">1853100124</SimpleData>
+		<SimpleData name="Account Number">012145</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1781640027102,34.3861923825549,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3360 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">332</SimpleData>
+		<SimpleData name="Meter Number">1832230009</SimpleData>
+		<SimpleData name="Account Number">012149</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1794342256681,34.3881522383542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3395 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">333</SimpleData>
+		<SimpleData name="Meter Number">1831648299</SimpleData>
+		<SimpleData name="Account Number">012152</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1800073621748,34.388285720882,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3400 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">334</SimpleData>
+		<SimpleData name="Meter Number">1471398586</SimpleData>
+		<SimpleData name="Account Number">012153</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1808021323899,34.3887093444123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6006 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">335</SimpleData>
+		<SimpleData name="Meter Number">1541562204</SimpleData>
+		<SimpleData name="Account Number">012154</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1812967602664,34.3888031614206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">336</SimpleData>
+		<SimpleData name="Meter Number">1471420704</SimpleData>
+		<SimpleData name="Account Number">012155</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1816843383079,34.3893987070822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">337</SimpleData>
+		<SimpleData name="Meter Number">1471187858</SimpleData>
+		<SimpleData name="Account Number">012156</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1816844373569,34.3898686668994,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>98 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">338</SimpleData>
+		<SimpleData name="Meter Number">1491466256</SimpleData>
+		<SimpleData name="Account Number">102676</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1816781859266,34.3898929861591,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">339</SimpleData>
+		<SimpleData name="Meter Number">1471199184</SimpleData>
+		<SimpleData name="Account Number">012157</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1817796879628,34.3900149555797,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">340</SimpleData>
+		<SimpleData name="Meter Number">1471187864</SimpleData>
+		<SimpleData name="Account Number">012158</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1816789968287,34.3901221461669,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">341</SimpleData>
+		<SimpleData name="Meter Number">1471408484</SimpleData>
+		<SimpleData name="Account Number">012159</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1816797938398,34.3902990791785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">342</SimpleData>
+		<SimpleData name="Meter Number">1471325766</SimpleData>
+		<SimpleData name="Account Number">012160</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1818031900839,34.3903623802793,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">343</SimpleData>
+		<SimpleData name="Meter Number">1540770606</SimpleData>
+		<SimpleData name="Account Number">012161</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1817842414931,34.3905642893266,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">344</SimpleData>
+		<SimpleData name="Meter Number">1831075484</SimpleData>
+		<SimpleData name="Account Number">012163</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1817809256281,34.3910256536935,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">345</SimpleData>
+		<SimpleData name="Meter Number">1471503588</SimpleData>
+		<SimpleData name="Account Number">012164</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1817369266122,34.391042814863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>74 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">346</SimpleData>
+		<SimpleData name="Meter Number">1540824782</SimpleData>
+		<SimpleData name="Account Number">012164</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1817373706447,34.3910433307794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 NORTH DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">347</SimpleData>
+		<SimpleData name="Meter Number">1834523672</SimpleData>
+		<SimpleData name="Account Number">012165</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.181237261675,34.3908357828078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6080 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">348</SimpleData>
+		<SimpleData name="Meter Number">1541565140</SimpleData>
+		<SimpleData name="Account Number">012166</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1841326283015,34.3902463484659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 HAYWOOD VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">349</SimpleData>
+		<SimpleData name="Meter Number">1471041756</SimpleData>
+		<SimpleData name="Account Number">012168</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1823587491247,34.3894009363638,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6130 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">350</SimpleData>
+		<SimpleData name="Meter Number">1471218028</SimpleData>
+		<SimpleData name="Account Number">012169</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1854474526786,34.3906728068452,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6162 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">351</SimpleData>
+		<SimpleData name="Meter Number">1830775910</SimpleData>
+		<SimpleData name="Account Number">012171</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186780843931,34.3912275052273,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6236 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">352</SimpleData>
+		<SimpleData name="Meter Number">1471292318</SimpleData>
+		<SimpleData name="Account Number">012173</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1881050594008,34.391973104309,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6610 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">353</SimpleData>
+		<SimpleData name="Meter Number">1853029998</SimpleData>
+		<SimpleData name="Account Number">012175</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1997987559049,34.3958256859761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6634 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">354</SimpleData>
+		<SimpleData name="Meter Number">1850408182</SimpleData>
+		<SimpleData name="Account Number">012176</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2005937683395,34.395992617978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6646 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">355</SimpleData>
+		<SimpleData name="Meter Number">1491466854</SimpleData>
+		<SimpleData name="Account Number">012177</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.200973773177,34.3961312193142,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6720 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">356</SimpleData>
+		<SimpleData name="Meter Number">1853089922</SimpleData>
+		<SimpleData name="Account Number">110197</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2028286230445,34.3972656010277,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6728 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">357</SimpleData>
+		<SimpleData name="Meter Number">1540823142</SimpleData>
+		<SimpleData name="Account Number">012178</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2029255446415,34.3973240434467,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6758 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">358</SimpleData>
+		<SimpleData name="Meter Number">1471465418</SimpleData>
+		<SimpleData name="Account Number">012179</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2037779457841,34.397957104296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6780 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">359</SimpleData>
+		<SimpleData name="Meter Number">1471477486</SimpleData>
+		<SimpleData name="Account Number">012180</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2044395311049,34.3984362425531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6802 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">360</SimpleData>
+		<SimpleData name="Meter Number">1471526996</SimpleData>
+		<SimpleData name="Account Number">012181</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2050563680405,34.3988182891162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">361</SimpleData>
+		<SimpleData name="Meter Number">1471458304</SimpleData>
+		<SimpleData name="Account Number">012182</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061561152999,34.4003399645194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">362</SimpleData>
+		<SimpleData name="Meter Number">1471189326</SimpleData>
+		<SimpleData name="Account Number">012183</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2060395950198,34.4005234022537,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">363</SimpleData>
+		<SimpleData name="Meter Number">1471189688</SimpleData>
+		<SimpleData name="Account Number">012184</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061119976867,34.4013032938102,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">364</SimpleData>
+		<SimpleData name="Meter Number">1471268804</SimpleData>
+		<SimpleData name="Account Number">012185</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061295697455,34.4015581445436,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">365</SimpleData>
+		<SimpleData name="Meter Number">1471209736</SimpleData>
+		<SimpleData name="Account Number">012186</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061373764563,34.4018031552375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">366</SimpleData>
+		<SimpleData name="Meter Number">1853058645</SimpleData>
+		<SimpleData name="Account Number">012187</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061126802263,34.4020904008221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">367</SimpleData>
+		<SimpleData name="Meter Number">1471437730</SimpleData>
+		<SimpleData name="Account Number">012188</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2059570866286,34.4027366638855,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>163 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">368</SimpleData>
+		<SimpleData name="Meter Number">1852385352</SimpleData>
+		<SimpleData name="Account Number">012189</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061188907834,34.4036607509923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>165 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">369</SimpleData>
+		<SimpleData name="Meter Number">1471255772</SimpleData>
+		<SimpleData name="Account Number">012190</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2061217370729,34.4036692596227,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>173 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">370</SimpleData>
+		<SimpleData name="Meter Number">1471470990</SimpleData>
+		<SimpleData name="Account Number">012191</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.205691846794,34.4036747516317,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211 HAWKINS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">371</SimpleData>
+		<SimpleData name="Meter Number">1471497200</SimpleData>
+		<SimpleData name="Account Number">012192</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2045326319467,34.4036047183407,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4324 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">372</SimpleData>
+		<SimpleData name="Meter Number">1471477246</SimpleData>
+		<SimpleData name="Account Number">012194</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2075189954256,34.4003060417576,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4359 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">373</SimpleData>
+		<SimpleData name="Meter Number">1471499240</SimpleData>
+		<SimpleData name="Account Number">012196</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2087066981325,34.4006903507247,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4358 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">374</SimpleData>
+		<SimpleData name="Meter Number">1471210514</SimpleData>
+		<SimpleData name="Account Number">012197</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2090472922569,34.4008952293427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4389 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">375</SimpleData>
+		<SimpleData name="Meter Number">1471290304</SimpleData>
+		<SimpleData name="Account Number">012198</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2094782334752,34.4009327068447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4400 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">376</SimpleData>
+		<SimpleData name="Meter Number">1471491696</SimpleData>
+		<SimpleData name="Account Number">100455</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2098210345663,34.4010962390952,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4399 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">377</SimpleData>
+		<SimpleData name="Meter Number">1471439792</SimpleData>
+		<SimpleData name="Account Number">012199</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2103960531837,34.4010513856711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4433 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">378</SimpleData>
+		<SimpleData name="Meter Number">1471456616</SimpleData>
+		<SimpleData name="Account Number">103468</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210791338963,34.4010818817599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4343 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">379</SimpleData>
+		<SimpleData name="Meter Number">1831641069</SimpleData>
+		<SimpleData name="Account Number">102317</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2083836587838,34.4006086639278,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4442 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">380</SimpleData>
+		<SimpleData name="Meter Number">1471255774</SimpleData>
+		<SimpleData name="Account Number">012200</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2111293968938,34.4012733898124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4444 OLD SUMMERVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">381</SimpleData>
+		<SimpleData name="Meter Number">1832324943</SimpleData>
+		<SimpleData name="Account Number">127635</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2111975534939,34.4013169050648,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4466 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">382</SimpleData>
+		<SimpleData name="Meter Number">1490685826</SimpleData>
+		<SimpleData name="Account Number">012201</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2120101859177,34.4015042915098,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4494 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">383</SimpleData>
+		<SimpleData name="Meter Number">1831642664</SimpleData>
+		<SimpleData name="Account Number">012202</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2126886773865,34.4015064584621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4494 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">384</SimpleData>
+		<SimpleData name="Meter Number">1832248523</SimpleData>
+		<SimpleData name="Account Number">012203</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2130133152627,34.4015395200397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4510 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">385</SimpleData>
+		<SimpleData name="Meter Number">1471210184</SimpleData>
+		<SimpleData name="Account Number">012204</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2131459291216,34.4015816874684,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4546 OLD SVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">386</SimpleData>
+		<SimpleData name="Meter Number">1471355378</SimpleData>
+		<SimpleData name="Account Number">012205</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.214174700107,34.4019072002845,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6160 MARTHA BERRY HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_74">
+		<SimpleData name="fid">387</SimpleData>
+		<SimpleData name="Meter Number">1852387648</SimpleData>
+		<SimpleData name="Account Number">012170</SimpleData>
+		<SimpleData name="Route">74</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1854497333595,34.3907032935123,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

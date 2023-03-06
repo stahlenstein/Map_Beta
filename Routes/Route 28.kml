@@ -1,0 +1,3513 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_28" id="Route_28">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_28</name>
+  <Placemark>
+	<name>20 LT 10 OAKMONT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1470697378</SimpleData>
+		<SimpleData name="Account Number">114620</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250275,34.16219542,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 LOT 2 OAKMONT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1831877165</SimpleData>
+		<SimpleData name="Account Number">114649</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250334404,34.168358784,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 LT 43 SARATOGA</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1471789912</SimpleData>
+		<SimpleData name="Account Number">116008</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247113935,34.166996722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 OAKMONT DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1471608286</SimpleData>
+		<SimpleData name="Account Number">116925</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.24988341,34.167978255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1413 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1831126874</SimpleData>
+		<SimpleData name="Account Number">117379</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190981238,34.215759619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6648 CAVE SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1831877841</SimpleData>
+		<SimpleData name="Account Number">107008</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.305380913,34.135626992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 OAKMONT DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1831846813</SimpleData>
+		<SimpleData name="Account Number">106454</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247538472,34.165215879,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 OAKMONT DRIVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1480814202</SimpleData>
+		<SimpleData name="Account Number">107192</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247239952,34.164141782,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 OAKMONT DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1831877803</SimpleData>
+		<SimpleData name="Account Number">107765</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250157958,34.164165924,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>880 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1831846520</SimpleData>
+		<SimpleData name="Account Number">106758</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.265885441,34.131703752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1831855368</SimpleData>
+		<SimpleData name="Account Number">5534</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.201684703,34.194648083,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2364 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1831855481</SimpleData>
+		<SimpleData name="Account Number">5319</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.201279499,34.193771691,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1831857069</SimpleData>
+		<SimpleData name="Account Number">5321</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.203099266,34.188785327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2570 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1831857780</SimpleData>
+		<SimpleData name="Account Number">5322</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.203281934,34.188379586,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2632 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1831954887</SimpleData>
+		<SimpleData name="Account Number">5323</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204182657,34.186485285,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2688 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1831858669</SimpleData>
+		<SimpleData name="Account Number">102284</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204508411,34.1849265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2714 CEDARTOWN HWY SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1831857083</SimpleData>
+		<SimpleData name="Account Number">5324</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204587109,34.184537209,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 RT 3 HARRISON</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1832229538</SimpleData>
+		<SimpleData name="Account Number">5325</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20627502,34.184174895,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65 N HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1831859557</SimpleData>
+		<SimpleData name="Account Number">5326</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206215933,34.184812118,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>75 N HARRISON ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1831654242</SimpleData>
+		<SimpleData name="Account Number">109118</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206377213,34.184290972,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>88 N HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1481688500</SimpleData>
+		<SimpleData name="Account Number">5327</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206128079,34.184823383,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93 N HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1450068940</SimpleData>
+		<SimpleData name="Account Number">5328</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20614158,34.185125075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99 N HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1831641591</SimpleData>
+		<SimpleData name="Account Number">5329</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206153014,34.184994971,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 N HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1831655406</SimpleData>
+		<SimpleData name="Account Number">5330</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206466272,34.183933937,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 N HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1450555802</SimpleData>
+		<SimpleData name="Account Number">5331</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20650039,34.183809474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60 SANDERS AVE SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1831647036</SimpleData>
+		<SimpleData name="Account Number">5332</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207674861,34.182572123,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 S HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1831654358</SimpleData>
+		<SimpleData name="Account Number">5333</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207924006,34.18249899,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>99 SANDERS AVE SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1831654005</SimpleData>
+		<SimpleData name="Account Number">5334</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208633463,34.182506631,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108 SANDERS AVE SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1831857403</SimpleData>
+		<SimpleData name="Account Number">5335</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209008024,34.182646737,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 SANDERS AVE SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1831653335</SimpleData>
+		<SimpleData name="Account Number">5336</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210986703,34.182109502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>191 SANDERS AVE SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1831647022</SimpleData>
+		<SimpleData name="Account Number">5337</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210995592,34.182241763,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 S HARRISON ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1450068232</SimpleData>
+		<SimpleData name="Account Number">111736</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207378595,34.181964638,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 S HARRISON ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1831855253</SimpleData>
+		<SimpleData name="Account Number">5338</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207827756,34.181470043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>51 S HARRISON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1831860568</SimpleData>
+		<SimpleData name="Account Number">5339</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20783948,34.181096208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 SANDERS RD SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1831856326</SimpleData>
+		<SimpleData name="Account Number">5340</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206654699,34.182470218,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 N SANDERS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1831810051</SimpleData>
+		<SimpleData name="Account Number">5341</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206573917,34.182560996,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2772 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1831858671</SimpleData>
+		<SimpleData name="Account Number">5342</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.205227195,34.182786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 RT 3 CAVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1831860571</SimpleData>
+		<SimpleData name="Account Number">5343</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.205499273,34.182183795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2820 CEDARTOWN HWY SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1470858392</SimpleData>
+		<SimpleData name="Account Number">5344</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.205825546,34.181499325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2834 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1831859757</SimpleData>
+		<SimpleData name="Account Number">15587</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20597838,34.181191328,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1831856293</SimpleData>
+		<SimpleData name="Account Number">5345</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206798797,34.179115096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1831858674</SimpleData>
+		<SimpleData name="Account Number">101206</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2070987,34.178462094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1831858041</SimpleData>
+		<SimpleData name="Account Number">101255</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207278078,34.178292987,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>60 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1831858079</SimpleData>
+		<SimpleData name="Account Number">5346</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207381071,34.178359606,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>65 LOT8 VANNS VALLEY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1831854569</SimpleData>
+		<SimpleData name="Account Number">101511</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.207472673,34.178124655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>83 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1831855259</SimpleData>
+		<SimpleData name="Account Number">101007</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208136286,34.177738651,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>90 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1490675866</SimpleData>
+		<SimpleData name="Account Number">5348</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208352247,34.177755118,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>93 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1830511573</SimpleData>
+		<SimpleData name="Account Number">15545</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208400979,34.177625819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1831856298</SimpleData>
+		<SimpleData name="Account Number">15546</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208664592,34.177450629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1831828753</SimpleData>
+		<SimpleData name="Account Number">5349</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208805983,34.177494677,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1831858726</SimpleData>
+		<SimpleData name="Account Number">100759</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208948381,34.17728776,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>118 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1831858064</SimpleData>
+		<SimpleData name="Account Number">5350</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209119885,34.177280278,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1831118077</SimpleData>
+		<SimpleData name="Account Number">15547</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209152097,34.177124017,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>135 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1831130327</SimpleData>
+		<SimpleData name="Account Number">15548</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209388827,34.176923202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">89223993</SimpleData>
+		<SimpleData name="Account Number">5351</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209486042,34.176946212,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1450397020</SimpleData>
+		<SimpleData name="Account Number">5352</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209668976,34.176693707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>155 VANNS VALLEY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1410241144</SimpleData>
+		<SimpleData name="Account Number">110122</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.20991988,34.176433768,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>161 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1831133686</SimpleData>
+		<SimpleData name="Account Number">5353</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210074202,34.176311983,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>183 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1831130390</SimpleData>
+		<SimpleData name="Account Number">5354</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210854653,34.175982308,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>210 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1410243908</SimpleData>
+		<SimpleData name="Account Number">5355</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211394205,34.175646925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>234 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1831118547</SimpleData>
+		<SimpleData name="Account Number">5357</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211648513,34.175213402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>250 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1831854285</SimpleData>
+		<SimpleData name="Account Number">5358</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211842776,34.174845093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>249 VANNS VAL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1831855489</SimpleData>
+		<SimpleData name="Account Number">5359</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211754072,34.174702467,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3128 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1831856685</SimpleData>
+		<SimpleData name="Account Number">5360</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210211354,34.175069356,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3102 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1831855356</SimpleData>
+		<SimpleData name="Account Number">5361</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209887855,34.175173223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3102 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1831856332</SimpleData>
+		<SimpleData name="Account Number">5362</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209683429,34.175209441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3090 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1831424351</SimpleData>
+		<SimpleData name="Account Number">5363</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209168617,34.175144905,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3110 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1830775801</SimpleData>
+		<SimpleData name="Account Number">5364</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209155515,34.175149707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3110 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1832087919</SimpleData>
+		<SimpleData name="Account Number">5365</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209146659,34.17514791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3084 CAVE SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1831830769</SimpleData>
+		<SimpleData name="Account Number">104336</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208784132,34.175455468,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3082 CAVE SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1831837981</SimpleData>
+		<SimpleData name="Account Number">103923</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208783579,34.175456829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3080 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1830672840</SimpleData>
+		<SimpleData name="Account Number">5366</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.209388496,34.175081032,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3097 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1831827745</SimpleData>
+		<SimpleData name="Account Number">5367</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208618819,34.175282156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3070 HWY 27 S</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1491011544</SimpleData>
+		<SimpleData name="Account Number">5369</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208539733,34.175302836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3064 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">40275527</SimpleData>
+		<SimpleData name="Account Number">5368</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.208233711,34.175680398,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1831858670</SimpleData>
+		<SimpleData name="Account Number">5370</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212480445,34.173830028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3255 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1831299728</SimpleData>
+		<SimpleData name="Account Number">5371</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.21377645,34.173308548,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3258 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1471435328</SimpleData>
+		<SimpleData name="Account Number">5372</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.214136929,34.173244188,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1450530520</SimpleData>
+		<SimpleData name="Account Number">5373</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.215036265,34.172335731,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1831304348</SimpleData>
+		<SimpleData name="Account Number">5374</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.214698992,34.171883911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1831311212</SimpleData>
+		<SimpleData name="Account Number">5375</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.214448017,34.17154601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1831318626</SimpleData>
+		<SimpleData name="Account Number">5376</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.214181163,34.171179029,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1430265636</SimpleData>
+		<SimpleData name="Account Number">5377</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.214247097,34.171071669,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1471007194</SimpleData>
+		<SimpleData name="Account Number">5378</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.213794623,34.170855201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1831298887</SimpleData>
+		<SimpleData name="Account Number">5379</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.213836233,34.17073315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1831305668</SimpleData>
+		<SimpleData name="Account Number">5380</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.213440643,34.170599852,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1831303998</SimpleData>
+		<SimpleData name="Account Number">5381</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.213435702,34.170521837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1831305530</SimpleData>
+		<SimpleData name="Account Number">5382</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212787702,34.17036566,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 COLLEGE PARK DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1830669022</SimpleData>
+		<SimpleData name="Account Number">5383</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212775903,34.170255662,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1831303988</SimpleData>
+		<SimpleData name="Account Number">5384</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2125168,34.17022605,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1831310475</SimpleData>
+		<SimpleData name="Account Number">5385</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212678589,34.169840701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1471509802</SimpleData>
+		<SimpleData name="Account Number">5386</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212521605,34.170765471,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1831296744</SimpleData>
+		<SimpleData name="Account Number">5387</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212437816,34.170774316,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1831309119</SimpleData>
+		<SimpleData name="Account Number">5388</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212490173,34.170987479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1831309097</SimpleData>
+		<SimpleData name="Account Number">5389</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212436974,34.171328868,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1831308601</SimpleData>
+		<SimpleData name="Account Number">5390</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212155469,34.17204251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1831307488</SimpleData>
+		<SimpleData name="Account Number">5391</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.21216994,34.172190484,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 COLLEGE VIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1831309125</SimpleData>
+		<SimpleData name="Account Number">5392</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.212404575,34.172052288,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3310 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1831830265</SimpleData>
+		<SimpleData name="Account Number">5393</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.215056635,34.172946599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3350 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1831645508</SimpleData>
+		<SimpleData name="Account Number">5394</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.215386445,34.172735817,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3364 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1490785414</SimpleData>
+		<SimpleData name="Account Number">5395</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.216667841,34.172064514,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3366 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1471039462</SimpleData>
+		<SimpleData name="Account Number">5396</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.217114167,34.171898114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3367 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1830510697</SimpleData>
+		<SimpleData name="Account Number">5397</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.216749217,34.171898979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3386 CAVE SPRING </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1470077700</SimpleData>
+		<SimpleData name="Account Number">111451</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.21730128,34.171801942,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3386 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1480814200</SimpleData>
+		<SimpleData name="Account Number">120611</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.222447782,34.171470773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3651 C CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1831604102</SimpleData>
+		<SimpleData name="Account Number">5398</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.225431996,34.17245378,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3651 B CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1831603696</SimpleData>
+		<SimpleData name="Account Number">5399</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.225486347,34.172516012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3651 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1831648806</SimpleData>
+		<SimpleData name="Account Number">5400</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.225918975,34.172698106,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3651 A CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1831653159</SimpleData>
+		<SimpleData name="Account Number">5401</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.225923888,34.172698516,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3667 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1831860445</SimpleData>
+		<SimpleData name="Account Number">5402</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.22611865,34.172778674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3681 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1831127839</SimpleData>
+		<SimpleData name="Account Number">15447</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.226702942,34.172991839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1831855401</SimpleData>
+		<SimpleData name="Account Number">5404</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.229812618,34.174345615,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3854 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1831653106</SimpleData>
+		<SimpleData name="Account Number">15590</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.231868649,34.175056848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3904 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1831647024</SimpleData>
+		<SimpleData name="Account Number">101191</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.232833605,34.175361195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3966 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">41147369</SimpleData>
+		<SimpleData name="Account Number">5405</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.235420314,34.175852976,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3969 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1831648146</SimpleData>
+		<SimpleData name="Account Number">5406</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.235504896,34.175634481,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4002 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1831645501</SimpleData>
+		<SimpleData name="Account Number">5407</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.236717367,34.176050715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4257 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1832089230</SimpleData>
+		<SimpleData name="Account Number">5408</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.23748109,34.175937376,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4074 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1450424172</SimpleData>
+		<SimpleData name="Account Number">113350</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.238909002,34.176320263,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4085 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1430106944</SimpleData>
+		<SimpleData name="Account Number">5409</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.239551166,34.176098228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4100 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1831804190</SimpleData>
+		<SimpleData name="Account Number">5410</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.239806805,34.176244013,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4111 &amp; 4119</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1831646470</SimpleData>
+		<SimpleData name="Account Number">5411</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.23980745,34.175996918,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4110 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1830673848</SimpleData>
+		<SimpleData name="Account Number">5412</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.240284119,34.176159943,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4120 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1831604202</SimpleData>
+		<SimpleData name="Account Number">5413</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.240540653,34.176121026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4130 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1831603556</SimpleData>
+		<SimpleData name="Account Number">5414</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.24094037,34.176027078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4140 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1450401554</SimpleData>
+		<SimpleData name="Account Number">5415</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.241082735,34.175953855,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4139 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1831604039</SimpleData>
+		<SimpleData name="Account Number">5416</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.239991267,34.175982688,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4190 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1831648332</SimpleData>
+		<SimpleData name="Account Number">5417</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.242929112,34.175145979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4174 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1831648125</SimpleData>
+		<SimpleData name="Account Number">5418</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.242991699,34.175113658,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4204 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1831858682</SimpleData>
+		<SimpleData name="Account Number">5419</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.243117836,34.175052274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4249 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1831859634</SimpleData>
+		<SimpleData name="Account Number">5420</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.243265058,34.174656464,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4253 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1832088867</SimpleData>
+		<SimpleData name="Account Number">5421</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.243328174,34.174582775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4208 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1471940874</SimpleData>
+		<SimpleData name="Account Number">5422</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2436001,34.174634186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4232 A CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1832320031</SimpleData>
+		<SimpleData name="Account Number">5423</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.244078308,34.174291922,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4275 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1832088128</SimpleData>
+		<SimpleData name="Account Number">5424</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.24401808,34.174033675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">38016090</SimpleData>
+		<SimpleData name="Account Number">5425</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.244018921,34.174031894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4261 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">38016093</SimpleData>
+		<SimpleData name="Account Number">5426</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.244023871,34.174033593,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4270 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1831840636</SimpleData>
+		<SimpleData name="Account Number">5427</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.244523544,34.173964898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4301 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1832092663</SimpleData>
+		<SimpleData name="Account Number">5429</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.245615973,34.172890248,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4365 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1832036178</SimpleData>
+		<SimpleData name="Account Number">5430</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247596322,34.171370531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4432 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1471338080</SimpleData>
+		<SimpleData name="Account Number">5431</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.248453984,34.170937799,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 OAKMONT DRIVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1491022208</SimpleData>
+		<SimpleData name="Account Number">112120</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250612101,34.168812392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1831828758</SimpleData>
+		<SimpleData name="Account Number">5432</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.249538194,34.167355091,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 OAKMONT DRIVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1470416696</SimpleData>
+		<SimpleData name="Account Number">113316</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250134131,34.168372416,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1830771960</SimpleData>
+		<SimpleData name="Account Number">5433</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.249577419,34.166733474,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1831319011</SimpleData>
+		<SimpleData name="Account Number">5434</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.24976395,34.165853855,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">44600987</SimpleData>
+		<SimpleData name="Account Number">5435</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.249944852,34.165418936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1482113802</SimpleData>
+		<SimpleData name="Account Number">5436</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.249797027,34.165318462,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1831854568</SimpleData>
+		<SimpleData name="Account Number">5437</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250105541,34.162093105,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1831858035</SimpleData>
+		<SimpleData name="Account Number">5438</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.249082268,34.160873007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1831855892</SimpleData>
+		<SimpleData name="Account Number">5439</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.248017244,34.160992505,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">47327067</SimpleData>
+		<SimpleData name="Account Number">5440</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247979925,34.161176892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 OAKMONT DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1491141718</SimpleData>
+		<SimpleData name="Account Number">119669</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247381156,34.163471234,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1490785036</SimpleData>
+		<SimpleData name="Account Number">118134</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247382309,34.162482336,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 OAKMONT DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">47457293</SimpleData>
+		<SimpleData name="Account Number">5441</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247710394,34.161763473,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 OAKMONT DRIVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">48574801</SimpleData>
+		<SimpleData name="Account Number">105068</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.247243749,34.164145728,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 OAKMONT DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">47575705</SimpleData>
+		<SimpleData name="Account Number">5442</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.248326134,34.165495557,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4532 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1831855827</SimpleData>
+		<SimpleData name="Account Number">5443</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.251032294,34.168942928,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4650 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1831855548</SimpleData>
+		<SimpleData name="Account Number">5444</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.25402301,34.166487228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5165 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1105126824</SimpleData>
+		<SimpleData name="Account Number">5445</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.264839018,34.156056868,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>132 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1831858679</SimpleData>
+		<SimpleData name="Account Number">5446</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269139286,34.150548047,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1831854554</SimpleData>
+		<SimpleData name="Account Number">5447</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.268931949,34.14928446,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>496 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1471940132</SimpleData>
+		<SimpleData name="Account Number">117696</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.26881206,34.140865473,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>515 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1450011758</SimpleData>
+		<SimpleData name="Account Number">111755</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.268751489,34.140405866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>535 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1831855409</SimpleData>
+		<SimpleData name="Account Number">15588</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.268901056,34.139645621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>592 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1481696636</SimpleData>
+		<SimpleData name="Account Number">120669</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269034892,34.139607675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>530 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1105272725</SimpleData>
+		<SimpleData name="Account Number">109039</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269086108,34.139547724,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>589 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1491142028</SimpleData>
+		<SimpleData name="Account Number">119531</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269243643,34.138695484,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>625 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1471919248</SimpleData>
+		<SimpleData name="Account Number">118016</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269423292,34.137313645,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>575 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1105007396</SimpleData>
+		<SimpleData name="Account Number">112040</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269437506,34.137858416,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>665 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1490205270</SimpleData>
+		<SimpleData name="Account Number">117791</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269008985,34.135221333,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>710 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1105127044</SimpleData>
+		<SimpleData name="Account Number">15549</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.269133489,34.135226679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>808 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1471703230</SimpleData>
+		<SimpleData name="Account Number">116380</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.267679136,34.133217559,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>842 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1831858026</SimpleData>
+		<SimpleData name="Account Number">104996</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.266651931,34.131806402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>906 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1831856287</SimpleData>
+		<SimpleData name="Account Number">101756</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.264485636,34.131013939,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>993 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1831855824</SimpleData>
+		<SimpleData name="Account Number">5449</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.262058751,34.130565992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1025 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1471177076</SimpleData>
+		<SimpleData name="Account Number">5450</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.260958784,34.13037579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1047 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1831855829</SimpleData>
+		<SimpleData name="Account Number">5451</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.259970781,34.130313161,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1099 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1831858073</SimpleData>
+		<SimpleData name="Account Number">5452</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.258027102,34.130186369,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1125 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1831860557</SimpleData>
+		<SimpleData name="Account Number">101237</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.257568812,34.13012302,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1166 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1491016290</SimpleData>
+		<SimpleData name="Account Number">5453</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.256399245,34.129668119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1201 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1831857445</SimpleData>
+		<SimpleData name="Account Number">5454</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.255067645,34.12958657,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1215 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1831859850</SimpleData>
+		<SimpleData name="Account Number">5455</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.254918158,34.129595781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1275 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1831858803</SimpleData>
+		<SimpleData name="Account Number">5456</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.254364473,34.129666531,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1283 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1831856029</SimpleData>
+		<SimpleData name="Account Number">5457</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.253171267,34.128718269,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1325 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">39159017</SimpleData>
+		<SimpleData name="Account Number">5458</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.252610205,34.128080086,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1335 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1831827439</SimpleData>
+		<SimpleData name="Account Number">5459</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.251666908,34.127812405,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1345 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1831828426</SimpleData>
+		<SimpleData name="Account Number">5460</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.251413918,34.127703439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1350 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1831858725</SimpleData>
+		<SimpleData name="Account Number">5461</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.251170329,34.12704034,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1411 MORGAN DAIRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1471607506</SimpleData>
+		<SimpleData name="Account Number">5462</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.250427085,34.125803092,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5360 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1831829522</SimpleData>
+		<SimpleData name="Account Number">5464</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.271118537,34.153975372,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5436 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1831828762</SimpleData>
+		<SimpleData name="Account Number">106680</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.273830662,34.153010252,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5555 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1831803892</SimpleData>
+		<SimpleData name="Account Number">5466</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.273691777,34.152829509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5587 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1831929727</SimpleData>
+		<SimpleData name="Account Number">5467</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.278085997,34.151253108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5665 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1831926293</SimpleData>
+		<SimpleData name="Account Number">5468</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.278379425,34.151123181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5627 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1831855761</SimpleData>
+		<SimpleData name="Account Number">5469</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.27889387,34.150912779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5614 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1831858441</SimpleData>
+		<SimpleData name="Account Number">5470</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.280806116,34.150312969,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6039 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1831318597</SimpleData>
+		<SimpleData name="Account Number">5471</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.292030815,34.147886781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6141 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1831305573</SimpleData>
+		<SimpleData name="Account Number">5473</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.294512968,34.146337509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1831318410</SimpleData>
+		<SimpleData name="Account Number">5474</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.295152432,34.145934515,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6181 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1831304123</SimpleData>
+		<SimpleData name="Account Number">5475</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.295216932,34.145485646,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1831305716</SimpleData>
+		<SimpleData name="Account Number">5477</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.295177825,34.144307245,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1831305732</SimpleData>
+		<SimpleData name="Account Number">5478</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.294784222,34.144089963,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1831856096</SimpleData>
+		<SimpleData name="Account Number">5479</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.294452958,34.143787981,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1831304264</SimpleData>
+		<SimpleData name="Account Number">5480</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.294273538,34.143901666,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1831877361</SimpleData>
+		<SimpleData name="Account Number">5481</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.293892068,34.143567654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1831318797</SimpleData>
+		<SimpleData name="Account Number">5482</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.293848973,34.143665655,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1831311980</SimpleData>
+		<SimpleData name="Account Number">5483</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.293421986,34.143354434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1482235396</SimpleData>
+		<SimpleData name="Account Number">5484</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.295917686,34.144452467,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PLEDGER DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1831856058</SimpleData>
+		<SimpleData name="Account Number">5485</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.295993992,34.14434835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6253 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1831854401</SimpleData>
+		<SimpleData name="Account Number">5486</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.296463995,34.143646408,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6265 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1831855575</SimpleData>
+		<SimpleData name="Account Number">5487</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.296549512,34.143529071,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6275 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1831854361</SimpleData>
+		<SimpleData name="Account Number">5488</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.296908937,34.143028716,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6327 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1831856205</SimpleData>
+		<SimpleData name="Account Number">5489</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.297667509,34.141947312,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1831855364</SimpleData>
+		<SimpleData name="Account Number">5490</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.298307872,34.141382254,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6393 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1831854408</SimpleData>
+		<SimpleData name="Account Number">5491</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.298991698,34.14045814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6405 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1831858119</SimpleData>
+		<SimpleData name="Account Number">5492</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.299052229,34.140423206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6451 CAVE SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1831858764</SimpleData>
+		<SimpleData name="Account Number">101045</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.29984135,34.139652095,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6483 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1831856047</SimpleData>
+		<SimpleData name="Account Number">5493</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.300970025,34.138714198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1831926324</SimpleData>
+		<SimpleData name="Account Number">5494</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.307037788,34.133937628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 DAVIS RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1831858793</SimpleData>
+		<SimpleData name="Account Number">5495</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.307478982,34.133564719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6690 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1410243924</SimpleData>
+		<SimpleData name="Account Number">110132</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.306548836,34.134864512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6770 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1831860449</SimpleData>
+		<SimpleData name="Account Number">5496</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.308540389,34.133086055,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6770 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1831859007</SimpleData>
+		<SimpleData name="Account Number">5497</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.308730041,34.132920756,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>364 DAVIS RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1831855476</SimpleData>
+		<SimpleData name="Account Number">5498</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.308936147,34.132408832,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6846 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1831830875</SimpleData>
+		<SimpleData name="Account Number">5499</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.310414122,34.131543483,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6862 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1831858766</SimpleData>
+		<SimpleData name="Account Number">5500</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.310464222,34.131502448,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6878 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1105021972</SimpleData>
+		<SimpleData name="Account Number">112063</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.310878829,34.13107228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6853 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1831860562</SimpleData>
+		<SimpleData name="Account Number">5501</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.310477375,34.131168463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6877 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1831858075</SimpleData>
+		<SimpleData name="Account Number">5502</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.310782379,34.130924824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6880 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1831857207</SimpleData>
+		<SimpleData name="Account Number">5504</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.31127456,34.13085282,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6880 CAVE SPRING HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1471799070</SimpleData>
+		<SimpleData name="Account Number">116966</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.311249153,34.13086534,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6948 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1831808996</SimpleData>
+		<SimpleData name="Account Number">5505</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.312260128,34.130056469,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7019 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1831799853</SimpleData>
+		<SimpleData name="Account Number">5506</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.313640566,34.128616347,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1676 SPOUT SPRINGS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1430078506</SimpleData>
+		<SimpleData name="Account Number">5507</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.324280607,34.127966621,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1831860507</SimpleData>
+		<SimpleData name="Account Number">5508</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.310413836,34.131461721,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>141 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1831858805</SimpleData>
+		<SimpleData name="Account Number">5509</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.210976755,34.170668499,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>151 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1831856300</SimpleData>
+		<SimpleData name="Account Number">5510</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211046591,34.170328674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>161 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1831857198</SimpleData>
+		<SimpleData name="Account Number">5511</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211079438,34.170031245,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>162 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1430232672</SimpleData>
+		<SimpleData name="Account Number">111455</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211271422,34.169837759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>171 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1831859759</SimpleData>
+		<SimpleData name="Account Number">5512</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211106063,34.169728578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>178 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1481620700</SimpleData>
+		<SimpleData name="Account Number">5513</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211260873,34.169723051,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>181 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1831855646</SimpleData>
+		<SimpleData name="Account Number">5514</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211110032,34.169397264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>212 WELCOME HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1831857430</SimpleData>
+		<SimpleData name="Account Number">5515</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.2113738,34.16886513,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>206 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1831873764</SimpleData>
+		<SimpleData name="Account Number">5516</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211375184,34.168864104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>198 WELCOME HILL TR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1490955372</SimpleData>
+		<SimpleData name="Account Number">5517</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.211381304,34.168871103,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2995 CEDARTOWN RD STORE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">47457292</SimpleData>
+		<SimpleData name="Account Number">5519</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206253367,34.176890176,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2973 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">48040488</SimpleData>
+		<SimpleData name="Account Number">15589</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206157909,34.177159469,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2931 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1831855363</SimpleData>
+		<SimpleData name="Account Number">5520</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206079254,34.178593614,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2913 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1831856329</SimpleData>
+		<SimpleData name="Account Number">5521</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206074028,34.178726159,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2877 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1831860440</SimpleData>
+		<SimpleData name="Account Number">5522</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.206011639,34.179913608,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2763 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1831856333</SimpleData>
+		<SimpleData name="Account Number">5523</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204735938,34.182861942,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2753 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1831302121</SimpleData>
+		<SimpleData name="Account Number">5524</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204562095,34.18325373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2707 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Meter Number">1831857832</SimpleData>
+		<SimpleData name="Account Number">5525</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204107344,34.18482577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2679 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1831826297</SimpleData>
+		<SimpleData name="Account Number">5526</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204050661,34.185006507,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HWY 27 SOUTH</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1831855329</SimpleData>
+		<SimpleData name="Account Number">5527</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.203003505,34.187935581,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2567 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1471793824</SimpleData>
+		<SimpleData name="Account Number">5528</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.202739372,34.188310863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2349 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">SR</SimpleData>
+		<SimpleData name="Account Number">5530</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.200689972,34.193784064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2660 CEDARTOWN HWY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1470130644</SimpleData>
+		<SimpleData name="Account Number">112236</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.204334484,34.185806826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1830777391</SimpleData>
+		<SimpleData name="Account Number">5533</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.196920367,34.205164761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1711 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1831116524</SimpleData>
+		<SimpleData name="Account Number">5535</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.194496117,34.210331089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1605 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1831129328</SimpleData>
+		<SimpleData name="Account Number">100429</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.192803678,34.213087771,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1601 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1831292686</SimpleData>
+		<SimpleData name="Account Number">5536</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.192143834,34.213323035,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 PRIMROSE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1831877801</SimpleData>
+		<SimpleData name="Account Number">102698</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190808822,34.212002931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1529 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1831131576</SimpleData>
+		<SimpleData name="Account Number">5538</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.192378792,34.213676838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1519 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Meter Number">1831131612</SimpleData>
+		<SimpleData name="Account Number">5539</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.191892678,34.214392253,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1517 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1831127855</SimpleData>
+		<SimpleData name="Account Number">5540</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.191889286,34.214391456,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1513 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1831132276</SimpleData>
+		<SimpleData name="Account Number">5541</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.191656456,34.214749254,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1415 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1831136030</SimpleData>
+		<SimpleData name="Account Number">5543</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190838564,34.21549029,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 STRATTON ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1831132846</SimpleData>
+		<SimpleData name="Account Number">5544</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190128468,34.215417305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1831117360</SimpleData>
+		<SimpleData name="Account Number">5545</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190634969,34.214358936,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1831117456</SimpleData>
+		<SimpleData name="Account Number">5547</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189993619,34.215390238,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1831131353</SimpleData>
+		<SimpleData name="Account Number">5548</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189829551,34.215611145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">274</SimpleData>
+		<SimpleData name="Meter Number">1831131676</SimpleData>
+		<SimpleData name="Account Number">5549</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189926447,34.21565851,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">275</SimpleData>
+		<SimpleData name="Meter Number">1831129439</SimpleData>
+		<SimpleData name="Account Number">5550</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189866176,34.215725134,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>104 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">276</SimpleData>
+		<SimpleData name="Meter Number">1831135476</SimpleData>
+		<SimpleData name="Account Number">5551</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189643658,34.215899968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">277</SimpleData>
+		<SimpleData name="Meter Number">1831126847</SimpleData>
+		<SimpleData name="Account Number">5553</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189613062,34.216101438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">278</SimpleData>
+		<SimpleData name="Meter Number">1831131014</SimpleData>
+		<SimpleData name="Account Number">5552</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189180406,34.216171661,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>110 SUNRISE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">279</SimpleData>
+		<SimpleData name="Meter Number">1831118066</SimpleData>
+		<SimpleData name="Account Number">5554</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188771321,34.216133785,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>208 COLE ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">280</SimpleData>
+		<SimpleData name="Meter Number">1831129494</SimpleData>
+		<SimpleData name="Account Number">15427</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188944914,34.216642697,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203 COLE ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">281</SimpleData>
+		<SimpleData name="Meter Number">1831126421</SimpleData>
+		<SimpleData name="Account Number">5555</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189039143,34.216688194,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>210 COLE ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">282</SimpleData>
+		<SimpleData name="Meter Number">1831127872</SimpleData>
+		<SimpleData name="Account Number">15428</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188805823,34.216935208,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1411 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">283</SimpleData>
+		<SimpleData name="Meter Number">1831117592</SimpleData>
+		<SimpleData name="Account Number">5556</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.19086336,34.215953222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1409 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">284</SimpleData>
+		<SimpleData name="Meter Number">1831117170</SimpleData>
+		<SimpleData name="Account Number">5557</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190753147,34.216081164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1407 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">285</SimpleData>
+		<SimpleData name="Meter Number">1831117458</SimpleData>
+		<SimpleData name="Account Number">5558</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190704972,34.216152551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1405 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">286</SimpleData>
+		<SimpleData name="Meter Number">1831129163</SimpleData>
+		<SimpleData name="Account Number">5559</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190551693,34.216401166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1403 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">287</SimpleData>
+		<SimpleData name="Meter Number">1831132182</SimpleData>
+		<SimpleData name="Account Number">5560</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190428063,34.216566255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1401 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">288</SimpleData>
+		<SimpleData name="Meter Number">1831132901</SimpleData>
+		<SimpleData name="Account Number">5561</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190420859,34.216572021,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1351 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">289</SimpleData>
+		<SimpleData name="Meter Number">1831132855</SimpleData>
+		<SimpleData name="Account Number">5562</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190230911,34.216840059,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1349 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">290</SimpleData>
+		<SimpleData name="Meter Number">1831126226</SimpleData>
+		<SimpleData name="Account Number">5563</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190224471,34.21686199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1347 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">291</SimpleData>
+		<SimpleData name="Meter Number">1831117306</SimpleData>
+		<SimpleData name="Account Number">5564</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.190103792,34.217067166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">292</SimpleData>
+		<SimpleData name="Meter Number">1831123612</SimpleData>
+		<SimpleData name="Account Number">5565</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189592682,34.21709964,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">293</SimpleData>
+		<SimpleData name="Meter Number">1831132198</SimpleData>
+		<SimpleData name="Account Number">5566</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189293267,34.21706767,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">294</SimpleData>
+		<SimpleData name="Meter Number">1831129760</SimpleData>
+		<SimpleData name="Account Number">5567</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188204212,34.216993708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">295</SimpleData>
+		<SimpleData name="Meter Number">1831129400</SimpleData>
+		<SimpleData name="Account Number">5568</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.187428596,34.21682165,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>77 AGNES STREET </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">296</SimpleData>
+		<SimpleData name="Meter Number">1831136342</SimpleData>
+		<SimpleData name="Account Number">5569</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18737946,34.2168808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">297</SimpleData>
+		<SimpleData name="Meter Number">1831131728</SimpleData>
+		<SimpleData name="Account Number">5570</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186796666,34.216777647,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">298</SimpleData>
+		<SimpleData name="Meter Number">1831136329</SimpleData>
+		<SimpleData name="Account Number">5571</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186325337,34.216702455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>131 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">299</SimpleData>
+		<SimpleData name="Meter Number">1831136288</SimpleData>
+		<SimpleData name="Account Number">5573</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185568997,34.216636731,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>141 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">300</SimpleData>
+		<SimpleData name="Meter Number">1831130111</SimpleData>
+		<SimpleData name="Account Number">5574</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185341633,34.216579458,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>160 AGNES ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">301</SimpleData>
+		<SimpleData name="Meter Number">1831126846</SimpleData>
+		<SimpleData name="Account Number">5575</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184768744,34.216413439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>167 B AGNES ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">302</SimpleData>
+		<SimpleData name="Meter Number">1831131729</SimpleData>
+		<SimpleData name="Account Number">5577</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184051014,34.21684263,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1345 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">303</SimpleData>
+		<SimpleData name="Meter Number">1831116333</SimpleData>
+		<SimpleData name="Account Number">5579</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189645099,34.217175719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1343 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">304</SimpleData>
+		<SimpleData name="Meter Number">1831117595</SimpleData>
+		<SimpleData name="Account Number">5580</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189806996,34.217528791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1339 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">305</SimpleData>
+		<SimpleData name="Meter Number">1831135784</SimpleData>
+		<SimpleData name="Account Number">5582</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189540725,34.217896617,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1337 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">306</SimpleData>
+		<SimpleData name="Meter Number">1831130670</SimpleData>
+		<SimpleData name="Account Number">5583</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18948683,34.217965033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1335 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">307</SimpleData>
+		<SimpleData name="Meter Number">1831848436</SimpleData>
+		<SimpleData name="Account Number">102145</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189189077,34.218360773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1333 B CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">308</SimpleData>
+		<SimpleData name="Meter Number">1831125604</SimpleData>
+		<SimpleData name="Account Number">102144</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189180679,34.218389418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1333 A CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">309</SimpleData>
+		<SimpleData name="Meter Number">1831129502</SimpleData>
+		<SimpleData name="Account Number">102142</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189179449,34.218392373,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1331 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">310</SimpleData>
+		<SimpleData name="Meter Number">1831131260</SimpleData>
+		<SimpleData name="Account Number">5584</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.189022501,34.218593734,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1327 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">311</SimpleData>
+		<SimpleData name="Meter Number">1831131930</SimpleData>
+		<SimpleData name="Account Number">5585</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188916913,34.218695072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1325 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">312</SimpleData>
+		<SimpleData name="Meter Number">1831135490</SimpleData>
+		<SimpleData name="Account Number">5586</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188781847,34.21880741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1323 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">313</SimpleData>
+		<SimpleData name="Meter Number">1831129582</SimpleData>
+		<SimpleData name="Account Number">5587</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188680641,34.218914949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1319 A CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">314</SimpleData>
+		<SimpleData name="Meter Number">1831131039</SimpleData>
+		<SimpleData name="Account Number">5589</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188521859,34.219118251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1319 B CAVE SPRING</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">315</SimpleData>
+		<SimpleData name="Meter Number">1831119951</SimpleData>
+		<SimpleData name="Account Number">5591</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188529413,34.21911679,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1319 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">316</SimpleData>
+		<SimpleData name="Meter Number">1831132121</SimpleData>
+		<SimpleData name="Account Number">5592</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188389905,34.219261341,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1317 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">317</SimpleData>
+		<SimpleData name="Meter Number">1831123974</SimpleData>
+		<SimpleData name="Account Number">5593</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188273478,34.219382457,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1315 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">318</SimpleData>
+		<SimpleData name="Meter Number">1831133559</SimpleData>
+		<SimpleData name="Account Number">5594</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188221881,34.21944685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1313 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">319</SimpleData>
+		<SimpleData name="Meter Number">1831124899</SimpleData>
+		<SimpleData name="Account Number">5595</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.188109323,34.219548599,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1311 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">320</SimpleData>
+		<SimpleData name="Meter Number">1831131396</SimpleData>
+		<SimpleData name="Account Number">5596</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.187968157,34.219713138,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1309 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">321</SimpleData>
+		<SimpleData name="Meter Number">1831127846</SimpleData>
+		<SimpleData name="Account Number">5597</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.187848319,34.219850758,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1307 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">322</SimpleData>
+		<SimpleData name="Meter Number">1831131352</SimpleData>
+		<SimpleData name="Account Number">5598</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.187797416,34.219943783,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1301 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">323</SimpleData>
+		<SimpleData name="Meter Number">1831132577</SimpleData>
+		<SimpleData name="Account Number">5599</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.187033409,34.220318156,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 MCHENRY DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">324</SimpleData>
+		<SimpleData name="Meter Number">1831133070</SimpleData>
+		<SimpleData name="Account Number">5600</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186590073,34.220130933,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 A MCHENRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">325</SimpleData>
+		<SimpleData name="Meter Number">1831135471</SimpleData>
+		<SimpleData name="Account Number">5601</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186368969,34.220175866,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 MCHENRY DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">326</SimpleData>
+		<SimpleData name="Meter Number">1831129244</SimpleData>
+		<SimpleData name="Account Number">5602</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18635772,34.219967018,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 MCHENRY DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">327</SimpleData>
+		<SimpleData name="Meter Number">1831136291</SimpleData>
+		<SimpleData name="Account Number">5603</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185755253,34.219359255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 MCHENRY PRIMARY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">328</SimpleData>
+		<SimpleData name="Meter Number">1831216262</SimpleData>
+		<SimpleData name="Account Number">5605</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185686244,34.219335393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 MCHENRY PRIMARY </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">329</SimpleData>
+		<SimpleData name="Meter Number">1830553151</SimpleData>
+		<SimpleData name="Account Number">5606</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18568485,34.219344768,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>67 MCHENRY DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">330</SimpleData>
+		<SimpleData name="Meter Number">1831131642</SimpleData>
+		<SimpleData name="Account Number">5607</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185481765,34.21983481,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>73 MCHENRY DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">331</SimpleData>
+		<SimpleData name="Meter Number">1831131004</SimpleData>
+		<SimpleData name="Account Number">5608</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184913609,34.219662782,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>79 MCHENRY DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">332</SimpleData>
+		<SimpleData name="Meter Number">1831132180</SimpleData>
+		<SimpleData name="Account Number">5609</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18485865,34.219609181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>85 MCHENRY DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">333</SimpleData>
+		<SimpleData name="Meter Number">1831133354</SimpleData>
+		<SimpleData name="Account Number">115218</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184865791,34.219607957,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 MCHENRY DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">334</SimpleData>
+		<SimpleData name="Meter Number">1831132097</SimpleData>
+		<SimpleData name="Account Number">115219</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184458097,34.219492714,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>91 MCHENRY DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">335</SimpleData>
+		<SimpleData name="Meter Number">1831136290</SimpleData>
+		<SimpleData name="Account Number">118004</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184257844,34.219411552,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103 MCHENRY DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">336</SimpleData>
+		<SimpleData name="Meter Number">1831129170</SimpleData>
+		<SimpleData name="Account Number">5610</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184103641,34.219360896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117 MCHENRY DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">337</SimpleData>
+		<SimpleData name="Meter Number">1831130990</SimpleData>
+		<SimpleData name="Account Number">5611</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.183949508,34.219305917,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121 MCHENRY DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">338</SimpleData>
+		<SimpleData name="Meter Number">1831130107</SimpleData>
+		<SimpleData name="Account Number">5612</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.183912276,34.21928439,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>88 WATSON DR SW</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">339</SimpleData>
+		<SimpleData name="Meter Number">1831131781</SimpleData>
+		<SimpleData name="Account Number">5613</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.184850273,34.219671133,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">340</SimpleData>
+		<SimpleData name="Meter Number">1831131936</SimpleData>
+		<SimpleData name="Account Number">5615</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185975276,34.220235003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">341</SimpleData>
+		<SimpleData name="Meter Number">1831128715</SimpleData>
+		<SimpleData name="Account Number">5616</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185700948,34.220597824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">342</SimpleData>
+		<SimpleData name="Meter Number">1831131736</SimpleData>
+		<SimpleData name="Account Number">5617</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185651339,34.220636057,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">343</SimpleData>
+		<SimpleData name="Meter Number">1831132288</SimpleData>
+		<SimpleData name="Account Number">5618</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185507875,34.220810977,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">344</SimpleData>
+		<SimpleData name="Meter Number">1831131783</SimpleData>
+		<SimpleData name="Account Number">5619</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.18559419,34.220846772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">345</SimpleData>
+		<SimpleData name="Meter Number">1831136286</SimpleData>
+		<SimpleData name="Account Number">5620</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185445613,34.220937619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">346</SimpleData>
+		<SimpleData name="Meter Number">1831133202</SimpleData>
+		<SimpleData name="Account Number">5621</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185226247,34.22124313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 WALLACE DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">347</SimpleData>
+		<SimpleData name="Meter Number">1831132185</SimpleData>
+		<SimpleData name="Account Number">5622</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.185386182,34.221187425,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 MCHENRY DRIVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">348</SimpleData>
+		<SimpleData name="Meter Number">1831860560</SimpleData>
+		<SimpleData name="Account Number">5623</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186683405,34.22029322,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1213 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">349</SimpleData>
+		<SimpleData name="Meter Number">1831121893</SimpleData>
+		<SimpleData name="Account Number">5624</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.187039688,34.220462541,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1203 CAVE SPRING RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_28">
+		<SimpleData name="fid">350</SimpleData>
+		<SimpleData name="Meter Number">1490784546</SimpleData>
+		<SimpleData name="Account Number">5625</SimpleData>
+		<SimpleData name="Route">28</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.186901064,34.220924516,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

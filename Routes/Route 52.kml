@@ -1,0 +1,3003 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_52" id="Route_52">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="int"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_52</name>
+  <Placemark>
+	<name>615 CLEMENTS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1470994524</SimpleData>
+		<SimpleData name="Account Number">114935</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0572003576229,34.3514287054199,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>660 CLEMENTS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1471938128</SimpleData>
+		<SimpleData name="Account Number">117154</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0570576514541,34.3530519573122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1831357476</SimpleData>
+		<SimpleData name="Account Number">123838</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0333297307228,34.3720596206846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1832029240</SimpleData>
+		<SimpleData name="Account Number">123838</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0333371134397,34.3720562973928,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1832087187</SimpleData>
+		<SimpleData name="Account Number">123838</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0362654960757,34.3766298245256,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>151 PROSPERITY WAY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1832627626</SimpleData>
+		<SimpleData name="Account Number">124553</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0382082267075,34.3709210810963,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1484478984</SimpleData>
+		<SimpleData name="Account Number">124823</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0362672039914,34.376630843145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1484480138</SimpleData>
+		<SimpleData name="Account Number">124823</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.033289541331,34.3720545621584,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1832347764</SimpleData>
+		<SimpleData name="Account Number">124823</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0362695965807,34.3766308364745,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7500 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1832497186</SimpleData>
+		<SimpleData name="Account Number">124823</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0332857236555,34.3720559440325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>731 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1852429999</SimpleData>
+		<SimpleData name="Account Number">128940</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0088352599229,34.375061010087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>535 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1471549924</SimpleData>
+		<SimpleData name="Account Number">105515</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0387127115442,34.3555365002674,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>694 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1472029228</SimpleData>
+		<SimpleData name="Account Number">107139</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0087086018249,34.3763852782447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7575 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1831122182</SimpleData>
+		<SimpleData name="Account Number">107078</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0403390372451,34.3747713420502,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>426 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1852388163</SimpleData>
+		<SimpleData name="Account Number">008716</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0691079799588,34.3394278391207,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 HERMITAGE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1471783120</SimpleData>
+		<SimpleData name="Account Number">008680</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0737769008418,34.3327528271551,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>149 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1471937706</SimpleData>
+		<SimpleData name="Account Number">008681</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0736839568495,34.3328309545298,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>150 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1471896980</SimpleData>
+		<SimpleData name="Account Number">008682</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0734085865069,34.3329027714917,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>168 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1471932592</SimpleData>
+		<SimpleData name="Account Number">008683</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0730749263992,34.3330952492877,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>169 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1852490217</SimpleData>
+		<SimpleData name="Account Number">008684</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0731014399917,34.3332055259303,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>188 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1831847269</SimpleData>
+		<SimpleData name="Account Number">008685</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0728023927006,34.3332928701597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>196 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1490150372</SimpleData>
+		<SimpleData name="Account Number">008686</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0724734732462,34.3335787535186,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1830510491</SimpleData>
+		<SimpleData name="Account Number">008688</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0722412813733,34.3340873187683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>218 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1490151998</SimpleData>
+		<SimpleData name="Account Number">008689</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0720470470306,34.3342047113202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>236 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1490154340</SimpleData>
+		<SimpleData name="Account Number">008690</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0717193640114,34.3343481922957,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 OLD TRAM TRACK</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1471910534</SimpleData>
+		<SimpleData name="Account Number">008691</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0709201312485,34.3335626010198,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 TRAM TRACK RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1490155078</SimpleData>
+		<SimpleData name="Account Number">008693</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0704195930865,34.3333242583535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>254 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1831846962</SimpleData>
+		<SimpleData name="Account Number">008694</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0715949390191,34.335030653523,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>270 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1490134516</SimpleData>
+		<SimpleData name="Account Number">008695</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0713081242762,34.3355274252994,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>282 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1470991218</SimpleData>
+		<SimpleData name="Account Number">008696</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0711420733597,34.3358271128352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4518 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1490152128</SimpleData>
+		<SimpleData name="Account Number">008697</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0711670548378,34.3359984256016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>290 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1490154542</SimpleData>
+		<SimpleData name="Account Number">008698</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0709628727035,34.3362073194419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4530 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1850404206</SimpleData>
+		<SimpleData name="Account Number">008699</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0709039305296,34.3365150597369,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>310 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1490139484</SimpleData>
+		<SimpleData name="Account Number">008700</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0707315466734,34.3365962492453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>330 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1490154452</SimpleData>
+		<SimpleData name="Account Number">008702</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.070513758016,34.3369445908053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4556 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1850528300</SimpleData>
+		<SimpleData name="Account Number">008703</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0706476447274,34.3369950126593,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>338 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1490138340</SimpleData>
+		<SimpleData name="Account Number">008704</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0704299033231,34.3371526263897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>346 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1471939152</SimpleData>
+		<SimpleData name="Account Number">008705</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0703404912007,34.3373235567324,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>355 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1471908790</SimpleData>
+		<SimpleData name="Account Number">008707</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.070318284674,34.337609628979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>144 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1471926584</SimpleData>
+		<SimpleData name="Account Number">008708</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0703762917381,34.3375062701351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>370 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1471933412</SimpleData>
+		<SimpleData name="Account Number">008710</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0698756022812,34.3381189572795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>390 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1490138056</SimpleData>
+		<SimpleData name="Account Number">008711</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0697140243538,34.3384424456496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>368 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1490134094</SimpleData>
+		<SimpleData name="Account Number">008712</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0696562369616,34.338544510971,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>370 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1471919224</SimpleData>
+		<SimpleData name="Account Number">008713</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0696537127591,34.3385506822073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>440 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1490138796</SimpleData>
+		<SimpleData name="Account Number">008718</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0689054908127,34.3397289163239,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1490136996</SimpleData>
+		<SimpleData name="Account Number">008719</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0675705076525,34.3403625534364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1490136174</SimpleData>
+		<SimpleData name="Account Number">118173</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0669072274041,34.3404722739471,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1450130488</SimpleData>
+		<SimpleData name="Account Number">008721</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0671697733481,34.340485261442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1490144956</SimpleData>
+		<SimpleData name="Account Number">008726</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0649252864637,34.3403440487548,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1490151168</SimpleData>
+		<SimpleData name="Account Number">008727</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0643804372042,34.3406867733969,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1853083161</SimpleData>
+		<SimpleData name="Account Number">008728</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0626847158222,34.3418287162028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>237 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1490150976</SimpleData>
+		<SimpleData name="Account Number">008729</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0617069453133,34.3427344674376,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>251 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1490132982</SimpleData>
+		<SimpleData name="Account Number">008730</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0612715097166,34.342985428539,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>273 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1490147818</SimpleData>
+		<SimpleData name="Account Number">008732</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0607844538514,34.343241169103,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1490139144</SimpleData>
+		<SimpleData name="Account Number">008733</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0603242808608,34.3434843170732,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>302 CLEMENTS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1490246916</SimpleData>
+		<SimpleData name="Account Number">109005</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0599506601644,34.3436041601829,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1853087257</SimpleData>
+		<SimpleData name="Account Number">008734</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0599909509339,34.3438882791392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>340 CLEMENTS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1490117252</SimpleData>
+		<SimpleData name="Account Number">102704</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0599170752161,34.3448877952923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>347 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1490138596</SimpleData>
+		<SimpleData name="Account Number">008737</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.060059858431,34.3448376692286,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>354 CLEMENTS RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1472031534</SimpleData>
+		<SimpleData name="Account Number">101158</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0599166034422,34.3450640573731,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>365 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1471648568</SimpleData>
+		<SimpleData name="Account Number">008738</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0600660755758,34.3453019917375,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>389 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1471704084</SimpleData>
+		<SimpleData name="Account Number">008739</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0601365153184,34.3461012490623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>375 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1852336939</SimpleData>
+		<SimpleData name="Account Number">008740</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0601245094924,34.3456768392108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>384 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1480954906</SimpleData>
+		<SimpleData name="Account Number">008741</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0599640139257,34.3456962173206,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>397 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1490132180</SimpleData>
+		<SimpleData name="Account Number">008742</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0601265875965,34.3463538200778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>419 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1490121366</SimpleData>
+		<SimpleData name="Account Number">008743</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0600686006769,34.3467756327018,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1471697032</SimpleData>
+		<SimpleData name="Account Number">008745</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0598304125243,34.3470134748791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1235 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1490140252</SimpleData>
+		<SimpleData name="Account Number">008746</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0593642510715,34.3475053297563,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1225 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1490154984</SimpleData>
+		<SimpleData name="Account Number">008747</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0594791067784,34.3474441772957,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1274 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1490150782</SimpleData>
+		<SimpleData name="Account Number">008748</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0590282456345,34.3479190176235,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>485 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1490150472</SimpleData>
+		<SimpleData name="Account Number">008749</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0589861812211,34.3478924233,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1490151394</SimpleData>
+		<SimpleData name="Account Number">008750</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0587410391,34.3478573038597,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1219 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1490138820</SimpleData>
+		<SimpleData name="Account Number">008752</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0574444086277,34.347501593889,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1205 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1490267190</SimpleData>
+		<SimpleData name="Account Number">008753</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.056973092492,34.347449532859,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1166 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1490123244</SimpleData>
+		<SimpleData name="Account Number">008755</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0560208256426,34.3476384596117,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>547 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1490124572</SimpleData>
+		<SimpleData name="Account Number">008757</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0576810335456,34.3498907663761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>565 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1830673602</SimpleData>
+		<SimpleData name="Account Number">008758</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0574968541727,34.350230275641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>594 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1490116638</SimpleData>
+		<SimpleData name="Account Number">008759</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0570682613795,34.3511463346656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>612 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1490135312</SimpleData>
+		<SimpleData name="Account Number">008760</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0570786459543,34.3515151944888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1300 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1490152134</SimpleData>
+		<SimpleData name="Account Number">008761</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0599755376541,34.3478407302997,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1310 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1852500770</SimpleData>
+		<SimpleData name="Account Number">008762</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0605004690515,34.3478192616954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1330 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1852475464</SimpleData>
+		<SimpleData name="Account Number">008764</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0611917391666,34.3477428681753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1352 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1490154408</SimpleData>
+		<SimpleData name="Account Number">008765</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0618452635161,34.347736795404,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1359 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1490140108</SimpleData>
+		<SimpleData name="Account Number">008766</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.062057407665,34.3476398117527,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5033 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1470538470</SimpleData>
+		<SimpleData name="Account Number">114750</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0626696318501,34.3484033127268,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5026 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1490138656</SimpleData>
+		<SimpleData name="Account Number">008767</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0626506701645,34.3480721614669,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5084 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1490141214</SimpleData>
+		<SimpleData name="Account Number">008768</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0616830047894,34.3492095048427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5108 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1834492977</SimpleData>
+		<SimpleData name="Account Number">008769</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0612482445624,34.3497188201619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5162 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1490156062</SimpleData>
+		<SimpleData name="Account Number">008772</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0601310620296,34.3510089170923,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5172 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1490150292</SimpleData>
+		<SimpleData name="Account Number">008773</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0600296007895,34.3511482294,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5180 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1490154684</SimpleData>
+		<SimpleData name="Account Number">008775</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0598307690675,34.3513885219164,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5202 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1852543274</SimpleData>
+		<SimpleData name="Account Number">008776</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0596691015046,34.3515839284888,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5198 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1490132026</SimpleData>
+		<SimpleData name="Account Number">008777</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0595112527576,34.3517770269709,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5240 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1471799542</SimpleData>
+		<SimpleData name="Account Number">116776</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0585570747379,34.3529117178217,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5252 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1831133208</SimpleData>
+		<SimpleData name="Account Number">008780</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0583617457493,34.3531359784442,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>647 CLEMENTS RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1490154988</SimpleData>
+		<SimpleData name="Account Number">008781</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0582741029411,34.353237993922,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5276 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1490155804</SimpleData>
+		<SimpleData name="Account Number">008783</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.05799366156,34.3536105980512,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5462 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1490142294</SimpleData>
+		<SimpleData name="Account Number">008785</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0550732627025,34.3583090455538,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5476 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1490122062</SimpleData>
+		<SimpleData name="Account Number">008786</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0549755244597,34.3585770380221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5492 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1490150444</SimpleData>
+		<SimpleData name="Account Number">008787</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0548123495036,34.3589279485079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6653 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1490025052</SimpleData>
+		<SimpleData name="Account Number">100916</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0607199712218,34.3576697171729,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5855 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1490459384</SimpleData>
+		<SimpleData name="Account Number">008791</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.078746824647,34.3423911308418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5801 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1490466366</SimpleData>
+		<SimpleData name="Account Number">008792</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0790072479553,34.340765059892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5561 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1490264148</SimpleData>
+		<SimpleData name="Account Number">015459</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0808683852145,34.3350244800185,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HWY 53</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1490133932</SimpleData>
+		<SimpleData name="Account Number">100622</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1003194442774,34.3272350102089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300 W HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1471583012</SimpleData>
+		<SimpleData name="Account Number">008793</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0993858686548,34.3265846914497,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300 W HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1285004</SimpleData>
+		<SimpleData name="Account Number">008795</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0994284442977,34.3265648775147,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300 W HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1490138658</SimpleData>
+		<SimpleData name="Account Number">008794</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0994912570756,34.3265422419441,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1288016</SimpleData>
+		<SimpleData name="Account Number">008796</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0919970768185,34.3264342845814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1341950</SimpleData>
+		<SimpleData name="Account Number">008797</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0920057110702,34.3264212282698,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>750 W HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1490115074</SimpleData>
+		<SimpleData name="Account Number">008798</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0848220763419,34.3260718103136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>755 W HERMITAGE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1490154932</SimpleData>
+		<SimpleData name="Account Number">008799</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.08513252668,34.326283030435,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4614 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1472002516</SimpleData>
+		<SimpleData name="Account Number">117277</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1040807725869,34.320058487836,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4900 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1471451106</SimpleData>
+		<SimpleData name="Account Number">008800</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0986064397094,34.3280017285786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5556 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1490144288</SimpleData>
+		<SimpleData name="Account Number">101943</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0811067242508,34.3335849732321,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7080 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1852350388</SimpleData>
+		<SimpleData name="Account Number">008803</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0506286447544,34.3653875760217,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1850538331</SimpleData>
+		<SimpleData name="Account Number">008804</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0482326691761,34.365585793798,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4270 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1850295929</SimpleData>
+		<SimpleData name="Account Number">008806</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0431832994539,34.3673543487496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4362 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1853095353</SimpleData>
+		<SimpleData name="Account Number">008808</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0409924914131,34.3673855197671,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4376 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1471600418</SimpleData>
+		<SimpleData name="Account Number">008809</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0403662649849,34.3673243645141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4404 ADAIRSVILLE HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1852977100</SimpleData>
+		<SimpleData name="Account Number">109897</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.039693902979,34.3673330577851,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4433 ADAIRSVILLE RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1471321310</SimpleData>
+		<SimpleData name="Account Number">100430</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0386695255897,34.3676346832961,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4446 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1471728284</SimpleData>
+		<SimpleData name="Account Number">008812</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.038325147915,34.3674177428615,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4464 ADAIRSVILLE HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1471603990</SimpleData>
+		<SimpleData name="Account Number">100788</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0380149103724,34.3674370307417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4505 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1471651446</SimpleData>
+		<SimpleData name="Account Number">008814</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0361802669944,34.3677474974065,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4546 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">1471612592</SimpleData>
+		<SimpleData name="Account Number">008816</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0350260707422,34.3675982155433,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4607 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1471707640</SimpleData>
+		<SimpleData name="Account Number">008818</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0328526652674,34.3680434086386,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1471707718</SimpleData>
+		<SimpleData name="Account Number">008817</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0300077126451,34.3680431798789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1853047002</SimpleData>
+		<SimpleData name="Account Number">008817</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0300103148025,34.3680447337003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4697 ADAIRSVILLE HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1850683394</SimpleData>
+		<SimpleData name="Account Number">015551</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0298087827224,34.3683540832219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4755 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1471600704</SimpleData>
+		<SimpleData name="Account Number">008819</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0284928750812,34.3685082155777,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4781 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1471316660</SimpleData>
+		<SimpleData name="Account Number">008820</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0268105618189,34.3686256090554,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4781 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1471796984</SimpleData>
+		<SimpleData name="Account Number">008821</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0268398075109,34.3686324544954,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4938 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1471609048</SimpleData>
+		<SimpleData name="Account Number">008822</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0218918445314,34.3689583074598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4992 ADAIRSVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1471919476</SimpleData>
+		<SimpleData name="Account Number">117449</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0204021775694,34.3691629783265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5165 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1471651400</SimpleData>
+		<SimpleData name="Account Number">008824</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0153642066845,34.3689135857265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 BUTTRUM RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1490154992</SimpleData>
+		<SimpleData name="Account Number">103542</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0140143527235,34.3683128602277,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>64 BUTTRUM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1834523680</SimpleData>
+		<SimpleData name="Account Number">008825</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.014662737081,34.3671348437052,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>72 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1471576862</SimpleData>
+		<SimpleData name="Account Number">008826</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0147160642765,34.3668406371689,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>76 BUTTRUM RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1834541889</SimpleData>
+		<SimpleData name="Account Number">109008</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.014691629769,34.3653363712489,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>260 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1490432756</SimpleData>
+		<SimpleData name="Account Number">008828</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0136348693241,34.362042961606,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>270 BUTTRUM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1471730240</SimpleData>
+		<SimpleData name="Account Number">008829</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0136438570798,34.3616084190931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1490421248</SimpleData>
+		<SimpleData name="Account Number">008830</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0134884462943,34.3611793019449,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>291 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1852973749</SimpleData>
+		<SimpleData name="Account Number">008830</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0134765874458,34.3611927894754,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>288 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1490432056</SimpleData>
+		<SimpleData name="Account Number">008831</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0135931169546,34.3610611107753,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>337 BUTTRUM RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1471541004</SimpleData>
+		<SimpleData name="Account Number">101032</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0128891216461,34.359939332958,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>403 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1490430864</SimpleData>
+		<SimpleData name="Account Number">008832</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.011570834565,34.3589382273779,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>509 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1852968994</SimpleData>
+		<SimpleData name="Account Number">008834</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0096638520283,34.3560076740205,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>571 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1490437874</SimpleData>
+		<SimpleData name="Account Number">008835</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0085134302475,34.3548891550419,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>667 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1490424506</SimpleData>
+		<SimpleData name="Account Number">008836</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0074281099684,34.352894472972,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>689 BUTTRUM RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1832342070</SimpleData>
+		<SimpleData name="Account Number">126162</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0064904055959,34.3516441128104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>694 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1490438552</SimpleData>
+		<SimpleData name="Account Number">008837</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0068442807384,34.3517571596184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>720 BUTTRUM RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1430232618</SimpleData>
+		<SimpleData name="Account Number">111293</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0056402583525,34.3510954638096,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>737 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1490437872</SimpleData>
+		<SimpleData name="Account Number">008838</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.005773873361,34.3512905237361,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>745 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1490430308</SimpleData>
+		<SimpleData name="Account Number">008839</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.005275088444,34.3510431250175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>751 BUTTRUM RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1850538928</SimpleData>
+		<SimpleData name="Account Number">100472</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.005254189803,34.3510249625079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>756 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1490437956</SimpleData>
+		<SimpleData name="Account Number">008840</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0052167184002,34.3509468810397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>752 BUTTRAM RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1491141924</SimpleData>
+		<SimpleData name="Account Number">008841</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0052357868762,34.3509362063843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5216 ADAIRSVILLE HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1471608296</SimpleData>
+		<SimpleData name="Account Number">008842</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0126694426912,34.3685129268735,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5297 ADAIRSVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1832325167</SimpleData>
+		<SimpleData name="Account Number">2002501</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0097350414557,34.3688952668367,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>82 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1470833764</SimpleData>
+		<SimpleData name="Account Number">008845</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0320719146831,34.3655960726406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>100 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1850338650</SimpleData>
+		<SimpleData name="Account Number">008846</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0321262691505,34.3655592885071,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>176 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1490933906</SimpleData>
+		<SimpleData name="Account Number">118813</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.034814014533,34.3637184951861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>223 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1490397450</SimpleData>
+		<SimpleData name="Account Number">008847</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0352183705384,34.3631902909634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>226 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1850432416</SimpleData>
+		<SimpleData name="Account Number">109571</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0354031074942,34.3631905159766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>354 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1490417906</SimpleData>
+		<SimpleData name="Account Number">008849</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0381591464117,34.360767514072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>389 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1830673667</SimpleData>
+		<SimpleData name="Account Number">008850</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.038673788885,34.359973244808,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>423 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1852976718</SimpleData>
+		<SimpleData name="Account Number">008852</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0387140316931,34.3586442601265,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1490422842</SimpleData>
+		<SimpleData name="Account Number">008853</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0388722150693,34.3567482134285,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>505 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1490438086</SimpleData>
+		<SimpleData name="Account Number">008854</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0386883870752,34.3567756395195,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>629 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1471195642</SimpleData>
+		<SimpleData name="Account Number">116122</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0399601011805,34.3536402852397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>638 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1490430978</SimpleData>
+		<SimpleData name="Account Number">008856</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0403250690465,34.3535184156079,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>670 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1490438260</SimpleData>
+		<SimpleData name="Account Number">008857</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0409680790535,34.3530086625766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>917 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1490438078</SimpleData>
+		<SimpleData name="Account Number">008861</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0484078864242,34.350674957677,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>931 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1850537711</SimpleData>
+		<SimpleData name="Account Number">008862</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0487622965793,34.3505745142473,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>450 TIPPERARY DR NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1850538918</SimpleData>
+		<SimpleData name="Account Number">008863</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0490287489561,34.3504906255722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>435 TIPPERARY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1490419858</SimpleData>
+		<SimpleData name="Account Number">008864</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0491400123737,34.3504523861873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1050 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1490430742</SimpleData>
+		<SimpleData name="Account Number">008865</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0524738665611,34.3494022790254,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1066 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1490416798</SimpleData>
+		<SimpleData name="Account Number">008866</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0529274860602,34.34924901848,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1057 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1480064108</SimpleData>
+		<SimpleData name="Account Number">008867</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.053027128096,34.34911371409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1077 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1490420524</SimpleData>
+		<SimpleData name="Account Number">008868</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0533544456312,34.348963101246,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1080 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1490412718</SimpleData>
+		<SimpleData name="Account Number">008869</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0536683363111,34.3489259449469,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1091 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1490430586</SimpleData>
+		<SimpleData name="Account Number">008870</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0537258991871,34.348754509184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1090 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1490437796</SimpleData>
+		<SimpleData name="Account Number">008871</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0538821873065,34.3488019745201,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1100 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1490432912</SimpleData>
+		<SimpleData name="Account Number">008872</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0541362054594,34.3486240529173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1127 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1490413040</SimpleData>
+		<SimpleData name="Account Number">008873</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0546698016038,34.3481138094191,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1136 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1490418000</SimpleData>
+		<SimpleData name="Account Number">008874</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0549224351365,34.3480944411253,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1150 RUSH CHAPEL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1490430964</SimpleData>
+		<SimpleData name="Account Number">008875</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0552981320223,34.3478490838377,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7130 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1490430928</SimpleData>
+		<SimpleData name="Account Number">008876</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0495664650718,34.3665912145036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7150 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1471600032</SimpleData>
+		<SimpleData name="Account Number">008877</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0490439122627,34.367113126688,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7274 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1834544693</SimpleData>
+		<SimpleData name="Account Number">008878</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0462582565265,34.3698281102821,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7288 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1831133424</SimpleData>
+		<SimpleData name="Account Number">008879</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0460912310435,34.3698960519946,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7330 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1831135593</SimpleData>
+		<SimpleData name="Account Number">008880</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0453957112763,34.3703246701787,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 HWY 140</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1471654820</SimpleData>
+		<SimpleData name="Account Number">102501</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0461151666497,34.3663172357642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7356 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1831136340</SimpleData>
+		<SimpleData name="Account Number">008881</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0451908217076,34.3705065162581,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7370 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1831135469</SimpleData>
+		<SimpleData name="Account Number">117861</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0446837359104,34.37086532093,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7378 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1831131276</SimpleData>
+		<SimpleData name="Account Number">008882</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.044371637048,34.3710927576941,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7384 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1831135213</SimpleData>
+		<SimpleData name="Account Number">008883</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.043788689635,34.3714046869486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7404 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1831135670</SimpleData>
+		<SimpleData name="Account Number">008884</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0435765871107,34.3715051868458,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8096 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1471079696</SimpleData>
+		<SimpleData name="Account Number">008888</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0255570997473,34.3816234872364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1830671364</SimpleData>
+		<SimpleData name="Account Number">118885</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0252509844147,34.3815886279881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>61 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1490604650</SimpleData>
+		<SimpleData name="Account Number">008889</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0249369538614,34.3815578059708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>113 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1490568822</SimpleData>
+		<SimpleData name="Account Number">008890</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0232483932644,34.3817217654781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>224 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1490581792</SimpleData>
+		<SimpleData name="Account Number">008891</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0197463306468,34.381631203873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>255 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1471488920</SimpleData>
+		<SimpleData name="Account Number">116266</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0186084321467,34.381702629343,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>268 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1490605934</SimpleData>
+		<SimpleData name="Account Number">008892</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0178860561383,34.3815236802169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>300 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1490604710</SimpleData>
+		<SimpleData name="Account Number">008894</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0174123832195,34.3814417902109,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>287 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1490574122</SimpleData>
+		<SimpleData name="Account Number">008893</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0173524840074,34.3815119095475,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1850538653</SimpleData>
+		<SimpleData name="Account Number">105188</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0168919440724,34.3814067662389,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>333 AUTRY RD*</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1834493039</SimpleData>
+		<SimpleData name="Account Number">100459</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0164048589877,34.3812635268724,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>330 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1480062858</SimpleData>
+		<SimpleData name="Account Number">008895</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0161299215975,34.3810634717392,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>477 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1490602882</SimpleData>
+		<SimpleData name="Account Number">008896</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0113404727196,34.3798289897451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>505 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1490572928</SimpleData>
+		<SimpleData name="Account Number">008897</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0104140009927,34.3798419196065,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>456 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1480067460</SimpleData>
+		<SimpleData name="Account Number">008898</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0102116712489,34.3798306514853,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>573 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1480051386</SimpleData>
+		<SimpleData name="Account Number">008899</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0086725837191,34.3792375574129,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>708 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1471683580</SimpleData>
+		<SimpleData name="Account Number">008900</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.008785210108,34.3757414125121,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>722 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1480062226</SimpleData>
+		<SimpleData name="Account Number">015591</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0087843055505,34.375638274761,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>785 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1480053702</SimpleData>
+		<SimpleData name="Account Number">008901</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0087011597114,34.3739578268293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>824 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1480063884</SimpleData>
+		<SimpleData name="Account Number">008903</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0078981864725,34.3729789355401,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>890 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1852488803</SimpleData>
+		<SimpleData name="Account Number">008902</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.007795450191,34.3730355694834,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 AUTRY RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1105125396</SimpleData>
+		<SimpleData name="Account Number">109438</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.009722463182,34.3797960711173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8114 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1471643796</SimpleData>
+		<SimpleData name="Account Number">008904</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0259307523738,34.384437374257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8164 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1480071164</SimpleData>
+		<SimpleData name="Account Number">100039</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0261301723775,34.3852105908219,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8172 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1480050762</SimpleData>
+		<SimpleData name="Account Number">008905</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0261596869544,34.3853682004838,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8202 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1490586318</SimpleData>
+		<SimpleData name="Account Number">008906</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0261542121187,34.385544554113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8288 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1831654558</SimpleData>
+		<SimpleData name="Account Number">008908</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0257470391476,34.3883091133886,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8320 NEW CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1470383484</SimpleData>
+		<SimpleData name="Account Number">008909</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0253232705049,34.3893105367806,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8336 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1850237604</SimpleData>
+		<SimpleData name="Account Number">100245</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0252342358984,34.3894788350173,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8348 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1430070626</SimpleData>
+		<SimpleData name="Account Number">008910</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0250250502435,34.389716931619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8368 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1471612872</SimpleData>
+		<SimpleData name="Account Number">008911</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0247668718578,34.3901683679575,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8350 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1471605740</SimpleData>
+		<SimpleData name="Account Number">008912</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0247568059059,34.3901541634028,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8442 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1471600414</SimpleData>
+		<SimpleData name="Account Number">008915</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0234111765369,34.3921629789006,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8435 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1471634938</SimpleData>
+		<SimpleData name="Account Number">008916</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0237754958685,34.3922598880717,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8323 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1471610692</SimpleData>
+		<SimpleData name="Account Number">103224</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0256163790575,34.3895285258221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8293 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1850433339</SimpleData>
+		<SimpleData name="Account Number">2027501</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0260138504828,34.3887205331957,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7609 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1490602026</SimpleData>
+		<SimpleData name="Account Number">008919</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0387796467238,34.3756931884463,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7485 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1831128533</SimpleData>
+		<SimpleData name="Account Number">008920</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0421872837931,34.3734405549894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 PLAINVILLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1830921804</SimpleData>
+		<SimpleData name="Account Number">008921</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0482767075003,34.3695240954904,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7007 NEW CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1471689474</SimpleData>
+		<SimpleData name="Account Number">008922</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0531429768848,34.3639577186975,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5501 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1490586522</SimpleData>
+		<SimpleData name="Account Number">100600</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0548922549666,34.3593404477113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6802 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1490600594</SimpleData>
+		<SimpleData name="Account Number">008923</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0550122537717,34.3590242167773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5477 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1490580186</SimpleData>
+		<SimpleData name="Account Number">015602</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0552584252065,34.3584673858222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1490569858</SimpleData>
+		<SimpleData name="Account Number">101688</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0555018925489,34.3579125673493,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5433 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1490569688</SimpleData>
+		<SimpleData name="Account Number">102750</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0555175962466,34.3578615115034,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5431 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1490569624</SimpleData>
+		<SimpleData name="Account Number">100174</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0556939205108,34.3574712003124,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5415 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1490438040</SimpleData>
+		<SimpleData name="Account Number">102111</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0557662984783,34.3572898652819,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5335 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">1490430326</SimpleData>
+		<SimpleData name="Account Number">008926</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0570474736206,34.355096476116,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5257 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">1490569630</SimpleData>
+		<SimpleData name="Account Number">008929</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0585572925996,34.3532326523274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5243 OLD CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1490586404</SimpleData>
+		<SimpleData name="Account Number">008930</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0588209518777,34.3529829920322,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5237 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1490604560</SimpleData>
+		<SimpleData name="Account Number">008931</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0590420117016,34.3527137883741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5221 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1490607406</SimpleData>
+		<SimpleData name="Account Number">008932</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.059161229694,34.352555255295,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5209 OLD CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1490573990</SimpleData>
+		<SimpleData name="Account Number">008933</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0595417585766,34.3520844724072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5191 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1490568458</SimpleData>
+		<SimpleData name="Account Number">008934</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.059815042267,34.3517693839225,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5003 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1490568954</SimpleData>
+		<SimpleData name="Account Number">008937</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0633125060253,34.34763791841,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4989 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1490582848</SimpleData>
+		<SimpleData name="Account Number">008938</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0636678222205,34.3472254121388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4976 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1490587664</SimpleData>
+		<SimpleData name="Account Number">008939</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.063725405458,34.346811544837,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4959 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">1850237618</SimpleData>
+		<SimpleData name="Account Number">008941</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0642460243823,34.3465524371822,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4952 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1852392791</SimpleData>
+		<SimpleData name="Account Number">112655</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0641240486863,34.3463588077968,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4939 OLD CALHOUN HWY</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1490604796</SimpleData>
+		<SimpleData name="Account Number">008942</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0645692696847,34.3461790872275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4925 CALHOUN RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1490573286</SimpleData>
+		<SimpleData name="Account Number">008943</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0648109897676,34.3459340540545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4928 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1490603150</SimpleData>
+		<SimpleData name="Account Number">008944</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.064717090686,34.3457256015272,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4915 CALHOUN HWY NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1490602242</SimpleData>
+		<SimpleData name="Account Number">008945</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0649968223492,34.3456860461182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4902 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1852385439</SimpleData>
+		<SimpleData name="Account Number">113566</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0650431003092,34.3451527797701,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4864 CALHOUN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1831847276</SimpleData>
+		<SimpleData name="Account Number">105264</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0658222559098,34.3442053328626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>50 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1490601882</SimpleData>
+		<SimpleData name="Account Number">008953</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0661080475591,34.3463304954979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>52 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1852516157</SimpleData>
+		<SimpleData name="Account Number">008954</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0660009384331,34.3464342194432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>271 AUTRY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1490560350</SimpleData>
+		<SimpleData name="Account Number">105153</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0178118530075,34.3815782127559,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>78 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1490588422</SimpleData>
+		<SimpleData name="Account Number">008955</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0670756626554,34.3462925178342,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>95 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1490587950</SimpleData>
+		<SimpleData name="Account Number">008956</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0673422180035,34.346429870393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1490575374</SimpleData>
+		<SimpleData name="Account Number">008957</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0674370356964,34.3466983396064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1490588310</SimpleData>
+		<SimpleData name="Account Number">008958</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0679006975995,34.3469828408016,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>144 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">274</SimpleData>
+		<SimpleData name="Meter Number">1490574068</SimpleData>
+		<SimpleData name="Account Number">008961</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0682165208587,34.3476661940967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>154 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">275</SimpleData>
+		<SimpleData name="Meter Number">1850428102</SimpleData>
+		<SimpleData name="Account Number">008962</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0682738129885,34.3479452490914,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>175 PINSON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">276</SimpleData>
+		<SimpleData name="Meter Number">1850538014</SimpleData>
+		<SimpleData name="Account Number">112489</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.068164682254,34.3486521785967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">277</SimpleData>
+		<SimpleData name="Meter Number">1490438174</SimpleData>
+		<SimpleData name="Account Number">008963</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0678711043749,34.3492679810945,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>218 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">278</SimpleData>
+		<SimpleData name="Meter Number">1490430522</SimpleData>
+		<SimpleData name="Account Number">008964</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0677148307271,34.3496430028762,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">279</SimpleData>
+		<SimpleData name="Meter Number">1490430576</SimpleData>
+		<SimpleData name="Account Number">008965</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0675459547873,34.3503065035956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>250 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">280</SimpleData>
+		<SimpleData name="Meter Number">1490431256</SimpleData>
+		<SimpleData name="Account Number">008966</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0674583252551,34.3504925849183,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>473 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">281</SimpleData>
+		<SimpleData name="Meter Number">1490432058</SimpleData>
+		<SimpleData name="Account Number">008968</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0668332311098,34.3555931683458,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>439 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">282</SimpleData>
+		<SimpleData name="Meter Number">1490430848</SimpleData>
+		<SimpleData name="Account Number">008967</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0667906615353,34.3555947943443,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>466 PINSON RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">283</SimpleData>
+		<SimpleData name="Meter Number">1481712326</SimpleData>
+		<SimpleData name="Account Number">100582</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0665477401826,34.3556768879804,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">284</SimpleData>
+		<SimpleData name="Meter Number">1850397273</SimpleData>
+		<SimpleData name="Account Number">008969</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0664440482467,34.3556965132174,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>311 PINSON RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">285</SimpleData>
+		<SimpleData name="Meter Number">1490244702</SimpleData>
+		<SimpleData name="Account Number">117931</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0696137917649,34.3531934148299,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">286</SimpleData>
+		<SimpleData name="Meter Number">1850538816</SimpleData>
+		<SimpleData name="Account Number">008970</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0686808920848,34.3476537243315,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">287</SimpleData>
+		<SimpleData name="Meter Number">1490676190</SimpleData>
+		<SimpleData name="Account Number">008971</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0688751444487,34.3475552646978,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">288</SimpleData>
+		<SimpleData name="Meter Number">1490669956</SimpleData>
+		<SimpleData name="Account Number">008972</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0691399418091,34.3476591533151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">289</SimpleData>
+		<SimpleData name="Meter Number">1490676310</SimpleData>
+		<SimpleData name="Account Number">008973</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0695447328935,34.3476093295327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">290</SimpleData>
+		<SimpleData name="Meter Number">1490670008</SimpleData>
+		<SimpleData name="Account Number">008974</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0695676407399,34.3476500378165,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">291</SimpleData>
+		<SimpleData name="Meter Number">1850534534</SimpleData>
+		<SimpleData name="Account Number">008975</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0698624703176,34.3475446022928,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">292</SimpleData>
+		<SimpleData name="Meter Number">1852486841</SimpleData>
+		<SimpleData name="Account Number">008976</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0698744475235,34.3476498747789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>56 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">293</SimpleData>
+		<SimpleData name="Meter Number">1470952866</SimpleData>
+		<SimpleData name="Account Number">008977</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.07028754864,34.3476499732503,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">294</SimpleData>
+		<SimpleData name="Meter Number">1450415444</SimpleData>
+		<SimpleData name="Account Number">113640</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0706120953644,34.3475621883505,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>104 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">295</SimpleData>
+		<SimpleData name="Meter Number">1491273068</SimpleData>
+		<SimpleData name="Account Number">008982</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0720544978555,34.3476727723719,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">296</SimpleData>
+		<SimpleData name="Meter Number">1105124652</SimpleData>
+		<SimpleData name="Account Number">008983</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0721672214147,34.3475949686619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">297</SimpleData>
+		<SimpleData name="Meter Number">1490669972</SimpleData>
+		<SimpleData name="Account Number">008984</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0726394472388,34.3476817769772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">298</SimpleData>
+		<SimpleData name="Meter Number">1490669966</SimpleData>
+		<SimpleData name="Account Number">008987</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0729860331825,34.3476791296802,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>143 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">299</SimpleData>
+		<SimpleData name="Meter Number">1490669916</SimpleData>
+		<SimpleData name="Account Number">008988</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0731549151987,34.3476233235958,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>155 PIERCE HILL RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">300</SimpleData>
+		<SimpleData name="Meter Number">1490669984</SimpleData>
+		<SimpleData name="Account Number">008989</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.0735281080494,34.3475966069854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>241 DEMPSEY RD NE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_52">
+		<SimpleData name="fid">301</SimpleData>
+		<SimpleData name="Meter Number">1831304723</SimpleData>
+		<SimpleData name="Account Number">008993</SimpleData>
+		<SimpleData name="Route">52</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.106739072413,34.3162851485054,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

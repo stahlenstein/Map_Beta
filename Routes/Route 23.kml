@@ -1,0 +1,1153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_23" id="Route_23">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="string"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_23</name>
+  <Placemark>
+	<name>302 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1490955282</SimpleData>
+		<SimpleData name="Account Number">003904</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771023040564,34.1838309827939,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1490150914</SimpleData>
+		<SimpleData name="Account Number">003929</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1751554626945,34.1804257573949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1450286836</SimpleData>
+		<SimpleData name="Account Number">003931</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1751772875994,34.1794055733075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>585 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1481514230</SimpleData>
+		<SimpleData name="Account Number">003932</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1751754570341,34.1789084393579,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>626 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1831077120</SimpleData>
+		<SimpleData name="Account Number">003933</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753210297626,34.1784592171045,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1481768930</SimpleData>
+		<SimpleData name="Account Number">003934</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752037835264,34.1780847410171,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">39538543</SimpleData>
+		<SimpleData name="Account Number">003936</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1744733744983,34.1775619983699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1481760956</SimpleData>
+		<SimpleData name="Account Number">003935</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1745393658658,34.177712091577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">1481616716</SimpleData>
+		<SimpleData name="Account Number">003938</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1744492959376,34.1773192079869,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1481624118</SimpleData>
+		<SimpleData name="Account Number">003939</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1743247762609,34.1770166210044,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>87 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1481619014</SimpleData>
+		<SimpleData name="Account Number">003940</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1742243152361,34.1770325011429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 DONAHOO DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1470093560</SimpleData>
+		<SimpleData name="Account Number">003941</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1742188205151,34.1764933426202,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>640 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1481614162</SimpleData>
+		<SimpleData name="Account Number">003942</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753437779602,34.1775596331774,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>648 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1481630040</SimpleData>
+		<SimpleData name="Account Number">003943</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753525501808,34.177318795431,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>665 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1481620688</SimpleData>
+		<SimpleData name="Account Number">003945</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752066407285,34.1770313636641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>658 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1481623584</SimpleData>
+		<SimpleData name="Account Number">003946</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753634468151,34.1769742627406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>667 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1105127252</SimpleData>
+		<SimpleData name="Account Number">003947</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752147868164,34.1768731623385,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>666 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1830671388</SimpleData>
+		<SimpleData name="Account Number">003948</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753642378755,34.1767367863402,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>671 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1470524574</SimpleData>
+		<SimpleData name="Account Number">003949</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752414340188,34.1766549368457,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1481614938</SimpleData>
+		<SimpleData name="Account Number">003950</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754299457413,34.1765208556445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>685 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1491262550</SimpleData>
+		<SimpleData name="Account Number">003952</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752261602552,34.176272250007,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>681 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1481592896</SimpleData>
+		<SimpleData name="Account Number">003951</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752252253407,34.1764369795604,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>680 C PARK AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">37397157</SimpleData>
+		<SimpleData name="Account Number">003953</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753978517782,34.1763908302382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>693 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1481620472</SimpleData>
+		<SimpleData name="Account Number">003954</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752364087017,34.1761632869432,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>701 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1481620506</SimpleData>
+		<SimpleData name="Account Number">003955</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752468346844,34.1759420563786,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>711 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1470858274</SimpleData>
+		<SimpleData name="Account Number">003956</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175252237398,34.1757384448773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>708 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1831075988</SimpleData>
+		<SimpleData name="Account Number">003957</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753718621233,34.1756295149843,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>717 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1481741470</SimpleData>
+		<SimpleData name="Account Number">003958</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752650584914,34.1755287965718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>721 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1481620296</SimpleData>
+		<SimpleData name="Account Number">003959</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752731610262,34.175269344737,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>720 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">37928875</SimpleData>
+		<SimpleData name="Account Number">003960</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754185770223,34.1752749036683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>726 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1481615942</SimpleData>
+		<SimpleData name="Account Number">003961</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754383524172,34.1752008783448,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>737 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1481741186</SimpleData>
+		<SimpleData name="Account Number">003963</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752815778385,34.1748443276979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>739 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1481366138</SimpleData>
+		<SimpleData name="Account Number">003964</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752712039249,34.1747573576345,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>743 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1481615716</SimpleData>
+		<SimpleData name="Account Number">003965</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752942040875,34.1746229669113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>747 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1481740366</SimpleData>
+		<SimpleData name="Account Number">003967</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752796705481,34.1745337090196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>748 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1470975080</SimpleData>
+		<SimpleData name="Account Number">003966</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754565713509,34.1745046793592,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>755 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1481739266</SimpleData>
+		<SimpleData name="Account Number">003968</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1752781159637,34.1744428725068,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>756 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1481740334</SimpleData>
+		<SimpleData name="Account Number">003969</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754596757515,34.1742595580708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>765 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1831077055</SimpleData>
+		<SimpleData name="Account Number">003970</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753109731714,34.1741728770606,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>769 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1481739704</SimpleData>
+		<SimpleData name="Account Number">003971</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753234604369,34.1740468075596,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>766 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1481616104</SimpleData>
+		<SimpleData name="Account Number">003972</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754277490998,34.1740506084535,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>770 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1450526118</SimpleData>
+		<SimpleData name="Account Number">003973</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175442801066,34.1740422616601,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>776 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1481739474</SimpleData>
+		<SimpleData name="Account Number">003974</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754380841914,34.1737693738262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>782 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1481577422</SimpleData>
+		<SimpleData name="Account Number">003975</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754401090977,34.1737456388218,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>779 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1481615274</SimpleData>
+		<SimpleData name="Account Number">003976</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753205360493,34.1736184497354,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>791 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1450266344</SimpleData>
+		<SimpleData name="Account Number">003977</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753336595482,34.1733415036453,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>808 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1481739484</SimpleData>
+		<SimpleData name="Account Number">003978</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754509389442,34.1733385990415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>805 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1470702394</SimpleData>
+		<SimpleData name="Account Number">003979</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753344146955,34.1729503908764,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>811 A PARK AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1481534558</SimpleData>
+		<SimpleData name="Account Number">003980</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753370449159,34.172962422317,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>811 B PARK AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1831302459</SimpleData>
+		<SimpleData name="Account Number">003981</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753263436421,34.1729639186479,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>808 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1491454696</SimpleData>
+		<SimpleData name="Account Number">003982</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1754861267751,34.1727916211734,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>819 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1481615548</SimpleData>
+		<SimpleData name="Account Number">003983</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753577930945,34.1725502702842,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>839 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1830668697</SimpleData>
+		<SimpleData name="Account Number">003984</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753563505981,34.1724683555854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>826 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1481731452</SimpleData>
+		<SimpleData name="Account Number">003985</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17549857946,34.1724155869157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>843 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1481739476</SimpleData>
+		<SimpleData name="Account Number">003986</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753626084348,34.1719267775041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>849 PARK AVE SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1831846357</SimpleData>
+		<SimpleData name="Account Number">003987</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753820379573,34.1719060893122,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>885 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1832593523</SimpleData>
+		<SimpleData name="Account Number">003988</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1760932117331,34.1707944768772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>897 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1105127211</SimpleData>
+		<SimpleData name="Account Number">003990</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.176174655889,34.170694433235,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>890 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1470970120</SimpleData>
+		<SimpleData name="Account Number">003989</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1762851108476,34.1708311106094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>901 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1481767490</SimpleData>
+		<SimpleData name="Account Number">003991</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1762694681071,34.1705844136351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>925 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">76181900</SimpleData>
+		<SimpleData name="Account Number">003994</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1766069765647,34.1701948329451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>973 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1481615186</SimpleData>
+		<SimpleData name="Account Number">003998</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1776676430355,34.168970662409,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>984 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1471733294</SimpleData>
+		<SimpleData name="Account Number">003999</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1781248464201,34.1687542292962,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>987 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1481731654</SimpleData>
+		<SimpleData name="Account Number">004000</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1780490667534,34.1685571736436,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>994 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1481767304</SimpleData>
+		<SimpleData name="Account Number">004001</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1783099503672,34.1685268452762,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1027 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1481767296</SimpleData>
+		<SimpleData name="Account Number">004002</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1786788550745,34.16769437713,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1049 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1481623972</SimpleData>
+		<SimpleData name="Account Number">004003</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.179098616391,34.1671530573148,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1046 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1481770900</SimpleData>
+		<SimpleData name="Account Number">004004</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1792817039619,34.1671116034182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1097 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1481739548</SimpleData>
+		<SimpleData name="Account Number">004005</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1798151418478,34.1660133085143,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1108 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1481770810</SimpleData>
+		<SimpleData name="Account Number">004006</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1800824370454,34.1659140002547,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1130 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1481767734</SimpleData>
+		<SimpleData name="Account Number">004008</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1804206308838,34.1652379785948,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1144 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1831876304</SimpleData>
+		<SimpleData name="Account Number">004009</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1805808319773,34.1648886060814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1160 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1481739514</SimpleData>
+		<SimpleData name="Account Number">004011</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1807367891838,34.1645928212992,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1157 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1471654492</SimpleData>
+		<SimpleData name="Account Number">004010</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1805656370488,34.1644689600619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1167 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1481770460</SimpleData>
+		<SimpleData name="Account Number">004012</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.180674280549,34.1642621202236,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1172 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1481770542</SimpleData>
+		<SimpleData name="Account Number">004013</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1808948172672,34.1642241912033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1177 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1481620504</SimpleData>
+		<SimpleData name="Account Number">004014</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1807720487479,34.1640306567149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1187 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1481769542</SimpleData>
+		<SimpleData name="Account Number">004015</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.180889114925,34.1637938402906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1204 OLD CEDARTOWN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1482115944</SimpleData>
+		<SimpleData name="Account Number">004016</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1806604180255,34.1634248529376,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>614 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1105279111</SimpleData>
+		<SimpleData name="Account Number">004082</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1672946033569,34.1616044659073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>601 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1450265174</SimpleData>
+		<SimpleData name="Account Number">004083</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.166887229402,34.1621490796414,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>600 B REECEBURG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1481792136</SimpleData>
+		<SimpleData name="Account Number">004084</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167075337653,34.1621642841337,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>600 A REECEBURG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1481800158</SimpleData>
+		<SimpleData name="Account Number">004085</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670932618616,34.1621573798429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>590 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1481739314</SimpleData>
+		<SimpleData name="Account Number">004086</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670190825597,34.1624220516665,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>589 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1490218602</SimpleData>
+		<SimpleData name="Account Number">004087</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1668621766028,34.162483296271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>579 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1481779544</SimpleData>
+		<SimpleData name="Account Number">004088</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1668688041655,34.1627390818886,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>576 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1481793312</SimpleData>
+		<SimpleData name="Account Number">004089</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670084385412,34.1628366745114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>569 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1410215212</SimpleData>
+		<SimpleData name="Account Number">004090</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1668423652892,34.1630292018658,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>562 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1481776718</SimpleData>
+		<SimpleData name="Account Number">004091</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670294731103,34.1631955870647,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>557 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1470212000</SimpleData>
+		<SimpleData name="Account Number">004092</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1668458615968,34.1634502612667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124 EAST 3RD ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1831877682</SimpleData>
+		<SimpleData name="Account Number">004093</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670136027896,34.1635289409485,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>548 REECEBURG RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1471396694</SimpleData>
+		<SimpleData name="Account Number">100849</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670101617765,34.163535960522,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>549 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1481698260</SimpleData>
+		<SimpleData name="Account Number">004094</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1668502387679,34.1636666708529,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>546 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1481697542</SimpleData>
+		<SimpleData name="Account Number">004095</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670187392325,34.163662035896,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>534 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1481698910</SimpleData>
+		<SimpleData name="Account Number">004096</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1670019150959,34.1640730379708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>640 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1481697770</SimpleData>
+		<SimpleData name="Account Number">004097</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1673607502308,34.1610595241903,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>652 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1491142538</SimpleData>
+		<SimpleData name="Account Number">004098</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1672541992861,34.1608881617863,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>662 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1481698560</SimpleData>
+		<SimpleData name="Account Number">004099</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1673448992304,34.1606025679626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>672 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1481698218</SimpleData>
+		<SimpleData name="Account Number">004100</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.167441032158,34.1603262757271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>682 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1481681060</SimpleData>
+		<SimpleData name="Account Number">004101</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1675387338724,34.160044803447,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>694 REECEBURG RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1481696794</SimpleData>
+		<SimpleData name="Account Number">004102</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1676874647313,34.1597223471537,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>734 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1490654392</SimpleData>
+		<SimpleData name="Account Number">004103</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1677664116334,34.1595112745078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>734 B REECEBURG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1410170328</SimpleData>
+		<SimpleData name="Account Number">109870</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1677568679909,34.1595150019057,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>808 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1481697324</SimpleData>
+		<SimpleData name="Account Number">004105</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1688912343896,34.1567068009416,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1008 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1481698656</SimpleData>
+		<SimpleData name="Account Number">004106</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739552165484,34.1536449866611,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1024 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1481696826</SimpleData>
+		<SimpleData name="Account Number">004107</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174215050143,34.1533591165514,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1088 REECEBURG RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1481696942</SimpleData>
+		<SimpleData name="Account Number">101496</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748460562742,34.1516013410659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1126 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1831858672</SimpleData>
+		<SimpleData name="Account Number">123863</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1742084744914,34.1533716037422,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1146 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1481698946</SimpleData>
+		<SimpleData name="Account Number">004108</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174609433976,34.1503525757291,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1338 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1481614864</SimpleData>
+		<SimpleData name="Account Number">004109</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1725069674175,34.1453283560912,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1358 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1831646882</SimpleData>
+		<SimpleData name="Account Number">004110</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1726163370093,34.1447790974925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1386 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1481696898</SimpleData>
+		<SimpleData name="Account Number">004111</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1726590088233,34.1443046587612,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1400 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1481695690</SimpleData>
+		<SimpleData name="Account Number">004112</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727072325639,34.1439563973025,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1418 REECEBURG RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_23">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1481706852</SimpleData>
+		<SimpleData name="Account Number">004113</SimpleData>
+		<SimpleData name="Route">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727865405777,34.1432274865555,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>

@@ -1,0 +1,3843 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Route_22" id="Route_22">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="Meter Number" type="int"></SimpleField>
+	<SimpleField name="Account Number" type="string"></SimpleField>
+	<SimpleField name="Route" type="string"></SimpleField>
+</Schema>
+<Folder><name>Route_22</name>
+  <Placemark>
+	<name>6 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="Meter Number">1450194716</SimpleData>
+		<SimpleData name="Account Number">107463</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736787066684,34.1619681302994,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="Meter Number">1470358800</SimpleData>
+		<SimpleData name="Account Number">000882</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1719934884531,34.1875656368498,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="Meter Number">1831872163</SimpleData>
+		<SimpleData name="Account Number">000883</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1720012014195,34.1875637586043,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="Meter Number">1470339772</SimpleData>
+		<SimpleData name="Account Number">000884</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1717506106573,34.1875180733072,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="Meter Number">1450415446</SimpleData>
+		<SimpleData name="Account Number">000887</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1714832561968,34.1874472841396,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="Meter Number">1470382306</SimpleData>
+		<SimpleData name="Account Number">000886</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1714637294164,34.1874907460267,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="Meter Number">1470345216</SimpleData>
+		<SimpleData name="Account Number">000890</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1710200123273,34.1874511277426,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="Meter Number">1470357478</SimpleData>
+		<SimpleData name="Account Number">000893</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.170698962891,34.1875880356642,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="Meter Number">42053234</SimpleData>
+		<SimpleData name="Account Number">000892</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1705577456885,34.1876084346369,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="Meter Number">1472017334</SimpleData>
+		<SimpleData name="Account Number">000891</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1709900190628,34.1875316318226,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="Meter Number">1481711378</SimpleData>
+		<SimpleData name="Account Number">000894</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1705494882228,34.1876583189795,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="Meter Number">1105279141</SimpleData>
+		<SimpleData name="Account Number">000895</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1703582212499,34.1877434105574,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="Meter Number">1470339292</SimpleData>
+		<SimpleData name="Account Number">000896</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1704494541723,34.1876397186846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>19 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">14</SimpleData>
+		<SimpleData name="Meter Number">1481612444</SimpleData>
+		<SimpleData name="Account Number">000898</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1701498035716,34.1877874837886,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>315 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">15</SimpleData>
+		<SimpleData name="Meter Number">1481710756</SimpleData>
+		<SimpleData name="Account Number">003919</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772327602911,34.1823416034792,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">16</SimpleData>
+		<SimpleData name="Meter Number">1470357070</SimpleData>
+		<SimpleData name="Account Number">000899</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1701299093445,34.1878303817741,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">17</SimpleData>
+		<SimpleData name="Meter Number">1470358804</SimpleData>
+		<SimpleData name="Account Number">000900</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1701321720798,34.1878366592104,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">18</SimpleData>
+		<SimpleData name="Meter Number">1471619982</SimpleData>
+		<SimpleData name="Account Number">000901</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1697733145894,34.1880141516125,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">19</SimpleData>
+		<SimpleData name="Meter Number">1481645612</SimpleData>
+		<SimpleData name="Account Number">000902</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1694691120226,34.1880843800878,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">20</SimpleData>
+		<SimpleData name="Meter Number">1470357904</SimpleData>
+		<SimpleData name="Account Number">000903</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1694633681918,34.1881368035182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">21</SimpleData>
+		<SimpleData name="Meter Number">1470877418</SimpleData>
+		<SimpleData name="Account Number">000904</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1693901958965,34.1881195386065,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">22</SimpleData>
+		<SimpleData name="Meter Number">1470469502</SimpleData>
+		<SimpleData name="Account Number">000905</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1693970342244,34.188172652147,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">23</SimpleData>
+		<SimpleData name="Meter Number">1470779084</SimpleData>
+		<SimpleData name="Account Number">000908</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1688989291107,34.1883459921796,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">24</SimpleData>
+		<SimpleData name="Meter Number">1105280583</SimpleData>
+		<SimpleData name="Account Number">000906</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1689507951786,34.1883132410111,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">25</SimpleData>
+		<SimpleData name="Meter Number">1482214662</SimpleData>
+		<SimpleData name="Account Number">000907</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1689709978239,34.1883774207293,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">26</SimpleData>
+		<SimpleData name="Meter Number">1471664084</SimpleData>
+		<SimpleData name="Account Number">000909</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1684597583029,34.1885785946387,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">27</SimpleData>
+		<SimpleData name="Meter Number">1471631022</SimpleData>
+		<SimpleData name="Account Number">000910</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168366678263,34.188617169781,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>29 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">28</SimpleData>
+		<SimpleData name="Meter Number">1471973416</SimpleData>
+		<SimpleData name="Account Number">000911</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.168380207335,34.1885055437335,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 CIRCLE DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">29</SimpleData>
+		<SimpleData name="Meter Number">1491094200</SimpleData>
+		<SimpleData name="Account Number">000912</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1683354312323,34.1885455338283,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">30</SimpleData>
+		<SimpleData name="Meter Number">1481739330</SimpleData>
+		<SimpleData name="Account Number">121035</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740350989418,34.1899682045209,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 LINDALE SCOUT HUT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">31</SimpleData>
+		<SimpleData name="Meter Number">1470372266</SimpleData>
+		<SimpleData name="Account Number">000914</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17356674798,34.18903205327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 BEHIND OLD AUDITORIUM</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">32</SimpleData>
+		<SimpleData name="Meter Number">1832326393</SimpleData>
+		<SimpleData name="Account Number">000916</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728589774691,34.1891599551422,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 PARK ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">33</SimpleData>
+		<SimpleData name="Meter Number">1470357042</SimpleData>
+		<SimpleData name="Account Number">000915</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1737662456509,34.1893320946223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">34</SimpleData>
+		<SimpleData name="Meter Number">1471640876</SimpleData>
+		<SimpleData name="Account Number">000917</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748645197029,34.189958168182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">35</SimpleData>
+		<SimpleData name="Meter Number">1470350300</SimpleData>
+		<SimpleData name="Account Number">000918</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1766985266438,34.1914186564846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 COTTON OFFICE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">36</SimpleData>
+		<SimpleData name="Meter Number">1482215798</SimpleData>
+		<SimpleData name="Account Number">000919</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1782968324679,34.190262677606,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">37</SimpleData>
+		<SimpleData name="Meter Number">1831870955</SimpleData>
+		<SimpleData name="Account Number">000920</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1790689165576,34.1904420835659,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">38</SimpleData>
+		<SimpleData name="Meter Number">1491466304</SimpleData>
+		<SimpleData name="Account Number">000921</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1777573914732,34.1916124822639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">39</SimpleData>
+		<SimpleData name="Meter Number">1450068690</SimpleData>
+		<SimpleData name="Account Number">000922</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1777648582869,34.1916238375541,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">40</SimpleData>
+		<SimpleData name="Meter Number">1831113081</SimpleData>
+		<SimpleData name="Account Number">000923</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1777764651612,34.1916610647331,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">41</SimpleData>
+		<SimpleData name="Meter Number">1470358844</SimpleData>
+		<SimpleData name="Account Number">000924</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1777872580912,34.1918988986548,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">42</SimpleData>
+		<SimpleData name="Meter Number">1470179860</SimpleData>
+		<SimpleData name="Account Number">000925</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1777939887678,34.1919625586881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">43</SimpleData>
+		<SimpleData name="Meter Number">1490687920</SimpleData>
+		<SimpleData name="Account Number">000926</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1778166494002,34.1921360583496,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">44</SimpleData>
+		<SimpleData name="Meter Number">1481712498</SimpleData>
+		<SimpleData name="Account Number">000927</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1778038426082,34.19223003593,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">45</SimpleData>
+		<SimpleData name="Meter Number">1491456852</SimpleData>
+		<SimpleData name="Account Number">000928</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1778225565394,34.1922510496269,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">46</SimpleData>
+		<SimpleData name="Meter Number">1831078576</SimpleData>
+		<SimpleData name="Account Number">000929</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771412581394,34.1926217544001,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">47</SimpleData>
+		<SimpleData name="Meter Number">1471714606</SimpleData>
+		<SimpleData name="Account Number">000932</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772346600793,34.1930411164257,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">48</SimpleData>
+		<SimpleData name="Meter Number">1470344942</SimpleData>
+		<SimpleData name="Account Number">000930</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772190056671,34.1928525465326,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">49</SimpleData>
+		<SimpleData name="Meter Number">1105231071</SimpleData>
+		<SimpleData name="Account Number">000931</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772221343245,34.1928576702598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">50</SimpleData>
+		<SimpleData name="Meter Number">1831872539</SimpleData>
+		<SimpleData name="Account Number">015585</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772338567056,34.1930175814494,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">51</SimpleData>
+		<SimpleData name="Meter Number">1470339702</SimpleData>
+		<SimpleData name="Account Number">000938</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772859169803,34.1920723004191,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 WEST 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">52</SimpleData>
+		<SimpleData name="Meter Number">1831646952</SimpleData>
+		<SimpleData name="Account Number">000934</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772851099455,34.1923083779229,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">53</SimpleData>
+		<SimpleData name="Meter Number">1482218290</SimpleData>
+		<SimpleData name="Account Number">000935</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772820982013,34.1923012058397,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>16 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">54</SimpleData>
+		<SimpleData name="Meter Number">1831113101</SimpleData>
+		<SimpleData name="Account Number">000936</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772036178029,34.1922214618119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">55</SimpleData>
+		<SimpleData name="Meter Number">1471618864</SimpleData>
+		<SimpleData name="Account Number">000941</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772759318977,34.1917804905541,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">56</SimpleData>
+		<SimpleData name="Meter Number">1470460250</SimpleData>
+		<SimpleData name="Account Number">000937</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772842633058,34.1920767707509,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>10 WEST 1ST AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">57</SimpleData>
+		<SimpleData name="Meter Number">1450089118</SimpleData>
+		<SimpleData name="Account Number">000939</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771571387877,34.1920411351399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">58</SimpleData>
+		<SimpleData name="Meter Number">1470358344</SimpleData>
+		<SimpleData name="Account Number">000940</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772801796457,34.1918096296196,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">59</SimpleData>
+		<SimpleData name="Meter Number">1491016044</SimpleData>
+		<SimpleData name="Account Number">000942</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771818183514,34.1917514829305,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">60</SimpleData>
+		<SimpleData name="Meter Number">1470465472</SimpleData>
+		<SimpleData name="Account Number">000947</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758106219329,34.1924694185041,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">61</SimpleData>
+		<SimpleData name="Meter Number">1831074331</SimpleData>
+		<SimpleData name="Account Number">000943</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771632923363,34.1917550543956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 WEST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">62</SimpleData>
+		<SimpleData name="Meter Number">1470758996</SimpleData>
+		<SimpleData name="Account Number">000944</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772716604235,34.1916049670027,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 WEST 1ST ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">63</SimpleData>
+		<SimpleData name="Meter Number">1472028890</SimpleData>
+		<SimpleData name="Account Number">000945</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.177168413044,34.1915292547566,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 E STREET </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">64</SimpleData>
+		<SimpleData name="Meter Number">1480952148</SimpleData>
+		<SimpleData name="Account Number">000946</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1755134158182,34.1921479925639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">65</SimpleData>
+		<SimpleData name="Meter Number">1470361012</SimpleData>
+		<SimpleData name="Account Number">000948</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759803998317,34.1925716917475,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">66</SimpleData>
+		<SimpleData name="Meter Number">1470339228</SimpleData>
+		<SimpleData name="Account Number">000949</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759532878946,34.1925373419184,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">67</SimpleData>
+		<SimpleData name="Meter Number">1481689584</SimpleData>
+		<SimpleData name="Account Number">000950</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758503871702,34.1925783743455,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">68</SimpleData>
+		<SimpleData name="Meter Number">1471635492</SimpleData>
+		<SimpleData name="Account Number">000951</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759429702447,34.1926754141921,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">69</SimpleData>
+		<SimpleData name="Meter Number">1472024894</SimpleData>
+		<SimpleData name="Account Number">000952</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759483372426,34.1926823384678,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>128 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">70</SimpleData>
+		<SimpleData name="Meter Number">1482314624</SimpleData>
+		<SimpleData name="Account Number">000953</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175880182088,34.1927402431729,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">71</SimpleData>
+		<SimpleData name="Meter Number">1470457602</SimpleData>
+		<SimpleData name="Account Number">000954</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759453952251,34.1929494872241,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">72</SimpleData>
+		<SimpleData name="Meter Number">1491441318</SimpleData>
+		<SimpleData name="Account Number">000959</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759306656849,34.1933611813053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">73</SimpleData>
+		<SimpleData name="Meter Number">1482513824</SimpleData>
+		<SimpleData name="Account Number">000955</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758713121727,34.1930595975909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">74</SimpleData>
+		<SimpleData name="Meter Number">1471332900</SimpleData>
+		<SimpleData name="Account Number">000956</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758539375513,34.1930666120912,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>206 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">75</SimpleData>
+		<SimpleData name="Meter Number">1482215722</SimpleData>
+		<SimpleData name="Account Number">000957</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758456624528,34.1933361844938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>208 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">76</SimpleData>
+		<SimpleData name="Meter Number">1481689540</SimpleData>
+		<SimpleData name="Account Number">000958</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758447585791,34.1933288057418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>216 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">77</SimpleData>
+		<SimpleData name="Meter Number">1490437548</SimpleData>
+		<SimpleData name="Account Number">000963</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1757141508931,34.1937938924438,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">78</SimpleData>
+		<SimpleData name="Meter Number">1481712692</SimpleData>
+		<SimpleData name="Account Number">000961</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759251313084,34.1935447160004,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>212 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">79</SimpleData>
+		<SimpleData name="Meter Number">1471605580</SimpleData>
+		<SimpleData name="Account Number">000960</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758557584926,34.1935523023362,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>214 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">80</SimpleData>
+		<SimpleData name="Meter Number">1833017432</SimpleData>
+		<SimpleData name="Account Number">000962</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758332260227,34.1937992109718,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>215 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">81</SimpleData>
+		<SimpleData name="Meter Number">1471629204</SimpleData>
+		<SimpleData name="Account Number">000964</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759193762073,34.1938050840058,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>220 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">82</SimpleData>
+		<SimpleData name="Meter Number">1470361112</SimpleData>
+		<SimpleData name="Account Number">000965</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758213544152,34.1940990894147,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>217 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">83</SimpleData>
+		<SimpleData name="Meter Number">1470357910</SimpleData>
+		<SimpleData name="Account Number">000966</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758855708391,34.1940568184514,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>302 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">84</SimpleData>
+		<SimpleData name="Meter Number">1470361008</SimpleData>
+		<SimpleData name="Account Number">000967</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758495820215,34.1946050429119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">85</SimpleData>
+		<SimpleData name="Meter Number">1450369566</SimpleData>
+		<SimpleData name="Account Number">000972</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759197382296,34.1952251359555,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>301 AVE E </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">86</SimpleData>
+		<SimpleData name="Meter Number">1470887836</SimpleData>
+		<SimpleData name="Account Number">000968</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175873732098,34.1946017243953,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>308 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">87</SimpleData>
+		<SimpleData name="Meter Number">1831078618</SimpleData>
+		<SimpleData name="Account Number">000969</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758272042249,34.1948814276562,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>310 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">88</SimpleData>
+		<SimpleData name="Meter Number">1831653406</SimpleData>
+		<SimpleData name="Account Number">000970</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758199930786,34.195066201938,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>312 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">89</SimpleData>
+		<SimpleData name="Meter Number">1471088554</SimpleData>
+		<SimpleData name="Account Number">000971</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1758239053215,34.1950550136287,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>314 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">90</SimpleData>
+		<SimpleData name="Meter Number">1470358806</SimpleData>
+		<SimpleData name="Account Number">000973</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1757869579105,34.1953087237853,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">91</SimpleData>
+		<SimpleData name="Meter Number">1831867585</SimpleData>
+		<SimpleData name="Account Number">000974</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.175830023463,34.1952967441782,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>18 NORTH 4TH ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">92</SimpleData>
+		<SimpleData name="Meter Number">1470390162</SimpleData>
+		<SimpleData name="Account Number">000975</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1755636261162,34.195716038931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>324 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">93</SimpleData>
+		<SimpleData name="Meter Number">1831873326</SimpleData>
+		<SimpleData name="Account Number">000980</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748387919421,34.1956317093157,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3142 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">94</SimpleData>
+		<SimpleData name="Meter Number">1490218982</SimpleData>
+		<SimpleData name="Account Number">000976</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753196403093,34.196137652692,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3140 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">95</SimpleData>
+		<SimpleData name="Meter Number">1490224026</SimpleData>
+		<SimpleData name="Account Number">000977</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753384917896,34.1961526490476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>320 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">96</SimpleData>
+		<SimpleData name="Meter Number">1481689642</SimpleData>
+		<SimpleData name="Account Number">000981</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748496275339,34.1954371802898,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>26 4TH ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">97</SimpleData>
+		<SimpleData name="Meter Number">1470428468</SimpleData>
+		<SimpleData name="Account Number">000978</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753615188613,34.1961313091417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>322 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">98</SimpleData>
+		<SimpleData name="Meter Number">1470357906</SimpleData>
+		<SimpleData name="Account Number">000979</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748336870469,34.1956422223478,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>318 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">99</SimpleData>
+		<SimpleData name="Meter Number">1831112153</SimpleData>
+		<SimpleData name="Account Number">000982</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748293132634,34.1954152508683,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>315 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">100</SimpleData>
+		<SimpleData name="Meter Number">1831850021</SimpleData>
+		<SimpleData name="Account Number">000983</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749595262012,34.1952972654434,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>313 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">101</SimpleData>
+		<SimpleData name="Meter Number">1470361314</SimpleData>
+		<SimpleData name="Account Number">000984</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749665149036,34.1952887558773,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>308 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">102</SimpleData>
+		<SimpleData name="Meter Number">1450369650</SimpleData>
+		<SimpleData name="Account Number">000989</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748784141624,34.1947652056507,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">103</SimpleData>
+		<SimpleData name="Meter Number">1831113337</SimpleData>
+		<SimpleData name="Account Number">000985</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748569247696,34.1952055001789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>314 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">104</SimpleData>
+		<SimpleData name="Meter Number">1831113142</SimpleData>
+		<SimpleData name="Account Number">000986</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748464092896,34.195208812977,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">105</SimpleData>
+		<SimpleData name="Meter Number">1470357908</SimpleData>
+		<SimpleData name="Account Number">000987</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749617225669,34.1950259747175,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">106</SimpleData>
+		<SimpleData name="Meter Number">1470361014</SimpleData>
+		<SimpleData name="Account Number">000988</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749967498176,34.1947650011815,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">107</SimpleData>
+		<SimpleData name="Meter Number">1471640674</SimpleData>
+		<SimpleData name="Account Number">000993</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750084453862,34.1945282810598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>302 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">108</SimpleData>
+		<SimpleData name="Meter Number">1491279970</SimpleData>
+		<SimpleData name="Account Number">000992</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748844585724,34.1945763429429,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>304 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">109</SimpleData>
+		<SimpleData name="Meter Number">1831646633</SimpleData>
+		<SimpleData name="Account Number">000991</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748827892699,34.1945774020675,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>301 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">110</SimpleData>
+		<SimpleData name="Meter Number">1430077462</SimpleData>
+		<SimpleData name="Account Number">000994</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749917694592,34.1944439128149,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>220 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">111</SimpleData>
+		<SimpleData name="Meter Number">1430232406</SimpleData>
+		<SimpleData name="Account Number">000995</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748667252184,34.194144557853,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>218 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">112</SimpleData>
+		<SimpleData name="Meter Number">1481691840</SimpleData>
+		<SimpleData name="Account Number">000996</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1748843617999,34.1941347416351,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>219 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">113</SimpleData>
+		<SimpleData name="Meter Number">1471605576</SimpleData>
+		<SimpleData name="Account Number">000997</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750079806516,34.194087570069,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>217 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">114</SimpleData>
+		<SimpleData name="Meter Number">1491088276</SimpleData>
+		<SimpleData name="Account Number">000998</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750099974735,34.1940759139424,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>216 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">115</SimpleData>
+		<SimpleData name="Meter Number">1831877101</SimpleData>
+		<SimpleData name="Account Number">001000</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749272758024,34.1938468088626,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>213 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">116</SimpleData>
+		<SimpleData name="Meter Number">1470179216</SimpleData>
+		<SimpleData name="Account Number">000999</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750769503244,34.1937928649476,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">117</SimpleData>
+		<SimpleData name="Meter Number">1832350019</SimpleData>
+		<SimpleData name="Account Number">001001</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750209438422,34.1935615304296,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>209 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">118</SimpleData>
+		<SimpleData name="Meter Number">1472009308</SimpleData>
+		<SimpleData name="Account Number">001002</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750293633678,34.1935524370629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>210 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">119</SimpleData>
+		<SimpleData name="Meter Number">1491088910</SimpleData>
+		<SimpleData name="Account Number">001003</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749706596923,34.1935421519382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>202 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">120</SimpleData>
+		<SimpleData name="Meter Number">1471652742</SimpleData>
+		<SimpleData name="Account Number">001011</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749308416894,34.1929937367607,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>208 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">121</SimpleData>
+		<SimpleData name="Meter Number">1470962488</SimpleData>
+		<SimpleData name="Account Number">001006</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749252821357,34.1932632062758,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">122</SimpleData>
+		<SimpleData name="Meter Number">1470464982</SimpleData>
+		<SimpleData name="Account Number">001008</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749986483202,34.1929762674388,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">123</SimpleData>
+		<SimpleData name="Meter Number">1491089622</SimpleData>
+		<SimpleData name="Account Number">001009</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750056650924,34.192982854459,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>207 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">124</SimpleData>
+		<SimpleData name="Meter Number">1470468306</SimpleData>
+		<SimpleData name="Account Number">001004</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749681531798,34.1933000675237,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">125</SimpleData>
+		<SimpleData name="Meter Number">1470468414</SimpleData>
+		<SimpleData name="Account Number">001005</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749702916459,34.1932867262854,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>204 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">126</SimpleData>
+		<SimpleData name="Meter Number">40552173</SimpleData>
+		<SimpleData name="Account Number">001010</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749556765198,34.1930009880271,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>128 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">127</SimpleData>
+		<SimpleData name="Meter Number">1831113190</SimpleData>
+		<SimpleData name="Account Number">001014</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174921507852,34.1926543432556,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">128</SimpleData>
+		<SimpleData name="Meter Number">1470361114</SimpleData>
+		<SimpleData name="Account Number">001012</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750482431081,34.192646316561,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">129</SimpleData>
+		<SimpleData name="Meter Number">1470361118</SimpleData>
+		<SimpleData name="Account Number">001013</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750460845279,34.1926458607715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">130</SimpleData>
+		<SimpleData name="Meter Number">1832236193</SimpleData>
+		<SimpleData name="Account Number">001015</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17494368182,34.1926329054182,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>118 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">131</SimpleData>
+		<SimpleData name="Meter Number">1410061792</SimpleData>
+		<SimpleData name="Account Number">001021</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749600695308,34.1921883893033,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>124 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">132</SimpleData>
+		<SimpleData name="Meter Number">1472019224</SimpleData>
+		<SimpleData name="Account Number">001017</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749137863735,34.192432820506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>122 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">133</SimpleData>
+		<SimpleData name="Meter Number">1831876265</SimpleData>
+		<SimpleData name="Account Number">001018</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749569948918,34.192411902861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">134</SimpleData>
+		<SimpleData name="Meter Number">1482314614</SimpleData>
+		<SimpleData name="Account Number">001016</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750407428022,34.1924442386303,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">135</SimpleData>
+		<SimpleData name="Meter Number">1471593454</SimpleData>
+		<SimpleData name="Account Number">001019</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750448509058,34.1920371935445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">136</SimpleData>
+		<SimpleData name="Meter Number">1470180128</SimpleData>
+		<SimpleData name="Account Number">001020</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750454306472,34.1920297706451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">137</SimpleData>
+		<SimpleData name="Meter Number">1831650644</SimpleData>
+		<SimpleData name="Account Number">001022</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750405724671,34.1918108374471,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">138</SimpleData>
+		<SimpleData name="Meter Number">1470086012</SimpleData>
+		<SimpleData name="Account Number">001028</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749801923362,34.1912480807298,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">139</SimpleData>
+		<SimpleData name="Meter Number">1470358354</SimpleData>
+		<SimpleData name="Account Number">001023</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749653929684,34.1917886522339,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">140</SimpleData>
+		<SimpleData name="Meter Number">1470393472</SimpleData>
+		<SimpleData name="Account Number">001024</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750619062689,34.1915906854527,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109 AVE D </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">141</SimpleData>
+		<SimpleData name="Meter Number">1471375546</SimpleData>
+		<SimpleData name="Account Number">001025</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1750561266258,34.1915855617969,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">142</SimpleData>
+		<SimpleData name="Meter Number">1470771948</SimpleData>
+		<SimpleData name="Account Number">001026</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749595150918,34.1915031828876,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">143</SimpleData>
+		<SimpleData name="Meter Number">1831874755</SimpleData>
+		<SimpleData name="Account Number">001027</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749764751185,34.1912535964757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3424 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">144</SimpleData>
+		<SimpleData name="Meter Number">1831867147</SimpleData>
+		<SimpleData name="Account Number">001029</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740077809434,34.1909040965909,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3420 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">145</SimpleData>
+		<SimpleData name="Meter Number">1831842805</SimpleData>
+		<SimpleData name="Account Number">001030</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740058317316,34.1911193636637,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">146</SimpleData>
+		<SimpleData name="Meter Number">1831643952</SimpleData>
+		<SimpleData name="Account Number">001031</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741166987132,34.1912771222328,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">147</SimpleData>
+		<SimpleData name="Meter Number">1450087860</SimpleData>
+		<SimpleData name="Account Number">001032</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741025754053,34.1912736458931,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3418 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">148</SimpleData>
+		<SimpleData name="Meter Number">1470179516</SimpleData>
+		<SimpleData name="Account Number">001033</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1742556536766,34.1915525444327,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">149</SimpleData>
+		<SimpleData name="Meter Number">1831873329</SimpleData>
+		<SimpleData name="Account Number">001034</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740857259102,34.191562633334,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>113 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">150</SimpleData>
+		<SimpleData name="Meter Number">1430077670</SimpleData>
+		<SimpleData name="Account Number">001035</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741139922808,34.1917697232835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3410 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">151</SimpleData>
+		<SimpleData name="Meter Number">1491067726</SimpleData>
+		<SimpleData name="Account Number">001041</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741568898813,34.1918122485141,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3414 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">152</SimpleData>
+		<SimpleData name="Meter Number">1470461024</SimpleData>
+		<SimpleData name="Account Number">001036</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739864046949,34.1919240862094,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>115 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">153</SimpleData>
+		<SimpleData name="Meter Number">1491067882</SimpleData>
+		<SimpleData name="Account Number">001037</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740996671613,34.1919057090881,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>117 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">154</SimpleData>
+		<SimpleData name="Meter Number">1470385846</SimpleData>
+		<SimpleData name="Account Number">001039</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741069015006,34.1920651161255,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>119 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">155</SimpleData>
+		<SimpleData name="Meter Number">1471612200</SimpleData>
+		<SimpleData name="Account Number">001040</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740806652316,34.1920431500486,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3408 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">156</SimpleData>
+		<SimpleData name="Meter Number">1470385840</SimpleData>
+		<SimpleData name="Account Number">001042</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740025929946,34.192100853883,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>121 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">157</SimpleData>
+		<SimpleData name="Meter Number">1831877253</SimpleData>
+		<SimpleData name="Account Number">001043</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740988350711,34.1922473432352,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>123 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">158</SimpleData>
+		<SimpleData name="Meter Number">1490944768</SimpleData>
+		<SimpleData name="Account Number">001044</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740994660787,34.1922492565711,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3406 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">159</SimpleData>
+		<SimpleData name="Meter Number">1831865037</SimpleData>
+		<SimpleData name="Account Number">001045</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740029036411,34.1923686880119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3404 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">160</SimpleData>
+		<SimpleData name="Meter Number">1831130276</SimpleData>
+		<SimpleData name="Account Number">001046</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739964004135,34.1923695894846,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3318 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">161</SimpleData>
+		<SimpleData name="Meter Number">1491092440</SimpleData>
+		<SimpleData name="Account Number">001051</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740092943547,34.1929771235273,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>125 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">162</SimpleData>
+		<SimpleData name="Meter Number">1471630254</SimpleData>
+		<SimpleData name="Account Number">001047</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174082673789,34.1925863123172,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3402 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">163</SimpleData>
+		<SimpleData name="Meter Number">1470385918</SimpleData>
+		<SimpleData name="Account Number">001048</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739772435398,34.1926178218764,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">164</SimpleData>
+		<SimpleData name="Meter Number">1410212346</SimpleData>
+		<SimpleData name="Account Number">001055</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740344537306,34.1931913614317,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>127 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">165</SimpleData>
+		<SimpleData name="Meter Number">1832292407</SimpleData>
+		<SimpleData name="Account Number">001049</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740613449501,34.192725327627,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>201 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">166</SimpleData>
+		<SimpleData name="Meter Number">1470358352</SimpleData>
+		<SimpleData name="Account Number">001052</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740734899038,34.1929733680228,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">167</SimpleData>
+		<SimpleData name="Meter Number">1471609960</SimpleData>
+		<SimpleData name="Account Number">001053</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740507760683,34.1929611300145,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3316 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">168</SimpleData>
+		<SimpleData name="Meter Number">1470388452</SimpleData>
+		<SimpleData name="Account Number">001050</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739857567647,34.1931011897087,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3308 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">169</SimpleData>
+		<SimpleData name="Meter Number">1470468534</SimpleData>
+		<SimpleData name="Account Number">001058</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739412912921,34.1935179284603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3310 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">170</SimpleData>
+		<SimpleData name="Meter Number">1470462662</SimpleData>
+		<SimpleData name="Account Number">001057</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739980595277,34.1935556520297,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">171</SimpleData>
+		<SimpleData name="Meter Number">1470179646</SimpleData>
+		<SimpleData name="Account Number">001059</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740381394927,34.1936030854979,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3306 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">172</SimpleData>
+		<SimpleData name="Meter Number">1481691848</SimpleData>
+		<SimpleData name="Account Number">001061</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1738281495066,34.1938249031262,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3304 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">173</SimpleData>
+		<SimpleData name="Meter Number">1481681922</SimpleData>
+		<SimpleData name="Account Number">001062</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739579813737,34.1938132417629,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>215 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">174</SimpleData>
+		<SimpleData name="Meter Number">1470385916</SimpleData>
+		<SimpleData name="Account Number">001063</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740585731171,34.1938224612418,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>217 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">175</SimpleData>
+		<SimpleData name="Meter Number">1831079245</SimpleData>
+		<SimpleData name="Account Number">001064</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740287694354,34.1940865426338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>219 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">176</SimpleData>
+		<SimpleData name="Meter Number">1831079476</SimpleData>
+		<SimpleData name="Account Number">001065</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740354970333,34.1940954580251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3300 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">177</SimpleData>
+		<SimpleData name="Meter Number">1470461106</SimpleData>
+		<SimpleData name="Account Number">001067</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739823201714,34.1941868213251,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3218 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">178</SimpleData>
+		<SimpleData name="Meter Number">1491091806</SimpleData>
+		<SimpleData name="Account Number">001068</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739245766028,34.1944402630223,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>301 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">179</SimpleData>
+		<SimpleData name="Meter Number">1831079262</SimpleData>
+		<SimpleData name="Account Number">001069</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740361016708,34.1944514176167,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3214 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">180</SimpleData>
+		<SimpleData name="Meter Number">1450068816</SimpleData>
+		<SimpleData name="Account Number">001070</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739478327223,34.194760773078,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3212 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">181</SimpleData>
+		<SimpleData name="Meter Number">1482518210</SimpleData>
+		<SimpleData name="Account Number">001071</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739335083543,34.1947482119708,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">182</SimpleData>
+		<SimpleData name="Meter Number">1481689538</SimpleData>
+		<SimpleData name="Account Number">001072</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740180048315,34.1948823770964,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>307 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">183</SimpleData>
+		<SimpleData name="Meter Number">1831877276</SimpleData>
+		<SimpleData name="Account Number">001073</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.174020406097,34.194888143221,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3210 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">184</SimpleData>
+		<SimpleData name="Meter Number">1470388454</SimpleData>
+		<SimpleData name="Account Number">001074</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739413213172,34.1950189440042,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3208 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">185</SimpleData>
+		<SimpleData name="Meter Number">1470180022</SimpleData>
+		<SimpleData name="Account Number">001075</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1739390810053,34.1950199672054,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">186</SimpleData>
+		<SimpleData name="Meter Number">1470180132</SimpleData>
+		<SimpleData name="Account Number">001076</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740130937627,34.1950416129892,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3132 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">187</SimpleData>
+		<SimpleData name="Meter Number">1472011372</SimpleData>
+		<SimpleData name="Account Number">001134</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1729592347374,34.1972575568364,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>311 AVE C </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">188</SimpleData>
+		<SimpleData name="Meter Number">1470393476</SimpleData>
+		<SimpleData name="Account Number">001077</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1740174478691,34.1950437959963,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3132 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">189</SimpleData>
+		<SimpleData name="Meter Number">1470457184</SimpleData>
+		<SimpleData name="Account Number">001133</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728904050525,34.1974010595355,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 NORTH 4TH ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">190</SimpleData>
+		<SimpleData name="Meter Number">1482516920</SimpleData>
+		<SimpleData name="Account Number">001138</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1743137958716,34.1957046753073,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 WEST 4TH ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">191</SimpleData>
+		<SimpleData name="Meter Number">1470462656</SimpleData>
+		<SimpleData name="Account Number">001139</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1743613981183,34.1958594810481,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 NORTH 4TH ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">192</SimpleData>
+		<SimpleData name="Meter Number">1832310309</SimpleData>
+		<SimpleData name="Account Number">001137</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736596322315,34.1957096703143,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3138 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">193</SimpleData>
+		<SimpleData name="Meter Number">1470378572</SimpleData>
+		<SimpleData name="Account Number">001136</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731231628529,34.1968703864696,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3138 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">194</SimpleData>
+		<SimpleData name="Meter Number">1470456780</SimpleData>
+		<SimpleData name="Account Number">001135</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731146039993,34.1968699291369,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3130 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">195</SimpleData>
+		<SimpleData name="Meter Number">1470456782</SimpleData>
+		<SimpleData name="Account Number">001132</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1729029588716,34.1974438969839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3129 MAPLE RD STORE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">196</SimpleData>
+		<SimpleData name="Meter Number">1410148768</SimpleData>
+		<SimpleData name="Account Number">001131</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1726303809323,34.1976194338956,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 LEGION DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">197</SimpleData>
+		<SimpleData name="Meter Number">1831111371</SimpleData>
+		<SimpleData name="Account Number">001125</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730120907771,34.1963424425454,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3145 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">198</SimpleData>
+		<SimpleData name="Meter Number">1470383592</SimpleData>
+		<SimpleData name="Account Number">001124</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731183217114,34.1959095751144,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3201 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">199</SimpleData>
+		<SimpleData name="Meter Number">1481700500</SimpleData>
+		<SimpleData name="Account Number">001123</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731816712312,34.1955917109406,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3203 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">200</SimpleData>
+		<SimpleData name="Meter Number">1481689524</SimpleData>
+		<SimpleData name="Account Number">001122</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1732099542898,34.195426054449,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3205 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">201</SimpleData>
+		<SimpleData name="Meter Number">1831872491</SimpleData>
+		<SimpleData name="Account Number">001121</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1732119530256,34.1952197522566,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3213 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">202</SimpleData>
+		<SimpleData name="Meter Number">1831078563</SimpleData>
+		<SimpleData name="Account Number">001120</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1729521227727,34.1942282435134,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3301 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">203</SimpleData>
+		<SimpleData name="Meter Number">1470461110</SimpleData>
+		<SimpleData name="Account Number">001117</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1729619302254,34.1938634587619,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3301 B MAPLE RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">204</SimpleData>
+		<SimpleData name="Meter Number">1470358358</SimpleData>
+		<SimpleData name="Account Number">001118</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728227320314,34.1939003822458,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3303 MAPLE RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">205</SimpleData>
+		<SimpleData name="Meter Number">1470179870</SimpleData>
+		<SimpleData name="Account Number">001116</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1732671072382,34.1934375961258,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 SILVER ST SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">206</SimpleData>
+		<SimpleData name="Meter Number">1470390260</SimpleData>
+		<SimpleData name="Account Number">001115</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1733083685546,34.1933352987634,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">207</SimpleData>
+		<SimpleData name="Meter Number">1490694682</SimpleData>
+		<SimpleData name="Account Number">001089</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730933073279,34.1915895917527,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 SILVER ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">208</SimpleData>
+		<SimpleData name="Meter Number">1482516900</SimpleData>
+		<SimpleData name="Account Number">001114</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730266408701,34.1927930708835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 SILVER ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">209</SimpleData>
+		<SimpleData name="Meter Number">1470461530</SimpleData>
+		<SimpleData name="Account Number">001113</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727568427047,34.1921418001775,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 B STREET </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">210</SimpleData>
+		<SimpleData name="Meter Number">1105224002</SimpleData>
+		<SimpleData name="Account Number">001092</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1732097522792,34.1920712601841,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3401 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">211</SimpleData>
+		<SimpleData name="Meter Number">1470393792</SimpleData>
+		<SimpleData name="Account Number">001091</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730690015568,34.1916980540885,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>110 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">212</SimpleData>
+		<SimpleData name="Meter Number">1491067906</SimpleData>
+		<SimpleData name="Account Number">001084</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731103920916,34.1913232545861,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3415 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">213</SimpleData>
+		<SimpleData name="Meter Number">1490685896</SimpleData>
+		<SimpleData name="Account Number">001087</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731758081683,34.1915865762011,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3417 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">214</SimpleData>
+		<SimpleData name="Meter Number">1471656628</SimpleData>
+		<SimpleData name="Account Number">001086</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.173174202551,34.1914920582801,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">215</SimpleData>
+		<SimpleData name="Meter Number">1470179644</SimpleData>
+		<SimpleData name="Account Number">001085</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731024742501,34.1913217895789,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3419 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">216</SimpleData>
+		<SimpleData name="Meter Number">1470802548</SimpleData>
+		<SimpleData name="Account Number">001083</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731734328777,34.1912206557533,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3421 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">217</SimpleData>
+		<SimpleData name="Meter Number">1470179948</SimpleData>
+		<SimpleData name="Account Number">001082</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1731449080393,34.1912045115925,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">218</SimpleData>
+		<SimpleData name="Meter Number">1470457606</SimpleData>
+		<SimpleData name="Account Number">001099</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721731808061,34.1907296495736,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3425 MAPLE RD SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">219</SimpleData>
+		<SimpleData name="Meter Number">1831113136</SimpleData>
+		<SimpleData name="Account Number">001081</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1732224918768,34.1910430331313,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>106 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">220</SimpleData>
+		<SimpleData name="Meter Number">1470385796</SimpleData>
+		<SimpleData name="Account Number">001079</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730766856814,34.191017210707,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">221</SimpleData>
+		<SimpleData name="Meter Number">1470457604</SimpleData>
+		<SimpleData name="Account Number">001078</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730960429667,34.1907061540728,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>104 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">222</SimpleData>
+		<SimpleData name="Meter Number">1470467514</SimpleData>
+		<SimpleData name="Account Number">001101</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721847165608,34.1904827963844,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>102 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">223</SimpleData>
+		<SimpleData name="Meter Number">1470461104</SimpleData>
+		<SimpleData name="Account Number">001102</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721608161143,34.1904645285879,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">224</SimpleData>
+		<SimpleData name="Meter Number">1471629942</SimpleData>
+		<SimpleData name="Account Number">001100</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1722783085314,34.1906889510772,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">225</SimpleData>
+		<SimpleData name="Meter Number">1491092154</SimpleData>
+		<SimpleData name="Account Number">001098</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721582835581,34.1907329642993,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">226</SimpleData>
+		<SimpleData name="Meter Number">1470462370</SimpleData>
+		<SimpleData name="Account Number">001094</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1722501978161,34.1910517054901,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>110 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">227</SimpleData>
+		<SimpleData name="Meter Number">1490677904</SimpleData>
+		<SimpleData name="Account Number">001097</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721719975245,34.1910724422545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>112 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">228</SimpleData>
+		<SimpleData name="Meter Number">1470467512</SimpleData>
+		<SimpleData name="Account Number">001096</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721565622298,34.1910845917026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>111 AVE A </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">229</SimpleData>
+		<SimpleData name="Meter Number">1470462372</SimpleData>
+		<SimpleData name="Account Number">001093</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172264696638,34.1913238967654,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>107 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">230</SimpleData>
+		<SimpleData name="Meter Number">1482518732</SimpleData>
+		<SimpleData name="Account Number">001107</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1715308973522,34.1907326836162,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">231</SimpleData>
+		<SimpleData name="Meter Number">1830673668</SimpleData>
+		<SimpleData name="Account Number">001112</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1685376621865,34.1903600248114,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>103 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">232</SimpleData>
+		<SimpleData name="Meter Number">1470390160</SimpleData>
+		<SimpleData name="Account Number">001105</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1715057556828,34.1904527524348,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 AVE F </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">233</SimpleData>
+		<SimpleData name="Meter Number">1490172996</SimpleData>
+		<SimpleData name="Account Number">001104</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1714919481292,34.1904220992191,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 SILVER ST </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">234</SimpleData>
+		<SimpleData name="Meter Number">1470385814</SimpleData>
+		<SimpleData name="Account Number">001103</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1714379998132,34.1902436986134,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 SILVER TER </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">235</SimpleData>
+		<SimpleData name="Meter Number">1105224011</SimpleData>
+		<SimpleData name="Account Number">001108</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.170536519229,34.1905598878113,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>21 SILVER TER </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">236</SimpleData>
+		<SimpleData name="Meter Number">1470390466</SimpleData>
+		<SimpleData name="Account Number">001109</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1703525050991,34.1905342547003,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 SILVER TER </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">237</SimpleData>
+		<SimpleData name="Meter Number">1471887896</SimpleData>
+		<SimpleData name="Account Number">001110</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1697971812827,34.1904475394136,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 OLD ROCKMART RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">238</SimpleData>
+		<SimpleData name="Meter Number">1450366110</SimpleData>
+		<SimpleData name="Account Number">001111</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1691715372305,34.1903324146536,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>301 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">239</SimpleData>
+		<SimpleData name="Meter Number">1481712652</SimpleData>
+		<SimpleData name="Account Number">003905</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771986820804,34.1838426387105,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>303 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">240</SimpleData>
+		<SimpleData name="Meter Number">1470258924</SimpleData>
+		<SimpleData name="Account Number">003906</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772113302879,34.1836380935181,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 LEGION DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">241</SimpleData>
+		<SimpleData name="Meter Number">1470390164</SimpleData>
+		<SimpleData name="Account Number">001126</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721819128675,34.1967880706986,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>105 LEGION DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">242</SimpleData>
+		<SimpleData name="Meter Number">1470385794</SimpleData>
+		<SimpleData name="Account Number">001127</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1718837791422,34.1962252741075,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>304 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">243</SimpleData>
+		<SimpleData name="Meter Number">1832599301</SimpleData>
+		<SimpleData name="Account Number">003907</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1770791607454,34.1835708198839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>306 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">244</SimpleData>
+		<SimpleData name="Meter Number">1450084762</SimpleData>
+		<SimpleData name="Account Number">003908</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1770872724693,34.1833779431792,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>114 LEGION DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">245</SimpleData>
+		<SimpleData name="Meter Number">1470385798</SimpleData>
+		<SimpleData name="Account Number">001129</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1710886264689,34.1960969393739,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>305 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">246</SimpleData>
+		<SimpleData name="Meter Number">1831846326</SimpleData>
+		<SimpleData name="Account Number">003909</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771955746023,34.1834272434119,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>140 LEGION DRIVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">247</SimpleData>
+		<SimpleData name="Meter Number">1105262901</SimpleData>
+		<SimpleData name="Account Number">101071</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1710794001526,34.1960625604357,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>307 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">248</SimpleData>
+		<SimpleData name="Meter Number">1482512750</SimpleData>
+		<SimpleData name="Account Number">003910</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771980903993,34.1831815939012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>138 LEGION DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">249</SimpleData>
+		<SimpleData name="Meter Number">1832087942</SimpleData>
+		<SimpleData name="Account Number">001128</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.171065591737,34.1960622491061,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 LEGION DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">250</SimpleData>
+		<SimpleData name="Meter Number">1471631018</SimpleData>
+		<SimpleData name="Account Number">001130</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1711131671277,34.1961368413868,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>308 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">251</SimpleData>
+		<SimpleData name="Meter Number">1430030092</SimpleData>
+		<SimpleData name="Account Number">003911</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17709593908,34.1831826764723,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>309 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">252</SimpleData>
+		<SimpleData name="Meter Number">1831875297</SimpleData>
+		<SimpleData name="Account Number">003912</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771891953804,34.1829675444487,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>310 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">253</SimpleData>
+		<SimpleData name="Meter Number">1450087916</SimpleData>
+		<SimpleData name="Account Number">003913</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771001795915,34.1830105143274,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>312 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">254</SimpleData>
+		<SimpleData name="Meter Number">1491090570</SimpleData>
+		<SimpleData name="Account Number">003914</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771032813401,34.1827423419369,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>311 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">255</SimpleData>
+		<SimpleData name="Meter Number">1481740714</SimpleData>
+		<SimpleData name="Account Number">003915</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772126391709,34.1827706116029,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>313 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">256</SimpleData>
+		<SimpleData name="Meter Number">1831873341</SimpleData>
+		<SimpleData name="Account Number">003916</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772208649795,34.1825321955966,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>314 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">257</SimpleData>
+		<SimpleData name="Meter Number">1490989588</SimpleData>
+		<SimpleData name="Account Number">003917</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.177110216491,34.1825371953907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>316 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">258</SimpleData>
+		<SimpleData name="Meter Number">1450199564</SimpleData>
+		<SimpleData name="Account Number">003918</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771175819729,34.182319933128,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>317 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">259</SimpleData>
+		<SimpleData name="Meter Number">1831872162</SimpleData>
+		<SimpleData name="Account Number">003920</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772240851173,34.1821190752417,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>318 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">260</SimpleData>
+		<SimpleData name="Meter Number">1481742422</SimpleData>
+		<SimpleData name="Account Number">003921</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771226197175,34.1821280729667,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>320 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">261</SimpleData>
+		<SimpleData name="Meter Number">1490997558</SimpleData>
+		<SimpleData name="Account Number">003922</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1771298806134,34.1818779139839,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>319 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">262</SimpleData>
+		<SimpleData name="Meter Number">1471038804</SimpleData>
+		<SimpleData name="Account Number">003923</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772393692269,34.1819006368639,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>321 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">263</SimpleData>
+		<SimpleData name="Meter Number">1471015322</SimpleData>
+		<SimpleData name="Account Number">003924</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1773263908093,34.1816173616064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>323 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">264</SimpleData>
+		<SimpleData name="Meter Number">1470804866</SimpleData>
+		<SimpleData name="Account Number">003925</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1772289901182,34.1815308898291,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>325 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">265</SimpleData>
+		<SimpleData name="Meter Number">1491021654</SimpleData>
+		<SimpleData name="Account Number">003926</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1770803188616,34.1815784555758,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>327 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">266</SimpleData>
+		<SimpleData name="Meter Number">1491021846</SimpleData>
+		<SimpleData name="Account Number">003927</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1768758064363,34.1815883069722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>329 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">267</SimpleData>
+		<SimpleData name="Meter Number">1471052026</SimpleData>
+		<SimpleData name="Account Number">114666</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1765128699476,34.1815675583598,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>333 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">268</SimpleData>
+		<SimpleData name="Meter Number">1470710320</SimpleData>
+		<SimpleData name="Account Number">114667</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1760522080309,34.1815752478607,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>331 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">269</SimpleData>
+		<SimpleData name="Meter Number">1470725444</SimpleData>
+		<SimpleData name="Account Number">115157</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1764986845183,34.1815580303524,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>335 GARDEN ST EXT</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">270</SimpleData>
+		<SimpleData name="Meter Number">1471030596</SimpleData>
+		<SimpleData name="Account Number">115158</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1760606333481,34.1815777141982,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 DRAGON DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">271</SimpleData>
+		<SimpleData name="Meter Number">1470805932</SimpleData>
+		<SimpleData name="Account Number">114665</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1760624451247,34.1811174125769,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 DRAGON DR </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">272</SimpleData>
+		<SimpleData name="Meter Number">1470702370</SimpleData>
+		<SimpleData name="Account Number">115156</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1760548321946,34.1811275231748,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>501 PARK AVE </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">273</SimpleData>
+		<SimpleData name="Meter Number">1450194570</SimpleData>
+		<SimpleData name="Account Number">003928</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1756901674382,34.1815667248582,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">274</SimpleData>
+		<SimpleData name="Meter Number">1482512738</SimpleData>
+		<SimpleData name="Account Number">005641</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741669365395,34.1714602186563,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1218 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">275</SimpleData>
+		<SimpleData name="Meter Number">1480814218</SimpleData>
+		<SimpleData name="Account Number">102613</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1742704537859,34.1712233764826,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 JAMES RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">276</SimpleData>
+		<SimpleData name="Meter Number">1490995924</SimpleData>
+		<SimpleData name="Account Number">005642</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741291964114,34.170485248363,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 JAMES RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">277</SimpleData>
+		<SimpleData name="Meter Number">1490997806</SimpleData>
+		<SimpleData name="Account Number">005646</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741044866927,34.1690472427393,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>149 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">278</SimpleData>
+		<SimpleData name="Meter Number">1490996066</SimpleData>
+		<SimpleData name="Account Number">005647</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1741172767806,34.1678183851623,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>186 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">279</SimpleData>
+		<SimpleData name="Meter Number">1490996034</SimpleData>
+		<SimpleData name="Account Number">005648</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1742878090004,34.1668831219967,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>15 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">280</SimpleData>
+		<SimpleData name="Meter Number">1490996134</SimpleData>
+		<SimpleData name="Account Number">005649</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736813103229,34.1668039704752,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>203 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">281</SimpleData>
+		<SimpleData name="Meter Number">1470992232</SimpleData>
+		<SimpleData name="Account Number">005650</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736314199311,34.166678906264,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>227 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">282</SimpleData>
+		<SimpleData name="Meter Number">1831847692</SimpleData>
+		<SimpleData name="Account Number">005651</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1735053691838,34.1666855111536,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>211 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">283</SimpleData>
+		<SimpleData name="Meter Number">1491017580</SimpleData>
+		<SimpleData name="Account Number">005652</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734957847678,34.1666965825058,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>225 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">284</SimpleData>
+		<SimpleData name="Meter Number">1490997760</SimpleData>
+		<SimpleData name="Account Number">005653</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734790853858,34.1666897049399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>223 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">285</SimpleData>
+		<SimpleData name="Meter Number">1490994304</SimpleData>
+		<SimpleData name="Account Number">005654</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734827853685,34.1666995449281,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 2ND ST SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">286</SimpleData>
+		<SimpleData name="Meter Number">1490985498</SimpleData>
+		<SimpleData name="Account Number">005655</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1732054192051,34.1666785732089,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 BOOZE MTN RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">287</SimpleData>
+		<SimpleData name="Meter Number">1470715892</SimpleData>
+		<SimpleData name="Account Number">005656</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730561592665,34.1667785706427,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>126 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">288</SimpleData>
+		<SimpleData name="Meter Number">1491011078</SimpleData>
+		<SimpleData name="Account Number">005657</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728400593888,34.1672076021506,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">289</SimpleData>
+		<SimpleData name="Meter Number">1490984280</SimpleData>
+		<SimpleData name="Account Number">005659</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727317309184,34.1673363764813,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">290</SimpleData>
+		<SimpleData name="Meter Number">1490997000</SimpleData>
+		<SimpleData name="Account Number">005671</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727062743786,34.166383703292,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>165 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">291</SimpleData>
+		<SimpleData name="Meter Number">1490998312</SimpleData>
+		<SimpleData name="Account Number">005672</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172709921437,34.1660776655924,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>192 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">292</SimpleData>
+		<SimpleData name="Meter Number">1482076666</SimpleData>
+		<SimpleData name="Account Number">005674</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728582637493,34.165359746577,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>185 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">293</SimpleData>
+		<SimpleData name="Meter Number">1491016798</SimpleData>
+		<SimpleData name="Account Number">005673</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727259906157,34.1653572950582,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>229 MARK GROVES DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">294</SimpleData>
+		<SimpleData name="Meter Number">1490997110</SimpleData>
+		<SimpleData name="Account Number">005675</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728636244751,34.1651625473108,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>205 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">295</SimpleData>
+		<SimpleData name="Meter Number">1490984438</SimpleData>
+		<SimpleData name="Account Number">005679</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727688868401,34.1650754098766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>257 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">296</SimpleData>
+		<SimpleData name="Meter Number">1482068108</SimpleData>
+		<SimpleData name="Account Number">005677</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.172861367025,34.1650763932002,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">297</SimpleData>
+		<SimpleData name="Meter Number">1831076534</SimpleData>
+		<SimpleData name="Account Number">005678</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728654498364,34.165068036732,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>224 E 2ND STREET</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">298</SimpleData>
+		<SimpleData name="Meter Number">1490996318</SimpleData>
+		<SimpleData name="Account Number">101712</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728699264693,34.164605969824,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>250 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">299</SimpleData>
+		<SimpleData name="Meter Number">1105280946</SimpleData>
+		<SimpleData name="Account Number">005682</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1728298198036,34.1645054367791,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>333 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">300</SimpleData>
+		<SimpleData name="Meter Number">1410241142</SimpleData>
+		<SimpleData name="Account Number">005680</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727551646918,34.1645419620628,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>69 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">301</SimpleData>
+		<SimpleData name="Meter Number">1490997122</SimpleData>
+		<SimpleData name="Account Number">005660</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.17174004458,34.1667675895894,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>70 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">302</SimpleData>
+		<SimpleData name="Meter Number">1471029050</SimpleData>
+		<SimpleData name="Account Number">115294</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1717063850988,34.1666316177578,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>89 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">303</SimpleData>
+		<SimpleData name="Meter Number">1831826023</SimpleData>
+		<SimpleData name="Account Number">005662</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1712550996624,34.1667739997873,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>101 EAST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">304</SimpleData>
+		<SimpleData name="Meter Number">1832236934</SimpleData>
+		<SimpleData name="Account Number">015446</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1709033443885,34.1669861233166,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>109 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">305</SimpleData>
+		<SimpleData name="Meter Number">1472034322</SimpleData>
+		<SimpleData name="Account Number">005664</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1707041571665,34.1669080672788,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>108 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">306</SimpleData>
+		<SimpleData name="Meter Number">1490988874</SimpleData>
+		<SimpleData name="Account Number">005663</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1705874145738,34.1666816101746,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>151 E 2ND AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">307</SimpleData>
+		<SimpleData name="Meter Number">1430232154</SimpleData>
+		<SimpleData name="Account Number">005665</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1694039680631,34.1668704429169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>412 REECEBURG RD </name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">308</SimpleData>
+		<SimpleData name="Meter Number">1491010052</SimpleData>
+		<SimpleData name="Account Number">105801</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1690245265418,34.1667445456603,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>153 E 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">309</SimpleData>
+		<SimpleData name="Meter Number">1491017904</SimpleData>
+		<SimpleData name="Account Number">005666</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1690437225358,34.1667790018058,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 E 4TH AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">310</SimpleData>
+		<SimpleData name="Meter Number">1490803074</SimpleData>
+		<SimpleData name="Account Number">005668</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1693049239061,34.16628024766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>188 EAST 2ND ST</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">311</SimpleData>
+		<SimpleData name="Meter Number">1490823012</SimpleData>
+		<SimpleData name="Account Number">105803</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1690461270621,34.1667804545766,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 E 4TH AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">312</SimpleData>
+		<SimpleData name="Meter Number">1471499862</SimpleData>
+		<SimpleData name="Account Number">005667</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1691880866994,34.1662389217722,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 E 4TH AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">313</SimpleData>
+		<SimpleData name="Meter Number">1490979162</SimpleData>
+		<SimpleData name="Account Number">005670</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1692120748756,34.1659311571907,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 E 4TH AVE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">314</SimpleData>
+		<SimpleData name="Meter Number">1832347059</SimpleData>
+		<SimpleData name="Account Number">005669</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1691762887322,34.1654307078012,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">315</SimpleData>
+		<SimpleData name="Meter Number">1450194134</SimpleData>
+		<SimpleData name="Account Number">004017</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1799953382368,34.163423119704,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">316</SimpleData>
+		<SimpleData name="Meter Number">1481617884</SimpleData>
+		<SimpleData name="Account Number">004018</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1797583827237,34.1632765593595,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">317</SimpleData>
+		<SimpleData name="Meter Number">1833017220</SimpleData>
+		<SimpleData name="Account Number">004019</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1797543684596,34.1632851771835,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 LOT83 LAKEVIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">318</SimpleData>
+		<SimpleData name="Meter Number">1832287983</SimpleData>
+		<SimpleData name="Account Number">004020</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1796559104887,34.1634239101906,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 JON KEN DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">319</SimpleData>
+		<SimpleData name="Meter Number">1470235276</SimpleData>
+		<SimpleData name="Account Number">004021</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1794159434482,34.1634522249699,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>0 LOT86 LAKEVIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">320</SimpleData>
+		<SimpleData name="Meter Number">1831873353</SimpleData>
+		<SimpleData name="Account Number">004022</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.179415022808,34.1634510277187,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 JON KEN DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">321</SimpleData>
+		<SimpleData name="Meter Number">1490955504</SimpleData>
+		<SimpleData name="Account Number">004023</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1794125628796,34.1634386969825,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">322</SimpleData>
+		<SimpleData name="Meter Number">1470229720</SimpleData>
+		<SimpleData name="Account Number">004024</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1793159073617,34.1633134736415,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>80 JON KEN DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">323</SimpleData>
+		<SimpleData name="Meter Number">1450197920</SimpleData>
+		<SimpleData name="Account Number">004025</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1790698735996,34.1634284833794,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 B LAKEVIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">324</SimpleData>
+		<SimpleData name="Meter Number">1831872251</SimpleData>
+		<SimpleData name="Account Number">004026</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1787539816129,34.1633046860656,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 A LAKEVIEW DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">325</SimpleData>
+		<SimpleData name="Meter Number">1470231806</SimpleData>
+		<SimpleData name="Account Number">004027</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1787532164742,34.1633199302325,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">326</SimpleData>
+		<SimpleData name="Meter Number">1410203332</SimpleData>
+		<SimpleData name="Account Number">110554</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.178385448713,34.1634335295911,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>12 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">327</SimpleData>
+		<SimpleData name="Meter Number">1491291342</SimpleData>
+		<SimpleData name="Account Number">004028</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1782396203479,34.1632909310778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">328</SimpleData>
+		<SimpleData name="Meter Number">1470229722</SimpleData>
+		<SimpleData name="Account Number">004029</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1773832402198,34.1632952460064,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 S STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">329</SimpleData>
+		<SimpleData name="Meter Number">1470229726</SimpleData>
+		<SimpleData name="Account Number">004030</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1768167346373,34.1632382309545,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 S STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">330</SimpleData>
+		<SimpleData name="Meter Number">1832341116</SimpleData>
+		<SimpleData name="Account Number">004031</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1766568910584,34.1623694493632,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 S STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">331</SimpleData>
+		<SimpleData name="Meter Number">1470991666</SimpleData>
+		<SimpleData name="Account Number">004032</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1766697608472,34.1621200180222,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 S STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">332</SimpleData>
+		<SimpleData name="Meter Number">1470233672</SimpleData>
+		<SimpleData name="Account Number">004033</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.176496883799,34.1620638050685,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 S STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">333</SimpleData>
+		<SimpleData name="Meter Number">1450194162</SimpleData>
+		<SimpleData name="Account Number">004034</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1764805315022,34.1624117449884,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>1 S STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">334</SimpleData>
+		<SimpleData name="Meter Number">1410192370</SimpleData>
+		<SimpleData name="Account Number">004035</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1764642555892,34.1628803011715,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>2 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">335</SimpleData>
+		<SimpleData name="Meter Number">1831877200</SimpleData>
+		<SimpleData name="Account Number">004036</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1762714624854,34.1635816491446,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">336</SimpleData>
+		<SimpleData name="Meter Number">1470236386</SimpleData>
+		<SimpleData name="Account Number">004037</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1760869014993,34.1639266821814,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>6 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">337</SimpleData>
+		<SimpleData name="Meter Number">1472034344</SimpleData>
+		<SimpleData name="Account Number">004038</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759628604652,34.1644021939445,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">338</SimpleData>
+		<SimpleData name="Meter Number">1470255890</SimpleData>
+		<SimpleData name="Account Number">004039</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1759004777283,34.164571324546,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>134 JON-KEN DR</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">339</SimpleData>
+		<SimpleData name="Meter Number">1482236636</SimpleData>
+		<SimpleData name="Account Number">004040</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1761120153844,34.1647677645759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">340</SimpleData>
+		<SimpleData name="Meter Number">1482513842</SimpleData>
+		<SimpleData name="Account Number">004041</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1761236955023,34.1647856276865,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">341</SimpleData>
+		<SimpleData name="Meter Number">1470233090</SimpleData>
+		<SimpleData name="Account Number">004042</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.176103231477,34.1645289910913,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">342</SimpleData>
+		<SimpleData name="Meter Number">1470235838</SimpleData>
+		<SimpleData name="Account Number">004043</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1761542652006,34.164261882681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>3 N STEPP RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">343</SimpleData>
+		<SimpleData name="Meter Number">1470253094</SimpleData>
+		<SimpleData name="Account Number">004044</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1763244200252,34.1638303150399,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>17 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">344</SimpleData>
+		<SimpleData name="Meter Number">1450197684</SimpleData>
+		<SimpleData name="Account Number">004045</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1764769452635,34.1635201586464,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>20 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">345</SimpleData>
+		<SimpleData name="Meter Number">1833017221</SimpleData>
+		<SimpleData name="Account Number">004046</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1753295714987,34.163159935382,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>23 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">346</SimpleData>
+		<SimpleData name="Meter Number">1450194698</SimpleData>
+		<SimpleData name="Account Number">004047</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1749870273782,34.1632929715115,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>25 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">347</SimpleData>
+		<SimpleData name="Meter Number">1482518186</SimpleData>
+		<SimpleData name="Account Number">004048</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1744985623746,34.1631742801105,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>22 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">348</SimpleData>
+		<SimpleData name="Meter Number">1832593489</SimpleData>
+		<SimpleData name="Account Number">004049</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1743297973962,34.1629363701151,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>24 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">349</SimpleData>
+		<SimpleData name="Meter Number">1472021274</SimpleData>
+		<SimpleData name="Account Number">004050</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1743262624992,34.1629355591649,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>27 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">350</SimpleData>
+		<SimpleData name="Meter Number">1450193702</SimpleData>
+		<SimpleData name="Account Number">004051</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1737862850402,34.163005222263,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>4 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">351</SimpleData>
+		<SimpleData name="Meter Number">1470233092</SimpleData>
+		<SimpleData name="Account Number">004053</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736785455268,34.1623174675951,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>5 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">352</SimpleData>
+		<SimpleData name="Meter Number">1832287277</SimpleData>
+		<SimpleData name="Account Number">109011</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1735201812122,34.1619400490641,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>7 LOT64 LITTLE BIG</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">353</SimpleData>
+		<SimpleData name="Meter Number">1450194762</SimpleData>
+		<SimpleData name="Account Number">105087</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734874354791,34.1615222835338,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>8 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">354</SimpleData>
+		<SimpleData name="Meter Number">1831877095</SimpleData>
+		<SimpleData name="Account Number">004054</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736404637603,34.1614530920757,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>9 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">355</SimpleData>
+		<SimpleData name="Meter Number">1450193032</SimpleData>
+		<SimpleData name="Account Number">104021</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734703816535,34.1613407562026,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>13 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">356</SimpleData>
+		<SimpleData name="Meter Number">1450194766</SimpleData>
+		<SimpleData name="Account Number">105046</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734958362693,34.160650580806,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>14 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">357</SimpleData>
+		<SimpleData name="Meter Number">1832294802</SimpleData>
+		<SimpleData name="Account Number">004055</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1736740931083,34.1610888644871,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>11 LITTLE BIG RD</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">358</SimpleData>
+		<SimpleData name="Meter Number">1450197896</SimpleData>
+		<SimpleData name="Account Number">004056</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1734504078624,34.1609430806275,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>31 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">359</SimpleData>
+		<SimpleData name="Meter Number">1831874765</SimpleData>
+		<SimpleData name="Account Number">004057</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.173019138819,34.1629199674501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>33 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">360</SimpleData>
+		<SimpleData name="Meter Number">1450189428</SimpleData>
+		<SimpleData name="Account Number">004058</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1730154145853,34.162918019358,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>28 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">361</SimpleData>
+		<SimpleData name="Meter Number">1481614464</SimpleData>
+		<SimpleData name="Account Number">004059</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1727606418129,34.1627958064013,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>35 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">362</SimpleData>
+		<SimpleData name="Meter Number">1450194576</SimpleData>
+		<SimpleData name="Account Number">004060</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721438797948,34.1629742894318,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>37 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">363</SimpleData>
+		<SimpleData name="Meter Number">1450194704</SimpleData>
+		<SimpleData name="Account Number">004061</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1721413708136,34.1629723347807,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>30 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">364</SimpleData>
+		<SimpleData name="Meter Number">1450198136</SimpleData>
+		<SimpleData name="Account Number">004062</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1717246659822,34.1628098699922,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>32 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">365</SimpleData>
+		<SimpleData name="Meter Number">1450193028</SimpleData>
+		<SimpleData name="Account Number">004063</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1717187783874,34.1628045481759,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>39 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">366</SimpleData>
+		<SimpleData name="Meter Number">1831877156</SimpleData>
+		<SimpleData name="Account Number">004064</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1712833360654,34.162932923989,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>41 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">367</SimpleData>
+		<SimpleData name="Meter Number">1482520182</SimpleData>
+		<SimpleData name="Account Number">004065</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1712646728934,34.1629289506682,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>36 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">368</SimpleData>
+		<SimpleData name="Meter Number">1481713140</SimpleData>
+		<SimpleData name="Account Number">004066</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1708511449219,34.1627891913359,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>34 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">369</SimpleData>
+		<SimpleData name="Meter Number">1481712400</SimpleData>
+		<SimpleData name="Account Number">004067</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1708545872791,34.1627883806778,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>43 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">370</SimpleData>
+		<SimpleData name="Meter Number">1831877670</SimpleData>
+		<SimpleData name="Account Number">004068</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1704503313379,34.1629381952681,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>45 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">371</SimpleData>
+		<SimpleData name="Meter Number">1832294921</SimpleData>
+		<SimpleData name="Account Number">004069</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1704505604038,34.1629316828528,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>38 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">372</SimpleData>
+		<SimpleData name="Meter Number">1105278835</SimpleData>
+		<SimpleData name="Account Number">004070</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.170005938022,34.1627820657949,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>40 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">373</SimpleData>
+		<SimpleData name="Meter Number">1831848716</SimpleData>
+		<SimpleData name="Account Number">004071</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1700016229945,34.1627808882501,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>47 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">374</SimpleData>
+		<SimpleData name="Meter Number">1470235272</SimpleData>
+		<SimpleData name="Account Number">004072</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1696597502478,34.1629261199137,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>49 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">375</SimpleData>
+		<SimpleData name="Meter Number">1830679718</SimpleData>
+		<SimpleData name="Account Number">004073</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1696500696381,34.1629236817897,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>53 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">376</SimpleData>
+		<SimpleData name="Meter Number">1470231804</SimpleData>
+		<SimpleData name="Account Number">004074</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1689953161711,34.1625891020828,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>42 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">377</SimpleData>
+		<SimpleData name="Meter Number">1490996926</SimpleData>
+		<SimpleData name="Account Number">004075</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.169089945227,34.1624747099169,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>44 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">378</SimpleData>
+		<SimpleData name="Meter Number">1831648413</SimpleData>
+		<SimpleData name="Account Number">004076</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1690902793497,34.162468720508,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>55 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">379</SimpleData>
+		<SimpleData name="Meter Number">1450197696</SimpleData>
+		<SimpleData name="Account Number">004077</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1684867646777,34.1621320197053,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>57 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">380</SimpleData>
+		<SimpleData name="Meter Number">1450197560</SimpleData>
+		<SimpleData name="Account Number">004078</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1684852352297,34.1621248853372,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>46 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">381</SimpleData>
+		<SimpleData name="Meter Number">1831872250</SimpleData>
+		<SimpleData name="Account Number">004079</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1684723173888,34.1618330169451,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>48 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">382</SimpleData>
+		<SimpleData name="Meter Number">1470217228</SimpleData>
+		<SimpleData name="Account Number">004080</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1684846651057,34.1618312912036,0</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>59 LAKEVIEW DR SE</name>
+	<ExtendedData><SchemaData schemaUrl="#Route_22">
+		<SimpleData name="fid">383</SimpleData>
+		<SimpleData name="Meter Number">1450189430</SimpleData>
+		<SimpleData name="Account Number">004081</SimpleData>
+		<SimpleData name="Route">22</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-85.1682430327245,34.1618242117088,0</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
